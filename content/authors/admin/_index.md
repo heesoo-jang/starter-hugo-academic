@@ -1,39 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Heesoo Jang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: UNC-Chapel Hill
+  url: https://www.unc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research addresses the multifaceted impacts of AI systems on people and society. I use a diverse set of methodologies —including both qualitative and quantitative methods— to study the societal impacts of AI.
 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Digital Platforms
+- Mixed Method
+- Computational Grounded Theory
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Communication
+    institution: University of North Carolina at Chapel Hill, USA
+    year: 2023 (expected)
+  - course: M.A. in Communication
+    institution: Seoul National University, South Korea
+    year: 2018
+  - course: B.A. in Media and Mass Communication
+    institution: Korea University, South Korea
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,33 +46,46 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://twitter.com/HeesooJang2
 
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+ 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: uploads/resume.pdf
+  
+# - icon_pack: fas
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
+# - icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hi! I'm a Ph.D. student at the [Hussman School of Journalism and Media](http://hussman.unc.edu/), Univeristy of North Carolina at Chapel Hill. My advisor is [Dr. Shannon McGregor](http://www.shannoncmcgregor.com/). I'm also currently affiliated with the [Center for Information Technology, and Public Life (CITAP)](https://citap.unc.edu/). 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+My research addresses the multifaceted impacts of AI systems on people and society. I use a diverse set of methodologies ---including both qualitative and quantitative methods--- to study the societal impacts of AI. 
+
+### 👉 News
+- August 2021 - Presented a poster titled "Computational Communication Science through Keywords" at [PaCSS 2021](https://cssh.northeastern.edu/nulab/pacss/2021-posters/)
+- August 2021 - Presented a full paper "Intimacy and Connections: Celebrity Culture in Indian and South Korean Television Shows" with co-author [Madhavi Reddi](https://www.madhavireddi.com/) at AEJMC 2021
+- May 2021 - Presented a full paper "TikTok: Motivations and Privacy Concerns" at ICA 2021
+- August 2020 - I started working for [Dr. Shannon McGregor](http://www.shannoncmcgregor.com/) as her GRA on a couple of projects that handle news and social media data
+- May 2020 - I started working for [Dr. Allison Lazard](https://www.allisonlazard.com/) on a grant-funded project studying the impacts of waterpipe marketing on young adults
+- Aug 2019 - I moved to Chapel Hill, NC! Started my first year of Ph.D. under the supervision of [Dr. Daniel Riffe](https://scholar.google.com/citations?user=YBwIDHMAAAAJ).
+
+<!---{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.--->
