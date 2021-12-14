@@ -96,9 +96,9 @@ experience:
 
 design:
   columns: '2'
-  background:
-    color: ''
-    text_color_light: True
+#  background:
+#    color: ''
+#    text_color_light: True
 
 advanced:
   css_class: 'linkcolor'
