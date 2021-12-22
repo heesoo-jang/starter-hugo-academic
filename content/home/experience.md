@@ -44,7 +44,7 @@ experience:
     date_end: '2021-08-31'
     description: |2-
         Grant 
-        * 2019-2022 National Cancer Institute/Food and Drug Administration R01CA239192. "Evaluating the Impact of Waterpipe Marketing Claims on Young Adults." PI: Erin Sutfin. $1,311,866. Role: Co-Investigator.
+        * 2019-2022 National Cancer Institute/Food and Drug Administration R01CA239192. "Evaluating the Impact of Waterpipe Marketing Claims on Young Adults." PI: Erin Sutfin. $1,311,866.
 
         Supervisor 
         * Dr. Allison Lazard
