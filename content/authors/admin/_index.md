@@ -80,6 +80,8 @@ Hi! I'm a Ph.D. student at the [Hussman School of Journalism and Media](http://h
 
 My research addresses the multifaceted impacts of AI systems on people and society. I use a diverse set of methodologies ---including both qualitative and quantitative methods--- to study the societal impacts of AI. 
 
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "CV_heesoojang_may24.pdf" "newtab" >}}CV{{< /staticref >}}
+
 ### 👉 News
 - August 2021 - I presented a poster titled "Computational Communication Science through Keywords" at [PaCSS 2021](https://cssh.northeastern.edu/nulab/pacss/2021-posters/)
 - August 2021 - I presented a full paper titled "Intimacy and Connections: Celebrity Culture in Indian and South Korean Television Shows" with my co-author [Madhavi Reddi](https://www.madhavireddi.com/) at [AEJMC 2021](https://aejmc.org/events/virtual21/)
@@ -88,5 +90,3 @@ My research addresses the multifaceted impacts of AI systems on people and socie
 - May 2020 - I presented an extended abstract titled "“When a robot journalist is a specialist, is it more credible?” at [ICA 2020](https://www.icahdq.org/page/2020CFP)
 - May 2020 - I started working for [Dr. Allison Lazard](https://www.allisonlazard.com/) on a grant-funded project studying the impacts of waterpipe marketing on young adults
 - Aug 2019 - I moved to Chapel Hill, NC! Started my first year of Ph.D. under the supervision of [Dr. Daniel Riffe](https://scholar.google.com/citations?user=YBwIDHMAAAAJ).
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "CV_heesoojang_may24.pdf" "newtab" >}}CV{{< /staticref >}}
