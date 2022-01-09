@@ -80,7 +80,7 @@ Hi! I'm a Ph.D. student at the [Hussman School of Journalism and Media](http://h
 
 My research addresses the multifaceted impacts of AI systems on people and society. I use a diverse set of methodologies ---including both qualitative and quantitative methods--- to study the societal impacts of AI. 
 
-Download my [CV](https://drive.google.com/file/d/1-gPoTem-OT49IDk6bS4WBJ9ilTStLhQe/view?usp=sharing)
+Download my [CV](https://drive.google.com/file/d/1AseABf8SXp32F-8meVFYr5okzXXGVAyI/view?usp=sharing)
 
 ### 👉 News
 - August 2021 - I presented a poster titled "Computational Communication Science through Keywords" at [PaCSS 2021](https://cssh.northeastern.edu/nulab/pacss/2021-posters/)
