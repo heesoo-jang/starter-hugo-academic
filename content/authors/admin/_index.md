@@ -99,4 +99,3 @@ Can't wait to talk more about our theoretical model and case study at ICA!
 - May 2020 - I started working for [Dr. Allison Lazard](https://www.allisonlazard.com/) on a grant-funded project studying the impacts of waterpipe marketing on young adults
 - Aug 2019 - I moved to Chapel Hill, NC! Started my first year of Ph.D. under the supervision of [Dr. Daniel Riffe](https://scholar.google.com/citations?user=YBwIDHMAAAAJ).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "CV-01082022-heesoojang.pdf" "newtab" >}}CV{{< /staticref >}}
