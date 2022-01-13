@@ -83,8 +83,8 @@ My research addresses the multifaceted impacts of AI systems on people and socie
 Download my [CV](https://drive.google.com/file/d/1AseABf8SXp32F-8meVFYr5okzXXGVAyI/view?usp=sharing)
 
 ### 👉 News
-- May 2021 (expected) - I'll be presenting a full paper titled "A co-oriented crisis communication model for an AI scansis: A Case of Chatbot, Lee-Luda" with my co-author [Dr. Suman Lee](http://hussman.unc.edu/news/research-conversations-associate-professor-suman-lee) at [ICA 2022](https://www.icahdq.org/page/ICA2022), [PR division](https://twitter.com/ica_prd). Fingers-crossed for seeing y'all in Paris! 🗼🥐🇫🇷🥖🌆❤️ 
-Why did AI company ScatterLab fail in their crisis communication regarding their AI chatbot incident? We propose a co-oriented crisis communication model to analyze the case, and our study shows that the organization’s inaccurate understanding of the public’s perception of the crisis led to moral outrage, scandalizing the crisis into a scansis. 
+- May 2021 (expected) - I'll be presenting a full paper titled "A co-oriented crisis communication model for an AI scansis: A Case of Chatbot, Lee-Luda" with my co-author [Dr. Suman Lee](http://hussman.unc.edu/news/research-conversations-associate-professor-suman-lee) at [ICA 2022](https://www.icahdq.org/page/ICA2022), [PR division](https://twitter.com/ica_prd). Fingers-crossed for seeing y'all in Paris! 🗼🥐🇫🇷🥖🌆❤️ \\
+Why did AI company ScatterLab fail in their crisis communication regarding their AI chatbot incident? We propose a co-oriented crisis communication model to analyze the case, and our study shows that the organization’s inaccurate understanding of the public’s perception of the crisis led to moral outrage, scandalizing the crisis into a scansis. \\
 Can't wait to talk more about our theoretical model and case study at ICA!
 
 ### 👉 Now history
