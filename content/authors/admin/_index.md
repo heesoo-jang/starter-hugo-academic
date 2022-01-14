@@ -83,7 +83,7 @@ My research addresses the multifaceted impacts of AI systems on people and socie
 Download my [CV](https://drive.google.com/file/d/1AseABf8SXp32F-8meVFYr5okzXXGVAyI/view?usp=sharing)
 
 ### 👉 News
-- May 2021 (expected) - I'll be presenting a full paper titled "A co-oriented crisis communication model for an AI scansis: A Case of Chatbot, Lee-Luda" with my co-author [Dr. Suman Lee](http://hussman.unc.edu/news/research-conversations-associate-professor-suman-lee) at [ICA 2022](https://www.icahdq.org/page/ICA2022), [Public Relations Division Top Student Paper Panel](https://twitter.com/ica_prd). Fingers-crossed for seeing y'all in Paris! 🗼🥐🇫🇷🥖🌆❤️ Can't wait to talk more about our theoretical model and case study at ICA!
+- May 2021 (expected) - I'll be presenting a full paper titled "A co-oriented crisis communication model for an AI scansis: A Case of Chatbot, Lee-Luda" with my co-author [Dr. Suman Lee](http://hussman.unc.edu/news/research-conversations-associate-professor-suman-lee) at [ICA 2022](https://www.icahdq.org/page/ICA2022), [Public Relations Division Top Student Paper Panel](https://twitter.com/ica_prd). Fingers-crossed for seeing y'all in Paris! 🗼🥐🇫🇷🥖🌆❤️ Can't wait to discuss our theoretical model and case study with the audience at ICA!
 
 ### 👉 Now history
 - August 2021 - I presented a poster titled "Computational Communication Science through Keywords" at [PaCSS 2021](https://cssh.northeastern.edu/nulab/pacss/2021-posters/)
