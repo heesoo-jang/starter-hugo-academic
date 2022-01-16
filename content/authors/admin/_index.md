@@ -28,13 +28,13 @@ education:
   courses:
   - course: Ph.D. in Communication
     institution: University of North Carolina at Chapel Hill, USA
-    year: 2023 (expected)
+    year: May 2023 (expected)
   - course: M.A. in Communication
     institution: Seoul National University, South Korea
-    year: 2018
+    year: Aug 2018
   - course: B.A. in Media and Mass Communication
     institution: Korea University, South Korea
-    year: 2016
+    year: Feb 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
