@@ -76,7 +76,7 @@ highlight_name: true
 ---
 
 
-Hi! I'm a Ph.D. student at the [Hussman School of Journalism and Media](http://hussman.unc.edu/), Univeristy of North Carolina at Chapel Hill. My advisor is [Dr. Shannon McGregor](http://www.shannoncmcgregor.com/). I'm also currently affiliated with the [Center for Information Technology, and Public Life (CITAP)](https://citap.unc.edu/). 
+Hi! I'm a Ph.D. student at the [Hussman School of Journalism and Media](http://hussman.unc.edu/), Univeristy of North Carolina at Chapel Hill. My advisor is [Dr. Shannon McGregor](http://www.shannoncmcgregor.com/). I'm a [Royster fellow](https://gradschool.unc.edu/funding/gradschool/royster/) and a [Richard Cole Fellow](https://web.archive.org/web/20191118042438/http://hussman.unc.edu/phd/cost-and-funding), and I'm also currently affiliated with the [Center for Information Technology, and Public Life (CITAP)](https://citap.unc.edu/).
 
 My research addresses the multifaceted impacts of AI systems on people and society. I use a diverse set of methodologies ---including both qualitative and quantitative methods--- to study the societal impacts of AI. 
 
