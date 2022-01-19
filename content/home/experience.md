@@ -10,8 +10,8 @@ widget: experience
 weight: 40
 css_class: 'linkcolor'
 
-title: Research Experience
-subtitle:
+title: Experience
+subtitle: Teaching & Research
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -22,8 +22,18 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
+experience: 
 
+    - title: Instructor of record
+    company: University of North Carolina at Chapel Hill
+    company_url: ''
+    company_logo: ''
+    location: North Carolina, USA
+    date_start: '2020-08-18'
+    date_end: ''
+    description: |2-
+        MEJO141 Media Ethics
+        
   - title: Graduate Research assistant
     company: University of North Carolina at Chapel Hill
     company_url: ''
@@ -93,6 +103,38 @@ experience:
         
         Supervisor 
         * Dr. Jungae Yang
+
+  - title: Lecturer
+    company: GENII English Reporter Camp
+    company_url: ''
+    company_logo: ''
+    location: Seoul, South Korea
+    date_start: '2016-09-01'
+    date_end: '2017-06-30'
+    description: |2-  
+        Designed a 2-day news literacy curriculum for 5th & 6th grades and provided lectures about news reporting
+
+  - title: Graduate Teaching Assistant
+    company: Seoul National University
+    company_url: ''
+    company_logo: ''
+    location: Seoul, South Korea
+    date_start: '2016-09-01'
+    date_end: '2017-06-30'
+    description: |2-  
+        Media Industry and Policy (undergraduate)
+        Communication Theory (undergraduate)
+        Media, Culture, and Art Seminar (undergraduate)
+
+  - title: Teaching Assistant
+    company: Howon University
+    company_url: ''
+    company_logo: ''
+    location: Seoul, South Korea
+    date_start: '2014-09-01'
+    date_end: '2014-12-20'
+    description: |2-  
+        Intermediate Film Production (undergraduate)
 
 design:
   columns: '2'

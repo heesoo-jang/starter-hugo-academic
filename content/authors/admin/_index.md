@@ -47,16 +47,18 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/HeesooJang2
+- icon: cv
+   icon_pack: ai
+   link: cv-01082022-heesoojang.pdf
 
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
  
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-  
+
+# Download my [CV](https://drive.google.com/file/d/1AseABf8SXp32F-8meVFYr5okzXXGVAyI/view?usp=sharing)
+
 # - icon_pack: fas
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 # - icon: github
@@ -80,7 +82,7 @@ Hi! I'm a Ph.D. student at the [Hussman School of Journalism and Media](http://h
 
 My research addresses the multifaceted impacts of AI systems on people and society. I use a diverse set of methodologies ---including both qualitative and quantitative methods--- to study the societal impacts of AI. 
 
-Download my [CV](https://drive.google.com/file/d/1AseABf8SXp32F-8meVFYr5okzXXGVAyI/view?usp=sharing)
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-01082022-heesoojang.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 ### 👉 News
 - May 2021 (expected) - I'll be presenting a full paper titled "A co-oriented crisis communication model for an AI scansis: A Case of Chatbot, Lee-Luda" with my co-author [Dr. Suman Lee](http://hussman.unc.edu/news/research-conversations-associate-professor-suman-lee) at [ICA 2022](https://www.icahdq.org/page/ICA2022), [Public Relations Division Top Student Paper Panel](https://twitter.com/ica_prd). Fingers-crossed for seeing y'all in Paris! 🗼🥐🇫🇷🥖🌆❤️ Can't wait to discuss our theoretical model and case study with the audience at ICA!
