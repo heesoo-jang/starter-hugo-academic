@@ -86,14 +86,4 @@ My research addresses the multifaceted impacts of AI systems on people and socie
 
 ### 👉 News
 - May 2021 (expected) - I'll be presenting a full paper titled "A co-oriented crisis communication model for an AI scansis: A Case of Chatbot, Lee-Luda" with my co-author [Dr. Suman Lee](http://hussman.unc.edu/news/research-conversations-associate-professor-suman-lee) at [ICA 2022](https://www.icahdq.org/page/ICA2022), [Public Relations Division Top Student Paper Panel](https://twitter.com/ica_prd). Fingers-crossed for seeing y'all in Paris! 🗼🥐🇫🇷🥖🌆❤️ Can't wait to discuss our theoretical model and case study with the audience at ICA!
-
-### 👉 Now history
-- August 2021 - I presented a poster titled "Computational Communication Science through Keywords" at [PaCSS 2021](https://cssh.northeastern.edu/nulab/pacss/2021-posters/)
-- August 2021 - I presented a full paper titled "Intimacy and Connections: Celebrity Culture in Indian and South Korean Television Shows" with my co-author [Madhavi Reddi](https://www.madhavireddi.com/) at [AEJMC 2021](https://aejmc.org/events/virtual21/)
-- May 2021 - I presented a full paper titled "TikTok: Motivations and Privacy Concerns" at [ICA 2021](https://www.icahdq.org/page/ICA2021)
-- January 2021 - I published a [public piece on Slate](https://slate.com/technology/2021/04/scatterlab-lee-luda-chatbot-kakaotalk-ai-privacy.html) about the incident of South Korean Chatbot, Lee-Luda
-- August 2020 - I started working for [Dr. Shannon McGregor](http://www.shannoncmcgregor.com/) as her GRA on a couple of projects that handle news and social media data
-- May 2020 - I presented an extended abstract titled "“When a robot journalist is a specialist, is it more credible?” at [ICA 2020](https://www.icahdq.org/page/2020CFP)
-- May 2020 - I started working for [Dr. Allison Lazard](https://www.allisonlazard.com/) on a grant-funded project studying the impacts of waterpipe marketing on young adults
-- Aug 2019 - I moved to Chapel Hill, NC! Started my first year of Ph.D. under the supervision of [Dr. Daniel Riffe](https://scholar.google.com/citations?user=YBwIDHMAAAAJ).
-
+- If you want to learn more about the incident of South Korean Chatbot Lee-Luda, here's a [public piece🤖](https://slate.com/technology/2021/04/scatterlab-lee-luda-chatbot-kakaotalk-ai-privacy.html) I published on Slate last year. 
