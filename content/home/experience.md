@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience: 
 
-  - title: Instructor of record
+  - title: Instructor of Record
     company: University of North Carolina at Chapel Hill
     company_url: ''
     company_logo: ''
@@ -34,7 +34,7 @@ experience:
     description: |2-
         MEJO141 Media Ethics
         
-  - title: Graduate Research assistant
+  - title: Graduate Research Assistant
     company: University of North Carolina at Chapel Hill
     company_url: ''
     company_logo: ''
@@ -45,7 +45,7 @@ experience:
         Supervisor 
         * Dr. Shannon McGregor
 
-  - title: Graduate Research assistant
+  - title: Graduate Research Assistant
     company: University of North Carolina at Chapel Hill
     company_url: ''
     company_logo: ''
@@ -59,7 +59,7 @@ experience:
         Supervisor 
         * Dr. Allison Lazard
 
-  - title: Graduate Research assistant
+  - title: Graduate Research Assistant
     company: Institute of Communication Research, Seoul National University
     company_url: ''
     company_logo: ''
