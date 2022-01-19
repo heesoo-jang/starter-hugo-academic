@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience: 
 
-    - title: Instructor of record
+  - title: Instructor of record
     company: University of North Carolina at Chapel Hill
     company_url: ''
     company_logo: ''
