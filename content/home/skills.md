@@ -20,11 +20,7 @@ feature:
   icon: code
   icon_pack: fas
   name: Languages
-- description: SPSS, STATA
-  icon: sitemap
-  icon_pack: fas
-  name: Software
-- description: interview/focus-groups, textual analyses, grounded theory
+- description: interview/focus-group, textual analyses, grounded theory
   icon: folder-open
   icon_pack: fas
   name: Qualitative
