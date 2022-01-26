@@ -83,7 +83,7 @@ Hi! I'm a Ph.D. student at the [Hussman School of Journalism and Media](http://h
 
 I'm interested in the discourses, framing efforts, and ethical issues around AI technology and digital platforms. Through my research, I aim to address the multifaceted impacts of AI systems and digital platforms on people and society and their implications to democracy.
 
-I approach my research projects with ["social science salsa-dancing"](https://www.hup.harvard.edu/catalog.php?isbn=9780674048218), using a diverse set of qualitative and quantitative methods.
+I approach my research projects with ["social science salsa-dancing,"](https://www.hup.harvard.edu/catalog.php?isbn=9780674048218) using a diverse set of qualitative and quantitative methods.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-01082022-heesoojang.pdf" "newtab" >}}CV{{< /staticref >}}.
 
