@@ -1,23 +1,23 @@
 ---
-title: "An example conference paper"
+title: "A co-oriented crisis communication model for an AI scansis: A Case of Chatbot, Lee-Luda"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Robert Ford
+- Heesoo Jang
+- Suman Lee
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2022-01-27"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,13 +26,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: Will be presented at the *ICA 2022 Conference*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
+abstract: This study proposed an integrated co-oriented crisis communication model by incorporating the co-orientation model with the Situational Crisis Communication Theory (SCCT). By applying the proposed model to an AI crisis that happened to a South Korean AI company, ScatterLab, this study attempted to answer the research question on how incorporating co-orientation to SCCT can help us understand scandalized crisis, or scansis, when AI technology lies in the center of the crisis. Findings showed that, in the case of Scatterlab, the organization’s failure to accurately understand both the public’s perception of the crisis (2nd-level co-orientation) the discrepancy between the organization’s and the public’s perceptions (3rd-level co-orientation). Our study showed that the organization’s inaccurate understanding of the public’s perception of the crisis led to moral outrage, scandalizing the crisis into a scansis. We discuss why the nature of AI technology can complicate the assessment of accurate crisis type. This study contributes to SCCT literature, incorporated the SCCT framework with the co-orientation model further to explain scansis, a relatively new crisis type that was recently added to SCCT.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We propose a new model that explains the gap between how AI companies and the public understand organizational crises caused by AI systems. How dodes a crisis of an AI company become scandalized? We use the case of a South Korean AI company, Scatterlab, to answer this question. 
 
 tags: []
 
@@ -56,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
 
@@ -65,15 +65,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
