@@ -81,7 +81,7 @@ highlight_name: true
 
 Hi! I'm a Ph.D. student at the [Hussman School of Journalism and Media](http://hussman.unc.edu/), Univeristy of North Carolina at Chapel Hill. My advisor is [Dr. Shannon McGregor](http://www.shannoncmcgregor.com/). I'm a [Royster fellow](https://gradschool.unc.edu/funding/gradschool/royster/) and a [Richard Cole Fellow](https://web.archive.org/web/20191118042438/http://hussman.unc.edu/phd/cost-and-funding), and I'm also currently affiliated with the [Center for Information Technology, and Public Life (CITAP)](https://citap.unc.edu/). Before coming to UNC, I worked at [SNU FactCheck Center](https://factcheck.snu.ac.kr/home/about), the first and only fact-checking platform in South Korea.
 
-I'm interested in the discourses, framing efforts, and ethical issues around AI technology and digital platforms. Through my research, I aim to address the multifaceted impacts of AI systems and digital platforms on people and society and their implications to democracy.
+Through my research, I aim to address the multifaceted impacts of AI systems and digital platforms on people and society. More specifically, I study the discourses, framing efforts, and ethical issues around AI technology and digital platforms. I am passionate about my research because of its implications for democracy.
 
 I approach my research projects with ["social science salsa-dancing,"](https://www.hup.harvard.edu/catalog.php?isbn=9780674048218) using a diverse set of qualitative and quantitative methods.
 
