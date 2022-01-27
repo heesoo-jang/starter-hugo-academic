@@ -50,7 +50,7 @@ social:
   link: https://twitter.com/HeesooJang2
 - icon: cv
   icon_pack: ai
-  link: uploads/cv-01082022-heesoojang.pdf
+  link: uploads/cv-heesoojang-01262022.pdf
 
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
  
