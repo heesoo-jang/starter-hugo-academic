@@ -85,7 +85,7 @@ Through my research, I aim to address the multifaceted impacts of AI systems and
 
 I approach my research projects with ["social science salsa-dancing,"](https://www.hup.harvard.edu/catalog.php?isbn=9780674048218) using a diverse set of qualitative and quantitative methods.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-01082022-heesoojang.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-heesoojang-01262022.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 ### 👉 News
 - May 2022 (expected) - I'll be presenting a full paper titled "A co-oriented crisis communication model for an AI scansis: A Case of Chatbot, Lee-Luda" with my co-author [Dr. Suman Lee](http://hussman.unc.edu/news/research-conversations-associate-professor-suman-lee) at [ICA 2022](https://www.icahdq.org/page/ICA2022), [Public Relations Division Top Student Paper Panel](https://twitter.com/ica_prd). Fingers-crossed for seeing y'all in Paris! 🗼🥐🇫🇷🥖🌆❤️ Can't wait to discuss our theoretical model and case study with the audience at ICA!
