@@ -29,7 +29,7 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
+- name: design
   url: http://example.org
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
