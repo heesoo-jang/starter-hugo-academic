@@ -20,11 +20,11 @@ feature:
   icon: code
   icon_pack: fas
   name: Languages
-- description: interview/focus-group, textual analyses, grounded theory
+- description: interview/focus-group, textual analysis, grounded theory
   icon: folder-open
   icon_pack: fas
   name: Qualitative
-- description: survey, experiment, statistical analyses
+- description: survey, experiment, content analysis, statistical analyses
   icon: folder-open
   icon_pack: fas
   name: Quantitative
