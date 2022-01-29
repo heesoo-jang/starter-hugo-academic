@@ -16,15 +16,16 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: R, Python, SQL
+- description: R, Python, SQL | SPSS, STATA, Qualtrics, MTurk
   icon: code
   icon_pack: fas
-  name: Languages
+  name: Languages & Software
+
 - description: interview/focus-group, textual analysis, grounded theory
   icon: folder-open
   icon_pack: fas
   name: Qualitative
-- description: survey, experiment, content analysis, statistical analyses
+- description: survey, experiment, content analysis, statistical analysis
   icon: folder-open
   icon_pack: fas
   name: Quantitative
