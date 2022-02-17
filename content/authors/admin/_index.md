@@ -50,7 +50,7 @@ social:
   link: https://twitter.com/HeesooJang2
 - icon: cv
   icon_pack: ai
-  link: uploads/cv-heesoojang-02162022.pdf
+  link: uploads/cv-heesoojang-02172022.pdf
 
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
  
@@ -85,7 +85,7 @@ Through my research, I aim to address the multifaceted impacts of AI systems and
 
 I approach my research with a ["social science salsa-dancing,"](https://www.hup.harvard.edu/catalog.php?isbn=9780674048218) perspective, using a diverse set of computational, quantitative, and qualitative methods.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-heesoojang-02162022.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-heesoojang-02172022.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 ### 👉 News
 - Feb 2022 - Very excited🤩 to be invited to the Visiting International Scholars (VIS) Program at UNC-CH to give a [talk about AI in journalism and PR](https://www.heesoojang.com/talk/ai-needs-journalism-and-pr/)
