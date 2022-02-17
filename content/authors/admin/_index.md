@@ -88,5 +88,6 @@ I approach my research projects with ["social science salsa-dancing,"](https://w
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-heesoojang-02162022.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 ### 👉 News
+- Feb 2022 - So honored to be invited to the Visiting International Scholars (VIS) Program at UNC-CH to give a [talk about AI in journalism and PR](https://www.heesoojang.com/talk/ai-needs-journalism-and-pr/)
 - May 2022 (expected) - I'll be presenting a full paper titled ["A co-oriented crisis communication model for an AI scansis: A Case of Chatbot, Lee-Luda"](https://www.heesoojang.com/publication/example/) with my co-author [Dr. Suman Lee](http://hussman.unc.edu/news/research-conversations-associate-professor-suman-lee) at [ICA 2022](https://www.icahdq.org/page/ICA2022), [Public Relations Division Top Student Paper Panel](https://twitter.com/ica_prd). Fingers-crossed for seeing y'all in Paris! 🗼🥐🇫🇷🥖🌆❤️ Can't wait to discuss our theoretical model and case study with the audience at ICA!
 - If you want to learn more about the incident of the South Korean Chatbot, Lee-Luda, here's a [public piece🤖](https://slate.com/technology/2021/04/scatterlab-lee-luda-chatbot-kakaotalk-ai-privacy.html) I published on Slate last year. 
