@@ -21,14 +21,15 @@ feature:
   icon_pack: fas
   name: Languages & Software
 
-- description: interview/focus-group, textual analysis, grounded theory
-  icon: folder-open
-  icon_pack: fas
-  name: Qualitative
 - description: survey, experiment, content analysis, statistical analysis
   icon: folder-open
   icon_pack: fas
   name: Quantitative
+
+- description: interview/focus-group, textual analysis, grounded theory
+  icon: folder-open
+  icon_pack: fas
+  name: Qualitative
     
 
 # Uncomment to use emoji icons.
