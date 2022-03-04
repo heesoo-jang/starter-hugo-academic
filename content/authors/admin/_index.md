@@ -48,9 +48,13 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/HeesooJang2
+- icon: github
+  icon_pack: fab
+  link: https://github.com/heesoo-jang
 - icon: cv
   icon_pack: ai
   link: uploads/cv-heesoojang-02172022.pdf
+
 
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
  
@@ -62,9 +66,7 @@ social:
 
 # - icon_pack: fas
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-# - icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+
 # - icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/
