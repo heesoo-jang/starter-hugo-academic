@@ -50,7 +50,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://drive.google.com/file/d/1hO4UtP0D99aI71GJgduUjUGLizF4amb1/view?usp=sharing'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
