@@ -53,7 +53,7 @@ social:
   link: https://github.com/heesoo-jang
 - icon: cv
   icon_pack: ai
-  link: uploads/cv-heesoojang-03142022.pdf
+  link: uploads/cv-heesoojang-04102022.pdf
 
 
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -89,7 +89,7 @@ I approach my research with a ["social science salsa-dancing,"](https://www.hup.
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-heesoojang-03142022.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-heesoojang-04102022.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 ### 👉 News
 - April 2022 - I'll be presenting a position paper titled {The "Nth Room" case: transnational contexts in modern digital sex trafficking} at [CHI 2022 New Orleans🎷🎹❤️](https://chi2022.acm.org/), [Triangulating Race, Capital, and Technology Workshop](https://racecapitaltech.wordpress.com/)
