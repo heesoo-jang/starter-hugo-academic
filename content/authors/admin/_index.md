@@ -14,7 +14,7 @@ organizations:
   url: https://www.unc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm interested in the discourses, framing efforts, and ethical issues of AI technology and digital platforms. Through my research, I aim to address the multifaceted impacts of AI systems and digital platforms on people and society and their implications to democracy.
+bio: I'm enthusiastic about learning how people think and talk about technology and which factors influence them to do so. Through my research, I aim to address the multifaceted impacts of AI systems and digital platforms on people and society and their implications for democracy. More specifically, I look into the discourses, framing efforts, and ethical issues of AI technology and digital platforms. 
 
 # Interests to show in About widget
 interests:
@@ -81,15 +81,17 @@ highlight_name: true
 ---
 
 
-Hi! I'm a Ph.D. student at the [Hussman School of Journalism and Media](http://hussman.unc.edu/), Univeristy of North Carolina at Chapel Hill. My advisor is [Dr. Shannon McGregor](http://www.shannoncmcgregor.com/). I'm a [Royster fellow](https://gradschool.unc.edu/funding/gradschool/royster/) and a [Richard Cole Fellow](https://web.archive.org/web/20191118042438/http://hussman.unc.edu/phd/cost-and-funding), and I'm also currently affiliated with the [Center for Information Technology, and Public Life (CITAP)](https://citap.unc.edu/). Before coming to UNC, I worked at [SNU FactCheck Center](https://factcheck.snu.ac.kr/home/about), the first and only fact-checking platform in South Korea.
+Hi! I'm a Ph.D. student at the [Hussman School of Journalism and Media](http://hussman.unc.edu/), Univeristy of North Carolina at Chapel Hill. My advisor is [Dr. Shannon McGregor](http://www.shannoncmcgregor.com/). I'm a [Royster fellow](https://gradschool.unc.edu/funding/gradschool/royster/) and a [Richard Cole fellow](https://web.archive.org/web/20191118042438/http://hussman.unc.edu/phd/cost-and-funding), and I'm also currently affiliated with the [Center for Information Technology, and Public Life (CITAP)](https://citap.unc.edu/). Previously, I worked at [SNU FactCheck Center](https://factcheck.snu.ac.kr/home/about), the first and only fact-checking platform in South Korea.
 
 Through my research, I aim to address the multifaceted impacts of AI systems and digital platforms on people and society. More specifically, I study the discourses, framing efforts, and ethical issues around AI technology and digital platforms. I am passionate about my research because of its implications for democracy.
 
 I approach my research with a ["social science salsa-dancing,"](https://www.hup.harvard.edu/catalog.php?isbn=9780674048218) perspective, using a diverse set of computational, quantitative, and qualitative methods.
 
+
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-heesoojang-03142022.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 ### 👉 News
-- Feb 2022 - Very excited🤩 to be invited to the Visiting International Scholars (VIS) Program at UNC-CH to give a [talk about AI in journalism and PR](https://www.heesoojang.com/talk/ai-needs-journalism-and-pr/)
-- May 2022 (expected) - I'll be presenting a full paper titled ["A co-oriented crisis communication model for an AI scansis: A Case of Chatbot, Lee-Luda"](https://www.heesoojang.com/publication/example/) with my co-author [Dr. Suman Lee](http://hussman.unc.edu/news/research-conversations-associate-professor-suman-lee) at [ICA 2022](https://www.icahdq.org/page/ICA2022), [Public Relations Division Top Student Paper Panel](https://twitter.com/ica_prd). Fingers-crossed for seeing y'all in Paris! 🗼🥐🇫🇷🥖🌆❤️ Can't wait to discuss our theoretical model and case study with the audience at ICA!
-- If you want to learn more about the incident of the South Korean Chatbot, Lee-Luda, here's a [public piece🤖](https://slate.com/technology/2021/04/scatterlab-lee-luda-chatbot-kakaotalk-ai-privacy.html) I published on Slate last year. 
+- April 2022 - I'll be presenting a position paper titled {The "Nth Room" case: transnational contexts in modern digital sex trafficking} at [CHI 2022 New Orleans🎷🎹❤️](https://chi2022.acm.org/), [Triangulating Race, Capital, and Technology Workshop](https://racecapitaltech.wordpress.com/)
+
+- May 2022 - I'll be presenting a full paper titled [{A co-oriented crisis communication model for an AI scansis: A Case of Chatbot, Lee-Luda}](https://www.heesoojang.com/publication/example/) at [ICA 2022 Paris 🗼🥐🇫🇷🥖🌆❤️](https://www.icahdq.org/page/ICA2022), [Public Relations Division Top Student Paper Panel](https://twitter.com/ica_prd) 👉 Also check out my [Slate article🤖](https://slate.com/technology/2021/04/scatterlab-lee-luda-chatbot-kakaotalk-ai-privacy.html)
