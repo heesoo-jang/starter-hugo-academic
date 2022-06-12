@@ -92,6 +92,11 @@ I approach my research with a ["social science salsa-dancing,"](https://www.hup.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-heesoojang-04102022.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 ### 👉 News
-- April 2022 - I'll be presenting a position paper titled {The "Nth Room" case: transnational contexts in modern digital sex trafficking} at [CHI 2022 New Orleans🎷🎹❤️](https://chi2022.acm.org/), [Triangulating Race, Capital, and Technology Workshop](https://racecapitaltech.wordpress.com/)
 
-- May 2022 - I'll be presenting a full paper titled [{A co-oriented crisis communication model for an AI scansis: A Case of Chatbot, Lee-Luda}](https://www.heesoojang.com/publication/example/) at [ICA 2022 Paris 🗼🥐🇫🇷🥖🌆❤️](https://www.icahdq.org/page/ICA2022), [Public Relations Division Top Student Paper Panel](https://twitter.com/ica_prd) 👉 Also check out my [Slate article🤖](https://slate.com/technology/2021/04/scatterlab-lee-luda-chatbot-kakaotalk-ai-privacy.html)
+- August 2022 - I will be at [AEJMC 2022 Detroit](https://community.aejmc.org/conference/home), presenting a full paper about social media policy and Americans’ attribution of responsibility regarding online content. HUGE shout out to my coauthors, Bridget Barrett & Dr. Shannon McGregor!💖 
+
+- June 2022 - I'm in Seoul🇰🇷 and planning to participate in a couple of CRAFT sessions at [ACM FAcct 2022](https://facctconference.org/index.html)
+
+- May 2022 - I presented a full paper titled [{A co-oriented crisis communication model for an AI scansis: A Case of Chatbot, Lee-Luda}](https://www.heesoojang.com/publication/example/) at [ICA 2022 Paris 🗼🥐🇫🇷🥖🌆❤️](https://www.icahdq.org/page/ICA2022), [Public Relations Division Top Student Paper Panel](https://twitter.com/ica_prd) 👉 Also check out my [Slate article🤖](https://slate.com/technology/2021/04/scatterlab-lee-luda-chatbot-kakaotalk-ai-privacy.html)
+
+- April 2022 - I presented a position paper titled {The "Nth Room" case: transnational contexts in modern digital sex trafficking} at [CHI 2022 New Orleans🎷🎹❤️](https://chi2022.acm.org/), [Triangulating Race, Capital, and Technology Workshop](https://racecapitaltech.wordpress.com/)
