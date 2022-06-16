@@ -18,22 +18,23 @@ bio: I'm enthusiastic about learning how people think and talk about technology 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Digital Platforms
-- Discourse
-- Framing
-- Ethics
+- Computational Social Science
+- Artificial Intelligence & Digital Platforms
+- Politics, Power, & Ethics
 
 # Education to show in About widget
 education:
   courses:
   - course: Ph.D. in Communication
     institution: University of North Carolina at Chapel Hill, USA
-    year: 2023 (expected)
+    year: 2024 (expected)
   - course: M.A. in Communication
     institution: Seoul National University, South Korea
     year: 2018
   - course: B.A. in Media and Mass Communication
+    institution: Korea University, South Korea
+    year: 2016
+  - course: B.S. in Business Administration
     institution: Korea University, South Korea
     year: 2016
 
