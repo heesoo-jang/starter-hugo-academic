@@ -87,13 +87,13 @@ highlight_name: true
 Hi! I'm a Ph.D. student at the [Hussman School of Journalism and Media](http://hussman.unc.edu/), Univeristy of North Carolina at Chapel Hill. My advisor is [Dr. Shannon McGregor](http://www.shannoncmcgregor.com/). I'm a [Royster fellow](https://gradschool.unc.edu/funding/gradschool/royster/) and a [Richard Cole fellow](https://web.archive.org/web/20191118042438/http://hussman.unc.edu/phd/cost-and-funding), and I'm also currently affiliated with the [Center for Information Technology, and Public Life (CITAP)](https://citap.unc.edu/). Previously, I worked at [SNU FactCheck Center](https://factcheck.snu.ac.kr/home/about), the first and only fact-checking platform in South Korea.
 
 ### 👉 My Research
-I study the <b>multifaceted impacts of AI systems and digital platforms</b> on people and society. I am passionate about my research because of its implications for justice and democracy. Here are the projects I'm currently working on:
+I study the <b>multifaceted impacts of AI systems and digital platforms</b> on people and society. I am passionate about my research because of its implications for justice and democracy. I'm a communication scholar by training, and I believe how we communicate impacts and harms matter a lot. Here are the projects I'm currently working on:
 - Public discourses of ethical issues around AI systems (dissertation project)
 - Public opinon of platform governance
 - Harms and biases of AI systems
 - Digital harms of transnational platform ecosystems
 
-I approach my research with a ["social science salsa-dancing,"](https://www.hup.harvard.edu/catalog.php?isbn=9780674048218) perspective, using a diverse set of computational, quantitative, and qualitative methods.
+I approach my research with a ["social science salsa-dancing,"](https://www.hup.harvard.edu/catalog.php?isbn=9780674048218) perspective, using a diverse set of computational, quantitative, and qualitative methods. 
 
 
 
