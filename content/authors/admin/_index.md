@@ -107,4 +107,4 @@ I approach my research with a ["social science salsa-dancing,"](https://www.hup.
 
 - <b>"AI chatbot systems can harm users in several ways"</b> Check out my <b>op-ed piece</b> on Slate🤖 ["A South Korean Chatbot Shows Just How Sloppy Tech Companies Can Be With User Data"](https://slate.com/technology/2021/04/scatterlab-lee-luda-chatbot-kakaotalk-ai-privacy.html)
 
-- <b>"Transnational platform ecosystems harm children and women outside the West. Do you want to know how?"</b> @[ACM CHI 2022 New Orleans🎷🎹❤️](https://chi2022.acm.org/), [Triangulating Race, Capital, and Technology Workshop](https://racecapitaltech.wordpress.com/)
+- <b>"Transnational platform ecosystems harm children and women outside the West. Here's how"</b> @[ACM CHI 2022 New Orleans🎷🎹❤️](https://chi2022.acm.org/), [Triangulating Race, Capital, and Technology Workshop](https://racecapitaltech.wordpress.com/)
