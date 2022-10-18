@@ -56,7 +56,7 @@ social:
   link: https://github.com/heesoo-jang
 - icon: cv
   icon_pack: ai
-  link: uploads/cv-heesoojang-06302022.pdf
+  link: uploads/cv-heesoojang-10172022.pdf
 
 
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -84,12 +84,12 @@ highlight_name: true
 ---
 
 
-Hi! I'm a Ph.D. student at the [Hussman School of Journalism and Media](http://hussman.unc.edu/), Univeristy of North Carolina at Chapel Hill. My advisor is [Dr. Shannon McGregor](http://www.shannoncmcgregor.com/). I'm a [Royster fellow](https://gradschool.unc.edu/funding/gradschool/royster/) and a [Richard Cole fellow](https://web.archive.org/web/20191118042438/http://hussman.unc.edu/phd/cost-and-funding), and I'm also currently affiliated with the [Center for Information Technology, and Public Life (CITAP)](https://citap.unc.edu/). Previously, I worked at [SNU FactCheck Center](https://factcheck.snu.ac.kr/home/about), the first and only fact-checking platform in South Korea.
+Hi! I'm a [Royster fellow](https://gradschool.unc.edu/funding/gradschool/royster/) and a [Richard Cole fellow](https://web.archive.org/web/20191118042438/http://hussman.unc.edu/phd/cost-and-funding) at the [Hussman School of Journalism and Media](http://hussman.unc.edu/), Univeristy of North Carolina at Chapel Hill. My advisor is [Dr. Shannon McGregor](http://www.shannoncmcgregor.com/). I'm also currently affiliated with the [Center for Information Technology, and Public Life (CITAP)](https://citap.unc.edu/), where I am currently working as the policy graduate assistant. Previously, I worked at [SNU FactCheck Center](https://factcheck.snu.ac.kr/home/about), the first and only fact-checking platform in South Korea.
 
 ### 👉 My Research
 I study the <b>multifaceted impacts of AI systems and digital platforms</b> on people and society. I am passionate about my research because of its implications for justice and democracy. I'm a communication scholar by training, and I believe <b>how we communicate impacts and harms matters a lot</b>. Here are the projects I'm currently working on:
 - Public discourses of ethical issues around AI systems (dissertation project)
-- Public opinon of platform governance
+- Public opinion of platform governance
 - Harms and biases of AI systems
 - Digital harms of transnational platform ecosystems
 
@@ -97,7 +97,7 @@ I approach my research with a ["social science salsa-dancing,"](https://www.hup.
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-heesoojang-06302022.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-heesoojang-10172022.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 ### 👉 Recent appearances
 
