@@ -56,7 +56,7 @@ social:
   link: https://github.com/heesoo-jang
 - icon: cv
   icon_pack: ai
-  link: uploads/cv-heesoojang-10172022.pdf
+  link: uploads/cv-HeesooJang-10282022-forweb.pdf
 
 
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -97,7 +97,7 @@ I approach my research with a ["social science salsa-dancing,"](https://www.hup.
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-heesoojang-10172022.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-HeesooJang-10282022-forweb.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 ### 👉 Recent appearances
 
