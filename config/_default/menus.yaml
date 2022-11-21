@@ -10,12 +10,12 @@ main:
   - name: skills
     url: '#skills'
     weight: 20
-  - name: Publications
+  - name: Research
     url: '#featured'
     weight: 50
-#  - name: Courses
-#    url: courses/
-#    weight: 60
+  - name: talks
+    url: '#talks'
+    weight: 60
 #  - name: Contact
 #    url: '#contact'
 #    weight: 70
