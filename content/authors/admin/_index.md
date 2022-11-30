@@ -36,9 +36,6 @@ education:
   - course: B.A. in Media and Mass Communication
     institution: Korea University, South Korea
     year: 2016
-  - course: B.S. in Business Administration
-    institution: Korea University, South Korea
-    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -100,6 +97,9 @@ I approach my research with a ["social science salsa-dancing,"](https://www.hup.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-HeesooJang-10282022-forweb.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 ### 👉 Recent appearances
+- <b>"How are AI biases and harms reported and understood by their developers?"</b> @ Hussman School of Journalism and Media Junck Colloquium Speaker series (Dr. Nneka Logan) student panel🍁 collaborated project with Jaemin Cho 
+
+- <b>"Transnational platform ecosystems harm children and women outside the West. Here's how"</b> Check out my <b>op-ed piece</b> on Tech Policy Press ["Tech Companies Sit on Sidelines While Korean Children Are Drawn Into Digital Sex Trafficking"](https://techpolicy.press/tech-companies-sit-on-sidelines-while-korean-children-are-drawn-into-digital-sex-trafficking/) Also presented @[ACM CHI 2022 New Orleans🎷🎹❤️](https://chi2022.acm.org/), [Triangulating Race, Capital, and Technology Workshop](https://racecapitaltech.wordpress.com/) 
 
 - <b>"Who should be responsible for governing online content?"</b> @ [AEJMC22 Detroit🏁🚗](https://community.aejmc.org/conference/home) HUGE shout out to my coauthors, Bridget Barrett & Dr. Shannon McGregor!💖 
 
@@ -107,4 +107,4 @@ I approach my research with a ["social science salsa-dancing,"](https://www.hup.
 
 - <b>"AI chatbot systems can harm users in several ways"</b> Check out my <b>op-ed piece</b> on Slate🤖 ["A South Korean Chatbot Shows Just How Sloppy Tech Companies Can Be With User Data"](https://slate.com/technology/2021/04/scatterlab-lee-luda-chatbot-kakaotalk-ai-privacy.html)
 
-- <b>"Transnational platform ecosystems harm children and women outside the West. Here's how"</b> @[ACM CHI 2022 New Orleans🎷🎹❤️](https://chi2022.acm.org/), [Triangulating Race, Capital, and Technology Workshop](https://racecapitaltech.wordpress.com/)
+
