@@ -27,7 +27,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Presented at the *AEJMC 2021 Conference*
+publication: Presented at the *AEJMC 2022 Conference Political Communication Division*
 
 
 abstract: While government regulators, the press, and academics struggle to determine who should be responsible for content on social media platforms, little is known about what the public believes on these issues. In this study, we investigate what drives Americans’ opinions on whether the government, platforms, or individual users should be responsible for social media content. Using data from a nationally representative survey of over 10,000 Americans, we investigate how anti-establishment attitudes relate to who Americans believe should be responsible for content on social media. We also examine the role of beliefs in the government’s role in the market, free speech beliefs, and beliefs in individualism in this context. Among other findings, we show how anti-establishment beliefs and beliefs in individualism may drive people to put the onus on individual users to bear the responsibility for online content. Theoretically, our study contributes to the ongoing discussion in sociology and political science that partisanship alone is not sufficient for explaining American public opinion. Practically, this study contributes to the ongoing public discussion around content moderation and related policies. 
