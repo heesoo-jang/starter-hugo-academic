@@ -7,10 +7,10 @@ main:
   - name: About
     url: '#about'
     weight: 10
-  - name: skills
+  - name: Skills
     url: '#skills'
     weight: 20
-  - name: talks
+  - name: Talks
     url: '#talks'
     weight: 50
   - name: Research
