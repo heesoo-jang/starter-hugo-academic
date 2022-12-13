@@ -1,19 +1,18 @@
 ---
-title: "A co-oriented crisis communication model for an AI scansis: A Case of Chatbot, Lee-Luda"
+title: "TikTok: Motivations, Privacy Concerns, and Privacy Behaviors"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Heesoo Jang
-- Suman Lee
 
 # Author notes (optional)
 # author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2022-01-27"
+date: "2021-05-27"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,13 +25,13 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Presented at the *ICA 2022 Conference*
+publication: Presented at the *ICA 2021 Conference*
 
 
-abstract: This study proposed an integrated co-oriented crisis communication model by incorporating the co-orientation model with the Situational Crisis Communication Theory (SCCT). By applying the proposed model to a crisis that happened to a South Korean AI company, Scatter Lab, this study attempted to answer the research question on how incorporating co-orientation to SCCT can help us understand a scandalized crisis, or scansis, when AI technology lies in the center of the crisis (defined in this paper as an AI crisis). Our findings showed that, in the case of Scatter Lab, the organization’s failure to accurately understand both the public’s perception of the crisis (2nd-level co-orientation) the discrepancy between the organization’s and the public’s perceptions (3rd-level co-orientation). In other words, the organization’s inaccurate understanding of the public’s perception of the crisis led to moral outrage, scandalizing the crisis into a scansis. We discuss why the nature of AI technology can complicate the assessment of accurate crisis type. This study contributes to SCCT literature, incorporating the SCCT framework with the co-orientation model further to explain scansis, a relatively new crisis type that was recently added to SCCT.
+abstract: This study attempted to understand the different motivations, privacy concern levels, and privacy behaviors among different types of users and non-users of Tik Tok. Including active users, silent users, former users, and non-users, data were collected through an online survey of 266 respondents. The results revealed significant differences in motivations for using Tik Tok between active and silent users. Discrepancies existed between Tik Tok non-users’ perceptions of the users’ motivations and the actual motivations of users. Non-users of Tik Tok were more concerned about both online privacy in general and the privacy risks of Tik Tok compared to active users of Tik Tok. Results also showed that silent users are closer to former users in terms of their motivations for using Tik Tok, but their privacy risk perceptions of Tik Tok are closer to those of active users. This study is the first to examine differences in motivations, privacy concern levels, and privacy behaviors among different types of users and non-users of Tik Tok.
 
 # Summary. An optional shortened abstract.
-summary: We propose a new model that explains the gap between how AI companies and the public understand organizational crises caused by AI systems. How does a crisis of an AI company become scandalized? We use the case of a South Korean AI company, Scatterlab, to answer this question. 
+summary: I conducted an online survey to understand the different motivations, privacy concern levels, and privacy behaviors among different types of users and non-users of Tik Tok. Including active users, silent users, former users, and non-users, data were collected through an online survey of 266 respondents. 
 
 tags: []
 
