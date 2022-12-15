@@ -80,12 +80,8 @@ highlight_name: true
 
 ---
 
-<<<<<<< HEAD
 
 Hi! I'm a [Royster fellow](https://gradschool.unc.edu/funding/gradschool/royster/) and a [Richard Cole fellow](https://web.archive.org/web/20191118042438/http://hussman.unc.edu/phd/cost-and-funding) at the [Hussman School of Journalism and Media](http://hussman.unc.edu/), Univeristy of North Carolina at Chapel Hill. My advisor is [Dr. Shannon McGregor](http://www.shannoncmcgregor.com/). I'm also affiliated with the [Center for Information, Technology, and Public Life (CITAP)](https://citap.unc.edu/), where I am working as the policy graduate assistant for this academic year. Previously, I worked at [SNU FactCheck Center](https://factcheck.snu.ac.kr/home/about), the first and only fact-checking platform in South Korea.
-=======
-Hi! I'm a [Royster fellow](https://gradschool.unc.edu/funding/gradschool/royster/) and a [Richard Cole fellow](https://web.archive.org/web/20191118042438/http://hussman.unc.edu/phd/cost-and-funding) at the [Hussman School of Journalism and Media](http://hussman.unc.edu/), Univeristy of North Carolina at Chapel Hill. My advisor is [Dr. Shannon McGregor](http://www.shannoncmcgregor.com/). I'm also affiliated with the [Center for Information Technology, and Public Life (CITAP)](https://citap.unc.edu/), where I am working as the policy collaboration graduate assistant for this academic year. Previously, I worked at [SNU FactCheck Center](https://factcheck.snu.ac.kr/home/about), the first and only fact-checking platform in South Korea.
->>>>>>> be627bc1c7bdf8bda022a0d38047de322c1ddd80
 
 ### 👉 My Research
 I study the <b>multifaceted impacts of emerging technologies and media, including AI systems and digital platforms,</b> on people and society. I am passionate about my research because of its implications for justice and democracy. I'm a communication scholar by training, and I believe <b>how we communicate impacts and harms matters a lot</b>. Here are the projects I'm currently working on:
