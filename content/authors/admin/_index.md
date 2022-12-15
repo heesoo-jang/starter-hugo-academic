@@ -98,7 +98,7 @@ I approach my research with a ["social science salsa-dancing,"](https://www.hup.
 
 ### 👉 Recent appearances
 
-- Co-organized <b>a policy discussion series about healthy information systems</b> of 30 participants from both academia and multi-stakeholder agencies in USG— with Data & Society, as part of my work at CITAP 🎉 
+- Co-organized <b>a policy discussion series about healthy information systems</b> of 30 participants from both academia and multi-stakeholder agencies in USG— with Data & Society, as part of my work at CITAP (winter 2022) 🎉 
 
 - <b>"How are AI biases and harms reported and understood by their developers?"</b> @ Hussman School of Journalism and Media Junck Colloquium Speaker series (Dr. Nneka Logan) student panel🍁 collaborated project with Jaemin Cho 
 
