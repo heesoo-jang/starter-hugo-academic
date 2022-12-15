@@ -98,9 +98,9 @@ I approach my research with a ["social science salsa-dancing,"](https://www.hup.
 
 ### 👉 Recent appearances
 
-- Co-organized <b>a policy discussion series about healthy information systems</b> of 30 participants from both academia and multi-stakeholder agencies in USG— with Data & Society, as part of my work at CITAP (winter 2022) 🎉 
+- Co-organized <b>a policy discussion series about healthy information systems</b> of 30 participants from both academia and multi-stakeholder agencies in USG— with Data & Society, as part of my work at CITAP (Winter, 2022) 🎉 
 
-- <b>"How are AI biases and harms reported and understood by their developers?"</b> @ Hussman School of Journalism and Media Junck Colloquium Speaker series (Dr. Nneka Logan) student panel🍁 collaborated project with Jaemin Cho 
+- <b>"How are AI biases and harms reported and understood by their developers?"</b> @ Hussman School of Journalism and Media Junck Colloquium Speaker series (Dr. Nneka Logan) student panel, Fall 2022🍁 collaborated project with Jaemin Cho 
 
 - <b>"Transnational platform ecosystems harm children and women outside the West. Here's how"</b> Check out my <b>op-ed piece</b> on Tech Policy Press ["Tech Companies Sit on Sidelines While Korean Children Are Drawn Into Digital Sex Trafficking"](https://techpolicy.press/tech-companies-sit-on-sidelines-while-korean-children-are-drawn-into-digital-sex-trafficking/) Also presented @[ACM CHI 2022 New Orleans🎷🎹❤️](https://chi2022.acm.org/), [Triangulating Race, Capital, and Technology Workshop](https://racecapitaltech.wordpress.com/) 
 
