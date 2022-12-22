@@ -83,11 +83,12 @@ highlight_name: true
 Hi! I'm a [Royster fellow](https://gradschool.unc.edu/funding/gradschool/royster/) and a [Richard Cole fellow](https://web.archive.org/web/20191118042438/http://hussman.unc.edu/phd/cost-and-funding) at the [Hussman School of Journalism and Media](http://hussman.unc.edu/), Univeristy of North Carolina at Chapel Hill. My advisor is [Dr. Shannon McGregor](http://www.shannoncmcgregor.com/). I'm also affiliated with the [Center for Information, Technology, and Public Life (CITAP)](https://citap.unc.edu/), where I am working as the policy graduate assistant for this academic year. Previously, I worked at [SNU FactCheck Center](https://factcheck.snu.ac.kr/home/about), the first and only fact-checking platform in South Korea.
 
 ### 👉 My Research
-I study the <b>multifaceted impacts of emerging technologies and media, including AI systems and digital platforms,</b> on people and society. I am passionate about my research because of its implications for justice and democracy. I'm a communication scholar by training, and I believe <b>how we communicate impacts and harms matters a lot</b>. Here are the projects I'm currently working on:
+My research is at the intersection of journalism, media, and technology. My research aims to ensure that people have access to fair and democratic information systems. In this context, I study the <b>multifaceted impacts of emerging technologies and media, including AI systems and digital platforms,</b> on people, journalism, and society. I am passionate about my research because of its implications for justice and democracy. I'm a communication scholar by training, and I believe <b>how we communicate impacts and harms matters a lot</b>. Here are the projects I'm currently working on:
 - Public discourses of ethical issues around AI systems (dissertation project)
 - Public opinion of platform governance
-- Harms and biases of AI systems
+- Reporting harms and biases of AI systems
 - Digital harms of transnational platform ecosystems
+- Impacts of emerging media and technologies on journalism 
 
 I approach my research with a ["social science salsa-dancing,"](https://www.hup.harvard.edu/catalog.php?isbn=9780674048218) perspective, using a diverse set of computational, quantitative, and qualitative methods. 
 
@@ -96,7 +97,10 @@ I approach my research with a ["social science salsa-dancing,"](https://www.hup.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_homepage_12222022.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 ### 👉 Recent appearances
-- <b>"How are AI biases and harms reported and understood by their developers?"</b> @ Hussman School of Journalism and Media Junck Colloquium Speaker series (Dr. Nneka Logan) student panel🍁 collaborated project with Jaemin Cho 
+
+- Co-organized <b>a policy discussion series about healthy information systems</b> of 30 participants from both academia and multi-stakeholder agencies in USG— with Data & Society, as part of my work at CITAP (Winter, 2022) 🎉 
+
+- <b>"How are AI biases and harms reported and understood by their developers?"</b> @ Hussman School of Journalism and Media Junck Colloquium Speaker series (Dr. Nneka Logan) student panel, Fall 2022🍁 collaborated project with Jaemin Cho 
 
 - <b>"Transnational platform ecosystems harm children and women outside the West. Here's how"</b> Check out my <b>op-ed piece</b> on Tech Policy Press ["Tech Companies Sit on Sidelines While Korean Children Are Drawn Into Digital Sex Trafficking"](https://techpolicy.press/tech-companies-sit-on-sidelines-while-korean-children-are-drawn-into-digital-sex-trafficking/) Also presented @[ACM CHI 2022 New Orleans🎷🎹❤️](https://chi2022.acm.org/), [Triangulating Race, Capital, and Technology Workshop](https://racecapitaltech.wordpress.com/) 
 
