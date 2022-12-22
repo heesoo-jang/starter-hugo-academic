@@ -53,7 +53,7 @@ social:
   link: https://github.com/heesoo-jang
 - icon: cv
   icon_pack: ai
-  link: uploads/cv-HeesooJang-10282022-forweb.pdf
+  link: uploads/cv_homepage_12222022.pdf
 
 
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -80,7 +80,6 @@ highlight_name: true
 
 ---
 
-
 Hi! I'm a [Royster fellow](https://gradschool.unc.edu/funding/gradschool/royster/) and a [Richard Cole fellow](https://web.archive.org/web/20191118042438/http://hussman.unc.edu/phd/cost-and-funding) at the [Hussman School of Journalism and Media](http://hussman.unc.edu/), Univeristy of North Carolina at Chapel Hill. My advisor is [Dr. Shannon McGregor](http://www.shannoncmcgregor.com/). I'm also affiliated with the [Center for Information, Technology, and Public Life (CITAP)](https://citap.unc.edu/), where I am working as the policy graduate assistant for this academic year. Previously, I worked at [SNU FactCheck Center](https://factcheck.snu.ac.kr/home/about), the first and only fact-checking platform in South Korea.
 
 ### 👉 My Research
@@ -94,7 +93,7 @@ I approach my research with a ["social science salsa-dancing,"](https://www.hup.
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-HeesooJang-10282022-forweb.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_homepage_12222022.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 ### 👉 Recent appearances
 - <b>"How are AI biases and harms reported and understood by their developers?"</b> @ Hussman School of Journalism and Media Junck Colloquium Speaker series (Dr. Nneka Logan) student panel🍁 collaborated project with Jaemin Cho 
