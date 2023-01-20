@@ -96,17 +96,9 @@ I approach my research with a ["social science salsa-dancing,"](https://www.hup.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_homepage_12222022.pdf" "newtab" >}}CV{{< /staticref >}}.
 
-### 👉 Recent appearances
+### 👉 Public Scholarship
 
-- Co-organized <b>a policy discussion series about healthy information systems</b> of 30 participants from both academia and multi-stakeholder agencies in USG— with Data & Society, as part of my work at CITAP (Winter, 2022) 🎉 
-
-- <b>"How are AI biases and harms reported and understood by their developers?"</b> @ Hussman School of Journalism and Media Junck Colloquium Speaker series (Dr. Nneka Logan) student panel, Fall 2022🍁 collaborated project with Jaemin Cho 
-
-- <b>"Transnational platform ecosystems harm children and women outside the West. Here's how"</b> Check out my <b>op-ed piece</b> on Tech Policy Press ["Tech Companies Sit on Sidelines While Korean Children Are Drawn Into Digital Sex Trafficking"](https://techpolicy.press/tech-companies-sit-on-sidelines-while-korean-children-are-drawn-into-digital-sex-trafficking/) Also presented @[ACM CHI 2022 New Orleans🎷🎹❤️](https://chi2022.acm.org/), [Triangulating Race, Capital, and Technology Workshop](https://racecapitaltech.wordpress.com/) 
-
-- <b>"Who should be responsible for governing online content?"</b> @ [AEJMC22 Detroit🏁🚗](https://community.aejmc.org/conference/home) HUGE shout out to my coauthors, Bridget Barrett & Dr. Shannon McGregor!💖 
-
-- <b>"Understanding AI chatbot Lee Luda's case through a crisis communication model"</b> @ [ICA 2022 Paris 🗼🥐🇫🇷🥖🌆❤️](https://www.icahdq.org/page/ICA2022), [Public Relations Division Top Student Paper Panel](https://twitter.com/ica_prd) 
+- <b>"Transnational platform ecosystems harm children and women outside the West. Here's how"</b> Check out my <b>op-ed piece</b> on Tech Policy Press ["Tech Companies Sit on Sidelines While Korean Children Are Drawn Into Digital Sex Trafficking"](https://techpolicy.press/tech-companies-sit-on-sidelines-while-korean-children-are-drawn-into-digital-sex-trafficking/) 
 
 - <b>"AI chatbot systems can harm users in several ways"</b> Check out my <b>op-ed piece</b> on Slate🤖 ["A South Korean Chatbot Shows Just How Sloppy Tech Companies Can Be With User Data"](https://slate.com/technology/2021/04/scatterlab-lee-luda-chatbot-kakaotalk-ai-privacy.html)
 
