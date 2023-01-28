@@ -1,5 +1,5 @@
 ---
-title: chatGPT panel
+title: ChatGPT in Context
 
 event: Invited Panel, Co-sponsored by the Department of History, the Institute for the Arts and Humanities, and the Center for Information, Technology, and Public Life 
 
