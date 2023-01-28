@@ -14,7 +14,7 @@ abstract: What is ChatGPT? Where did it come from? What does it mean for science
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2023-02-03T15:00:00Z"
-date_end: ""2023-02-03T16:00:00Z""
+date_end: "2023-02-03T16:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
