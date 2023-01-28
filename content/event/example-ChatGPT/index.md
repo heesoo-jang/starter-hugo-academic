@@ -5,11 +5,12 @@ event: Invited Panel, Co-sponsored by the Department of History, the Institute f
 
 event_url: 
 
-location: University Room, Hyde Hall, UNC-Chapel Hill
+location: University Room, Hyde Hall, UNC-Chapel Hill (time zone - EST)
 
 
 summary: What is ChatGPT? Where did it come from? What does it mean for science, scholarship, and public life? Join our interdisciplinary panel for a discussion of this new technology and its real and imagined impacts on the campus community.  
 abstract: What is ChatGPT? Where did it come from? What does it mean for science, scholarship, and public life? Join our interdisciplinary panel for a discussion of this new technology and its real and imagined impacts on the campus community.  
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
