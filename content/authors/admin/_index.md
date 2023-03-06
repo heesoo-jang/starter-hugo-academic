@@ -6,7 +6,7 @@ title: Heesoo Jang
 superuser: true
 
 # Role/position/tagline
-role: Social Science Researcher
+role: Social Scienctist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -80,10 +80,10 @@ highlight_name: true
 
 ---
 
-Hi! I'm a [Royster fellow](https://gradschool.unc.edu/funding/gradschool/royster/) and a [Richard Cole fellow](https://web.archive.org/web/20191118042438/http://hussman.unc.edu/phd/cost-and-funding) at the [Hussman School of Journalism and Media](http://hussman.unc.edu/), Univeristy of North Carolina at Chapel Hill. My advisor is [Dr. Shannon McGregor](http://www.shannoncmcgregor.com/). I'm also affiliated with the [Center for Information, Technology, and Public Life (CITAP)](https://citap.unc.edu/), where I am working as the policy collaboration graduate assistant for this academic year. Previously, I worked at [SNU FactCheck Center](https://factcheck.snu.ac.kr/home/about), the first and only fact-checking platform in South Korea.
+Hi! I'm a [Royster fellow](https://gradschool.unc.edu/funding/gradschool/royster/) and a [Richard Cole fellow](https://web.archive.org/web/20191118042438/http://hussman.unc.edu/phd/cost-and-funding) at the [Hussman School of Journalism and Media](http://hussman.unc.edu/), Univeristy of North Carolina at Chapel Hill. My advisor is [Dr. Shannon McGregor](http://www.shannoncmcgregor.com/). I'm also affiliated with the [Center for Information, Technology, and Public Life (CITAP)](https://citap.unc.edu/), where I am working as the policy collaboration graduate assistant for 2022-2023. In Febraury 2023, I have been selected as [one of the 12 NexGen Leaders of the U.S.-ROK Alliance by CSIS Korea Chair with support from the U.S. Embassy Seoul and the State Department](https://www.csis.org/programs/korea-chair/projects/30-next-generation-us-rok-alliance). Previously, I worked at [SNU FactCheck Center](https://factcheck.snu.ac.kr/home/about), the first and only fact-checking platform in South Korea.
 
 ### 👉 My Research
-My research is at the intersection of journalism, media, and technology. I study the <b>multifaceted impacts of emerging technologies and media, including AI systems and digital platforms,</b> on people, journalism, and society. My research aims to ensure that people have access to fair and democratic information systems by studying ways the media and tech industries can communicate better with the public. I am passionate about my research because of its implications for justice and democracy. I'm a communication scholar by training, and I believe <b>how we communicate impacts and harms matters a lot</b>. Here are the projects I'm currently working on:
+My research is at the intersection of journalism, media, and technology. I study the <b>multifaceted impacts of emerging technologies and media, including AI systems and digital platforms,</b> on people, industries, and society. My research aims to ensure that people have access to fair and democratic information systems by studying ways the media and tech industries can communicate better with the public. I am passionate about my research because of its implications for justice and democracy. I'm a communication scholar by training, and I believe <b>how we communicate impacts and harms matters a lot</b>. Here are the projects I'm currently working on:
 - Public discourses of ethical issues around AI systems (dissertation project)
 - Public opinion of platform governance
 - Reporting harms and biases of AI systems
