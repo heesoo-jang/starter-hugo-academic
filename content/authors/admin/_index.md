@@ -87,12 +87,12 @@ I'm also affiliated with the [Center for Information, Technology, and Public Lif
 Previously, I worked at [SNU FactCheck Center](https://factcheck.snu.ac.kr/home/about), the first and only fact-checking platform in South Korea.
 
 ### 👉 My Research
-My research is at the intersection of journalism, media, and technology. I study the <b>multifaceted impacts of emerging technologies and media, including AI systems and digital platforms,</b> on people, industries, and society. My research aims to ensure that people have access to fair and democratic information systems by studying ways the media and tech industries can communicate better with the public. I am passionate about my research because of its implications for justice and democracy. I'm a communication scholar by training, and I believe <b>how we communicate impacts and harms matters a lot</b>. Here are the projects I'm currently working on:
-- Public discourses of ethical issues around AI systems (dissertation project)
-- Public opinion of platform governance
-- Reporting harms and biases of AI systems
-- Digital harms of transnational platform ecosystems
-- Impacts of emerging media and technologies on journalism 
+I study how strategic actors communicate about emerging media and technology and their multifaceted impacts on people, industries, and society. During my years in the PhD program, I have been focusing on artificial intelligence (AI) systems and digital platforms. I believe how different actors (e.g., tech companies, government agencies, media, civil society, publics) strategically communicate impacts and harms makes a big difference, and I am passionate about my research because of its implications for justice and democracy. The aim of my research program is to make sure that the voice of the publics are not marginalized and meaningfully heard in these conversations around media and technology. My research program largely includes the following themes:
+
+- Artificial Intelligence (AI) Ethics
+- Harms and Biases of AI Systems
+- Digital Harms of Transnational Platform Ecosystems
+
 
 I approach my research with a ["social science salsa-dancing,"](https://www.hup.harvard.edu/catalog.php?isbn=9780674048218) perspective, using a diverse set of computational, quantitative, and qualitative methods. 
 
