@@ -20,9 +20,9 @@ bio: I'm enthusiastic about learning how people think and talk about technology 
 interests:
 - Artificial Intelligence
 - Digital Platforms
-- Politics, Power, & Ethics
+- Power and Ethics
 - Mixed Methods
-- Computational methods
+- Computational Methods for Social Science
 
 # Education to show in About widget
 education:
@@ -80,11 +80,7 @@ highlight_name: true
 
 ---
 
-Hi! I'm a [Royster fellow](https://gradschool.unc.edu/funding/gradschool/royster/) and a [Richard Cole fellow](https://web.archive.org/web/20191118042438/http://hussman.unc.edu/phd/cost-and-funding) at the [Hussman School of Journalism and Media](http://hussman.unc.edu/), Univeristy of North Carolina at Chapel Hill. My advisor is [Dr. Shannon McGregor](http://www.shannoncmcgregor.com/). 
-
-I'm also affiliated with the [Center for Information, Technology, and Public Life (CITAP)](https://citap.unc.edu/), where I am working as the policy collaboration graduate assistant for 2022-2023. In Febraury 2023, I have been selected as [one of the 12 NexGen Leaders of the U.S.-ROK Alliance by CSIS Korea Chair with support from the U.S. Embassy Seoul and the State Department](https://www.csis.org/programs/korea-chair/projects/30-next-generation-us-rok-alliance). 
-
-Previously, I worked at [SNU FactCheck Center](https://factcheck.snu.ac.kr/home/about), the first and only fact-checking platform in South Korea.
+Hi! I'm a [Royster fellow](https://gradschool.unc.edu/funding/gradschool/royster/) and a [Richard Cole fellow](https://web.archive.org/web/20191118042438/http://hussman.unc.edu/phd/cost-and-funding) at the [Hussman School of Journalism and Media](http://hussman.unc.edu/), Univeristy of North Carolina at Chapel Hill. My advisor is [Dr. Shannon McGregor](http://www.shannoncmcgregor.com/). I'm also affiliated with the [Center for Information, Technology, and Public Life (CITAP)](https://citap.unc.edu/), where I am working as the policy collaboration graduate assistant for 2022-2023. In Febraury 2023, I have been selected as [one of the 12 NexGen Leaders of the U.S.-ROK Alliance by CSIS Korea Chair with support from the U.S. Embassy Seoul and the State Department](https://www.csis.org/programs/korea-chair/projects/30-next-generation-us-rok-alliance). Previously, I worked at [SNU FactCheck Center](https://factcheck.snu.ac.kr/home/about), the first and only fact-checking platform in South Korea.
 
 ### 👉 My Research
 I study how strategic actors communicate about emerging media and technology and their multifaceted impacts on people, industries, and society. During my years in the PhD program, I have been focusing on artificial intelligence (AI) systems and digital platforms. I believe how different actors (e.g., tech companies, government agencies, media, civil society, publics) strategically communicate impacts and harms makes a big difference, and I am passionate about my research because of its implications for justice and democracy. The aim of my research program is to make sure that the voice of the publics are not marginalized and meaningfully heard in these conversations around media and technology. My research program largely includes the following themes:
