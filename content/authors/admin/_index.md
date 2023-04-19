@@ -95,7 +95,7 @@ I approach my research with a ["social science salsa-dancing,"](https://www.hup.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_homepage_12222022.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 
-💜 Acknowledgement: My research is generously supported by the [Royster Society of Fellows](https://gradschool.unc.edu/funding/gradschool/royster/) and the [Center for Information, Technology, and Public Life (CITAP)](https://citap.unc.edu/). My dissertation project, in particular, is generously supported by the William Francis Clingman Jr. Ethics Award and the Minnie S. & Eli A. Rubinstein Research Award.
+💜 Acknowledgement: My research is generously supported by the [Royster Society of Fellows](https://gradschool.unc.edu/funding/gradschool/royster/) and the [Center for Information, Technology, and Public Life (CITAP)](https://citap.unc.edu/). My dissertation project, in particular, is generously supported by the (William Francis Clingman Jr. Ethics Award](http://hussman.unc.edu/william-francis-clingman-jr-ethics-award) and the [Minnie S. & Eli A. Rubinstein Research Award](http://hussman.unc.edu/minnie-s-and-eli-rubinstein-research-awards).
 
 
 ### 👉 Public Scholarship
