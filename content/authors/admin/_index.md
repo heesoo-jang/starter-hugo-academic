@@ -53,7 +53,7 @@ social:
   link: https://github.com/heesoo-jang
 - icon: cv
   icon_pack: ai
-  link: uploads/cv_homepage_12222022.pdf
+  link: uploads/cv_homepage_05262023.pdf
 
 
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -92,7 +92,7 @@ I study how strategic actors communicate about emerging media and technology and
 
 I approach my research with a ["social science salsa-dancing,"](https://www.hup.harvard.edu/catalog.php?isbn=9780674048218) perspective, using a diverse set of computational, quantitative, and qualitative methods. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_homepage_12222022.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_homepage_05262023.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 
 💜 Acknowledgement: My research is generously supported by the [Royster Society of Fellows](https://gradschool.unc.edu/funding/gradschool/royster/) and the [Center for Information, Technology, and Public Life (CITAP)](https://citap.unc.edu/). My dissertation project, in particular, is generously supported by the [William Francis Clingman Jr. Ethics Award](http://hussman.unc.edu/william-francis-clingman-jr-ethics-award) and the [Minnie S. & Eli A. Rubinstein Research Award](http://hussman.unc.edu/minnie-s-and-eli-rubinstein-research-awards).
