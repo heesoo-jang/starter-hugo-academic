@@ -53,7 +53,7 @@ social:
   link: https://github.com/heesoo-jang
 - icon: cv
   icon_pack: ai
-  link: uploads/cv_homepage-heesoojang-July72023.pdf
+  link: uploads/heesoojang_cv_homepage_July72023.pdf
 
 
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
