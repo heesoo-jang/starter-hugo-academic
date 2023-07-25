@@ -48,12 +48,15 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/HeesooJang2
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/heesoo-jang-1b620b229/
 - icon: github
   icon_pack: fab
   link: https://github.com/heesoo-jang
 - icon: cv
   icon_pack: ai
-  link: uploads/heesoojang_cv_homepage_July72023.pdf
+  link: uploads/July18_cv_homepage.pdf
 
 
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -67,9 +70,7 @@ social:
 # - icon_pack: fas
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 
-# - icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/
+
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
