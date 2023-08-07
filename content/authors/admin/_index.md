@@ -18,7 +18,7 @@ bio: I'm enthusiastic about learning how people think and talk about technology 
 
 # Interests to show in About widget
 interests:
-- Strategic communication
+- Strategic Communication
 - Corporate Social Responsibility
 - Artificial Intelligence (AI) Ethics
 - Transnational Digital Platforms
