@@ -22,6 +22,8 @@ interests:
 - Corporate Social Responsibility
 - Artificial Intelligence (AI) Ethics
 - Transnational Digital Platforms
+- Public Relations
+- Journalism
 - Mixed Methods
 - Computational Methods for Social Science
 
