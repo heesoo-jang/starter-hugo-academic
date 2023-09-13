@@ -32,7 +32,7 @@ education:
   courses:
   - course: Ph.D. in Communication
     institution: University of North Carolina at Chapel Hill, USA
-    year: Expected
+    year: Expected 2024
   - course: M.A. in Communication
     institution: Seoul National University, South Korea
     year: 2018
