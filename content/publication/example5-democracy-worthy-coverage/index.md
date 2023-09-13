@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'static/uploads/cv_homepage_heesoojang_08062023.pdf'
+url_pdf: 'publication/example5-democracy-worthy-coverage/FULL-demoracy-paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
