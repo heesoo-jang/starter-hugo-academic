@@ -1,5 +1,5 @@
 ---
-title: Generative AI - AI Ethics in the NewsRoom
+title: Generative AI - AI Ethics in the Newsroom
 
 event: Invited Talk, The Visitng International Scholars (VIS) Program
 event_url: http://hussman.unc.edu/vis
