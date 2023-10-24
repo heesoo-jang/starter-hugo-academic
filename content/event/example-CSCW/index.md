@@ -14,8 +14,8 @@ abstract: This panel calls for a global conversation around platform (in)justice
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-10-17T15:00:00Z"
-date_end: "2023-10-18T16:00:00Z"
+date: "2023-10-17T16:30:00Z"
+date_end: "2023-10-17T18:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).

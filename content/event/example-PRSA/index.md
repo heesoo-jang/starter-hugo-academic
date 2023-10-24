@@ -12,7 +12,7 @@ abstract: This talk explores three critical aspects of ethical data management i
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-08-21T11:00:00Z"
+date: "2023-08-21T9:00:00Z"
 date_end: ""
 all_day: false
 
