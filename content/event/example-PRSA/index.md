@@ -1,5 +1,5 @@
 ---
-title: Responsible digital stewardshi - ChatGPT/AI and big data ethics for PR & internal comms 
+title: Responsible digital stewardship - ChatGPT/AI and big data ethics for PR & internal comms 
 
 event: Invited Talk, Public Relations Society of America (PRSA)
 event_url: https://www.prsa.org/
