@@ -18,12 +18,12 @@ bio: I'm enthusiastic about learning how people think and talk about technology 
 
 # Interests to show in About widget
 interests:
-- Strategic Communication
-- Corporate Social Responsibility
 - Artificial Intelligence (AI) Ethics
 - Transnational Digital Platforms
-- Public Relations
 - Journalism
+- Public Relations
+- Strategic Communication
+- Corporate Social Responsibility
 - Mixed Methods
 - Computational Methods for Social Science
 
@@ -86,7 +86,7 @@ highlight_name: true
 
 Hi! I'm a [Royster fellow](https://gradschool.unc.edu/funding/gradschool/royster/) and a [Richard Cole fellow](https://web.archive.org/web/20191118042438/http://hussman.unc.edu/phd/cost-and-funding) at the [Hussman School of Journalism and Media](http://hussman.unc.edu/), Univeristy of North Carolina at Chapel Hill. My advisor is [Dr. Shannon McGregor](http://www.shannoncmcgregor.com/). I'm also a graduate affiliate with the [Center for Information, Technology, and Public Life (CITAP)](https://citap.unc.edu/). Previously, I worked at [SNU FactCheck Center](https://factcheck.snu.ac.kr/home/about), the first and only fact-checking platform in South Korea.
 
-<b> I'm on the academic job market for 2023-24! </b>
+<b> Currently searching for a new academic home! (2023-24) </b>
 
 ### 👉 Op-eds
 
