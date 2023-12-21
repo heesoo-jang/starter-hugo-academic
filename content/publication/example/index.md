@@ -1,5 +1,5 @@
 ---
-title: "A co-oriented crisis communication model for an AI scansis: A Case of Chatbot, Lee-Luda"
+title: "Introducing the Co-oriented Scansis (CoS) model: A case of chatbot, Lee-Luda"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -13,8 +13,8 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2022-01-27"
-doi: ""
+date: "2022-05-13"
+doi: "10.1016/j.pubrev.2023.102360"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -26,10 +26,10 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Presented at the *ICA 2022 Conference*
+publication: Public Relations Review
 
 
-abstract: This study proposed an integrated co-oriented crisis communication model by incorporating the co-orientation model with the Situational Crisis Communication Theory (SCCT). By applying the proposed model to a crisis that happened to a South Korean AI company, Scatter Lab, this study attempted to answer the research question on how incorporating co-orientation to SCCT can help us understand a scandalized crisis, or scansis, when AI technology lies in the center of the crisis (defined in this paper as an AI crisis). Our findings showed that, in the case of Scatter Lab, the organization’s failure to accurately understand both the public’s perception of the crisis (2nd-level co-orientation) the discrepancy between the organization’s and the public’s perceptions (3rd-level co-orientation). In other words, the organization’s inaccurate understanding of the public’s perception of the crisis led to moral outrage, scandalizing the crisis into a scansis. We discuss why the nature of AI technology can complicate the assessment of accurate crisis type. This study contributes to SCCT literature, incorporating the SCCT framework with the co-orientation model further to explain scansis, a relatively new crisis type that was recently added to SCCT.
+abstract: This study presents the Co-oriented Scansis (CoS) model, which provides a comprehensive understanding of scansis—a recently identified crisis type integrated into the Situational Crisis Communication Theory (SCCT). Using a crisis case of Scatter Lab, a South Korean AI company, as a model case, the study applies the CoS model to analyze the perceptions and meta-perceptions of both the organization and the public regarding the crisis. The data collection involved three official statements released by Scatter Lab and an analysis of 365 reviews from the Google Play users' reviews page of Science of Love—the app used by Scatter Lab to collect intimate conversations between romantic partners. The findings highlight the utility of the CoS model in explaining how Scatter Lab's AI crisis evolved into a scansis. Specifically, the organization's failure to accurately comprehend the public's perception of the crisis (second level co-orientation) and the resulting discrepancy between the organization and the public's perceptions (third level co-orientation) contributed to moral outrage, ultimately leading to a scansis. The study concludes by discussing the theoretical contributions of the CoS model and its practical implications for crisis management.
 
 # Summary. An optional shortened abstract.
 summary: We propose a new model that explains the gap between how AI companies and the public understand organizational crises caused by AI systems. How does a crisis of an AI company become scandalized? We use the case of a South Korean AI company, Scatterlab, to answer this question. 
@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: uploads/janglee2023-leeluda.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
