@@ -40,6 +40,23 @@ categories:
 - Blog
 ---
 
+
+## About me 👋
+
+I was on the job market in the academic year of 2023-2024, applying for assistant professor jobs in departments of journalism, communication, and media studies. I will be an assistant professor in media law and ethics in the Department of Journalism, University of Massachusetts, Amherst, starting September 1. 
+
+I'm writing this blog post with the hope of shedding some light on what to expect from the academic job market, sharing some thoughts and strategies I found helpful. Especially for those without a recent graduate to turn to for advice, I want to share my experiences. This is for anyone feeling a bit lost or unprepared about navigating the academic job journey—a friendly guide from someone who's been there. You're not alone 💙
+
+<br>
+
+## Summary of my journey
+I knew I would be on the job market for 2023-24 by May, so I started promoting myself being on the job market starting at the AEJMC job hub in August. I applied to around 25 schools for an assistant professor position (including open rank searches) in my field (mostly in journalism and strategic communication), and another 10 in computer science and public policy, targeting AI ethics and social science roles despite being less familiar with their culture. After applying to  R1s and research-focused R2s known for their strong communities, I received 7 Zoom interview requests (all from journalism and strategic communication, none from other fields), progressed to campus visits with three schools, and received two official offers. Ultimately, I accepted the offer from the University of Massachusetts, Amherst.
+
+<br>
+<hr>
+<br>
+
+
 ## Helpful Job Market materials for you
 I'm sharing <a href="https://www.heesoojang.com/post/job-materials/"> my job market materials on a separate blog post</a> along with the <a href="https://docs.google.com/spreadsheets/d/1QVCuMXV_9W5ui1MM4Nkl3fePEhKzcW1MMiXAJRvMhc4/edit?usp=sharing">spreadsheet template</a> I used for organizing job ads and keeping track of applications. 
 
@@ -121,9 +138,9 @@ The fly-outs provided fantastic opportunities to immerse myself in the campus an
 <br> 
 
 ### December 2023: Final offers and negotiating
-<b>  👉 Action items: <br>
-    1. Once you get final offers, get advice from mentors on negotiating <br>
-    2. If it's a public instituton, google  <br>
+<b>  👉 Action items: Once you get final offers... <br>
+    1. Get advice from mentors on negotiating <br>
+    2. Google is your friend to learn how others negotiated
 </b>  
 
 In December, my journey to find my new academic home reached its peak with final offers rolling in. My mentors played a key role, guiding me on how to articulate my needs and assertively negotiate. They were instrumental in teaching me what to prioritize in my negotiations. To ensure I was making informed decisions, I researched salaries for similar roles in public institutions. This step was about balancing my aspirations with the available opportunities, a challenging but essential part of the process. I focused on negotiating not only the salary, but the support, resources, and environment I need to succeed and feel fulfilled in my new institution. 
@@ -138,17 +155,5 @@ For those who are women, nonbinary, queer, not a US citizen, first-generation, o
 
 </ul>
 <br>
-<br> 
-<hr>
-
-
-## About me 👋
-
-I was on the job market in the academic year of 2023-2024, applying for assistant professor jobs in departments of journalism, communication, and media studies. I will be an assistant professor in media law and ethics in the Department of Journalism, University of Massachusetts, Amherst, starting September 1. 
-
-I'm writing this blog post with the hope of shedding some light on what to expect from the academic job market, sharing some thoughts and strategies I found helpful. Especially for those without a recent graduate to turn to for advice, I want to share my experiences. This is for anyone feeling a bit lost or unprepared about navigating the academic job journey—a friendly guide from someone who's been there. You're not alone 💙
-
-## Summary of my journey
-I knew I would be on the job market for 2023-24 by May, so I started promoting myself being on the job market starting at the AEJMC job hub in August. I applied to around 25 schools for an assistant professor position (including open rank searches) in my field (mostly in journalism and strategic communication), and another 10 in computer science and public policy, targeting AI ethics and social science roles despite being less familiar with their culture. After applying to  R1s and research-focused R2s known for their strong communities, I received 7 Zoom interview requests (all from journalism and strategic communication, none from other fields), progressed to campus visits with three schools, and received two official offers. Ultimately, I accepted the offer from the University of Massachusetts, Amherst.
 
 <br>
