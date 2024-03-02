@@ -1,5 +1,5 @@
 ---
-title: Navigating the academic job market with grace and grit
+title: Navigating the Academic Job Market with Grace and Grit
 subtitle: Here's how I navigated through the hidden curricula of the academic job market. Hope this is helpful for you. I'm sending positive vibes and good thoughts your way as you prepare for your own journey!
 
 # Summary for listings and search engines
