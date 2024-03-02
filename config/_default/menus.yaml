@@ -18,7 +18,7 @@ main:
     weight: 60
   - name: Blog
     url: '#posts'
-    weight: 20
+    weight: 0
 
 #  - name: Contact
 #    url: '#contact'

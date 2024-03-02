@@ -47,8 +47,6 @@ I'm sharing my job market materials here along with the <a href="https://docs.go
 
 I hope you find these resources helpful. I recognize that not everyone has access to the kind of support I was fortunate to receive from mentors and colleagues. By sharing these resources, I am hoping to extend a helping hand to those navigating the job market journey, especially to those who may feel isolated or under-supported. My goal is to level the playing field as much as possible, providing practical aids and insights that can make your job search more organized and a little less daunting. Remember you're not alone! 💙
 
-Disclosure about reference checks/letters: UMass Amherst did not request reference letters at the application stage, which was one of the criteria I took into account when selecting schools to apply to. I find it inconsiderate to ask for reference letters this early, as it can be a significant demand on applicants' time. Instead, UMass Amherst conducted reference checks over the phone with my references. For schools that required reference letters after the Zoom interview, my references sent their letters directly to the search chair.
-
 <br>
 
 ## Cover Letter
@@ -98,7 +96,7 @@ Lastly, I am highly aware of the hidden curriculum, which encompasses implicit a
 
 <br>
 
-### DEI Statement
+## DEI Statement
 
 <br>
 
@@ -110,3 +108,11 @@ In the classroom, I strive to create a learning environment where all students f
 
 Lastly, as a survivor who has experienced a death by suicide of a loved one in my 20s, mental health is a core value in my personal and professional life. I strongly advocate for mental health awareness, support, and resources in all facets of academia and community engagement. The compounded impact of the pandemic, several suicides on campus, and lockdowns due to active shooter situations during my time at UNC highlighted the critical importance of DEI in conjunction with mental health considerations. Particularly crucial during the Fall of 2021, I employed a flexible, hybrid teaching model and provided tailored support to students, acknowledging the unique challenges faced by students of different backgrounds. For example, I offered one-on-one office hours to students who needed more time and space, ensuring they received the education they needed while also utilizing school resources to take care of themselves. 
 
+<br>
+<br>
+
+### Disclosure about reference checks/letters
+
+UMass Amherst did not request reference letters at the application stage, which was one of the criteria I took into account when selecting schools to apply to. I find it inconsiderate to ask for reference letters this early, as it can be a significant demand on applicants' time. Instead, UMass Amherst conducted reference checks over the phone with my references. For schools that required reference letters after the Zoom interview, my references sent their letters directly to the search chair.
+
+<br>
