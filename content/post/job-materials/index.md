@@ -45,9 +45,16 @@ Here are all of the job application materials I submitted to the Department of J
 
 I'm sharing my job market materials here along with the <a href="https://docs.google.com/spreadsheets/d/1QVCuMXV_9W5ui1MM4Nkl3fePEhKzcW1MMiXAJRvMhc4/edit?usp=sharing">spreadsheet template</a> I used for organizing job ads and keeping track of applications. 
 
+Through my blog, I'm also sharing:<ul>
+<li> <a href="https://www.heesoojang.com/post/getting-started/">General advice on the academic job market based on my experience</a>
+ </li><li>
+<a href="https://www.heesoojang.com/post/job-market-schedule/">Calendar Guide for the Academic Job Market</a></li> 
+</ul>
+
 I hope you find these resources helpful. I recognize that not everyone has access to the kind of support I was fortunate to receive from mentors and colleagues. By sharing these resources, I am hoping to extend a helping hand to those navigating the job market journey, especially to those who may feel isolated or under-supported. My goal is to level the playing field as much as possible, providing practical aids and insights that can make your job search more organized and a little less daunting. Remember you're not alone! 💙
 
 <br>
+<hr>
 
 ## Cover Letter
 <br>

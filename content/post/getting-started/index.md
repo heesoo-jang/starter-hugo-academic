@@ -144,3 +144,15 @@ And finally, remember to take care of yourself. The journey is as important as t
 
 I'm sending all my best wishes and positive vibes your way. May you find your academic home where you are valued, supported, and inspired. And remember, I'm here to lend an ear, offer advice, or simply cheer you on. You've got this!
 
+<br>
+
+## Read more
+Through my blog, I'm also sharing:<ul>
+  <li>
+<a href="https://www.heesoojang.com/post/job-market-schedule/">Calendar Guide for the Academic Job Market</a></li>
+<li> <a href="https://www.heesoojang.com/post/job-materials/"> My job market materials </a> </li>
+</ul>
+
+Am I missing anything? Let me know! <br>
+Find me at <a href="https://twitter.com/HeesooJang2">@HeesooJang2 on Twitter/X</a> or at heesoojang at umass dot edu
+

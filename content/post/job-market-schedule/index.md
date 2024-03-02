@@ -53,16 +53,22 @@ I'm writing this blog post with the hope of shedding some light on what to expec
 I knew I would be on the job market for 2023-24 by May, so I started promoting myself being on the job market starting at the AEJMC job hub in August. I applied to around 25 schools for an assistant professor position (including open rank searches) in my field (mostly in journalism and strategic communication), and another 10 in computer science and public policy, targeting AI ethics and social science roles despite being less familiar with their culture. After applying to  R1s and research-focused R2s known for their strong communities, I received 7 Zoom interview requests (all from journalism and strategic communication, none from other fields), progressed to campus visits with three schools, and received two official offers. Ultimately, I accepted the offer from the University of Massachusetts, Amherst.
 
 <br>
-<hr>
-<br>
+
+## Helpful Job Market Resources for you
+Through my blog, I'm also sharing:<ul>
+  <li>
+<a href="https://www.heesoojang.com/post/getting-started/">General advice on the academic job market based on my experience</a></li>
+<li> <a href="https://www.heesoojang.com/post/job-materials/"> My job market materials </a> </li>
+</ul>
+
+Am I missing anything? Let me know! <br>
+Find me at <a href="https://twitter.com/HeesooJang2">@HeesooJang2 on Twitter/X</a> or at heesoojang at umass dot edu
 
 
-## Helpful Job Market materials for you
-I'm sharing <a href="https://www.heesoojang.com/post/job-materials/"> my job market materials on a separate blog post</a> along with the <a href="https://docs.google.com/spreadsheets/d/1QVCuMXV_9W5ui1MM4Nkl3fePEhKzcW1MMiXAJRvMhc4/edit?usp=sharing">spreadsheet template</a> I used for organizing job ads and keeping track of applications. 
 
 I hope you find these resources helpful. I recognize that not everyone has access to the kind of support I was fortunate to receive from mentors and colleagues. By sharing these resources, I am hoping to extend a helping hand to those navigating the job market journey, especially to those who may feel isolated or under-supported. My goal is to level the playing field as much as possible, providing practical aids and insights that can make your job search more organized and a little less daunting. 
 
-
+<hr>
 <br>
 
 ## The academic job market calendar
