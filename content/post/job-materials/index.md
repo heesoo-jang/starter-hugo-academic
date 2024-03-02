@@ -47,6 +47,8 @@ I'm sharing my job market materials here along with the <a href="https://docs.go
 
 I hope you find these resources helpful. I recognize that not everyone has access to the kind of support I was fortunate to receive from mentors and colleagues. By sharing these resources, I am hoping to extend a helping hand to those navigating the job market journey, especially to those who may feel isolated or under-supported. My goal is to level the playing field as much as possible, providing practical aids and insights that can make your job search more organized and a little less daunting. Remember you're not alone! 💙
 
+Disclosure about reference checks/letters: UMass Amherst did not request reference letters at the application stage, which was one of the criteria I took into account when selecting schools to apply to. I find it inconsiderate to ask for reference letters this early, as it can be a significant demand on applicants' time. Instead, UMass Amherst conducted reference checks over the phone with my references. For schools that required reference letters after the Zoom interview, my references sent their letters directly to the search chair.
+
 <br>
 
 ## Cover Letter
