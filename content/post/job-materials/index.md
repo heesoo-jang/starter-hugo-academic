@@ -59,8 +59,10 @@ I hope you find these resources helpful. I recognize that not everyone has acces
 ## Cover Letter
 <br>
 Dear Professor Joshua Braun and Members of the Search Committee,<br>
+
 <br>
-I’m privileged to offer this cover letter for the position of Assistant Professor of journalism with a focus on ethics and law in the Journalism Department at the University of Massachusetts Amherst. As a Ph.D. candidate in the Hussman School of Journalism and Media at the University of North Carolina at Chapel Hill, I am on track to graduate with my Ph.D. in media and communication in May 2024.
+
+I’m privileged to offer this cover letter for the position of Assistant Professor of journalism with a focus on ethics and law in the Journalism Department at the University of Massachusetts Amherst. As a Ph.D. candidate in the Hussman School of Journalism and Media at the University of North Carolina at Chapel Hill, I am on track to graduate with my Ph.D. in media and communication in May 2024.<br>
 
 As a UNC Royster Fellow and Richard Cole Fellow, I am an active researcher with 5 years of research experience at the intersection of Artificial Intelligence (AI) ethics, digital platform governance, and journalism. I bring with me a unique blend of interdisciplinary expertise, methodological rigor, and a proven track record of scholarly contributions. To date, I have published three first-authored journal articles, two book chapters, and two publications in the popular press. I have four journal articles under review, with one invited for revise and resubmit. I have received multiple research awards, including a top student paper award at the 72nd International Communication Association conference (ICA), the William Francis Clingman Jr. Ethics Award and the Minnie S. & Eli A. Rubinstein Research Award from the Hussman School of Journalism and Media, and nine other competitive fellowships and travel grants to date. This summer, I was honored with the Inez Kaiser Graduate Students of Color Award at the Association for Education in Journalism and Mass Communication (AEJMC) conference.
 
