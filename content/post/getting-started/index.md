@@ -1,6 +1,6 @@
 ---
-title: Finding My Place — Navigating the Academic Job Market with Grace and Grit
-subtitle: Here's how I survived my journey to find a new academic home. Hope this is helpful for you. I'm sending positive vibes and good thoughts your way as you prepare for your own journey!
+title: Navigating the academic job market with grace and grit
+subtitle: Here's how I navigated through the hidden curricula of the academic job market. Hope this is helpful for you. I'm sending positive vibes and good thoughts your way as you prepare for your own journey!
 
 # Summary for listings and search engines
 summary: 
@@ -15,7 +15,7 @@ date: "2024-03-01T00:00:00Z"
 lastmod: "2024-03-01T00:00:00Z"
 
 # Is this an unpublished draft?
-draft: true
+draft: false
 
 # Show this page in the Featured widget?
 featured: false
@@ -34,7 +34,7 @@ authors:
 tags:
 - Academia
 - Job market
-- Experience
+- Personal Experience
 
 categories:
 - Blog
@@ -42,15 +42,18 @@ categories:
 
 ## Welcome! 👋
 
-It's so good to have you join me. Please, take a spot by this glowing fireplace and let me fix you a warm mug of cocoa. Envision this as a casual, intimate talk where I get to share the highs and lows of my journey through the job market, just as if we were old friends catching up.
-
 I was on the job market in the academic year of 2023-2024, applying for assistant professor jobs in departments of journalism, communication, and media studies. I will be an assistant professor in media law and ethics in the Department of Journalism, University of Massachusetts, Amherst, starting September 1. 
 
 I'm writing this blog post with the hope of shedding some light on what to expect from the academic job market, sharing some thoughts and strategies I found helpful. Especially for those without a recent graduate to turn to for advice, I want to share my experiences. This is for anyone feeling a bit lost or unprepared about navigating the academic job journey—a friendly guide from someone who's been there. You're not alone 💙
 
 <br>
 
-## 
+## Summary of my journey
+I knew I would be on the job market for 2023-24 by May, so I started promoting myself being on the job market starting at the AEJMC job hub in August. I applied to around 25 schools for an assistant professor position (including open rank searches) in my field (mostly in journalism and strategic communication), and another 10 in computer science and public policy, targeting AI ethics and social science roles despite being less familiar with their culture. After applying to  R1s and research-focused R2s known for their strong communities, I received 7 Zoom interview requests (all from journalism and strategic communication, none from other fields), progressed to campus visits with three schools, and received two official offers. Ultimately, I accepted the offer from the University of Massachusetts, Amherst.
+
+<br>
+
+## What was my goal for the job market?
 Obviously, the goal on the academic job market is to find a new academic home. An academic home probably means different things to different people. To me, it was about seeking an environment where there was a sense of community. I imagined an academic community where people not only got along with each other but also appreciated each other's presence. My ideal academic home was a place where I envisioned myself thriving, surrounded by supportive colleagues, and engaging in a reciprocal relationship of support. Consequently, the concept of "a good fit," for me, extended beyond just a match in research interests; it encompassed a fit in values and culture as well.
 
 That being said, if I wanted to find the right institution for me, I needed to know who I was first. These are the questions I asked myself, before going on the job market: Who am I as a scholar? How do I position myself? What is my philosophy of research and teaching? What are some values I bring to the field that I would never ever compromise because that would change who I am? What kind of environment and community do I want to be in? What did I like about my current institution that I wanted to also seek in my new institution? What are the things that I don't get in my current institution that I'd love to have in my new academic home? 
@@ -70,7 +73,7 @@ For me, this involved being transparent about the fact that I am an interdiscipl
 
 <br>
 
-## Mentally preparing yourself as a candidate for a faculty job
+## Mentally preparing yourself for a faculty job
 The best piece of advice I've ever received from mentors I truly admire is to always remember that I'm competing for a faculty position, not a student one. It might sound obvious, but adopting this mindset was a real game-changer for me. For me, being a faculty member boils down to two key aspects: first, the effective balance of research, teaching, and service; and second, ensuring my research doesn't just tick boxes but actually pioneers new directions in my field. Therefore, my cover letter and job talk primarily emphasized these two areas.
 
 For PhD candidates or ABDs (all-but-dissertations) entering the job market, shedding the graduate student identity is challenging. It took me a year to fully understand what moving beyond this identity means. As students, we can get too caught up in research being everything, obsessing over how many publications we have, and trying to showcase our research skills. However, I would like to say this mindset is not helpful, at least on the academic job market.
