@@ -15,7 +15,7 @@ date: "2024-03-01T00:00:00Z"
 lastmod: "2024-03-01T00:00:00Z"
 
 # Is this an unpublished draft?
-draft: false
+draft: true
 
 # Show this page in the Featured widget?
 featured: false
@@ -50,7 +50,7 @@ I'm writing this blog post with the hope of shedding some light on what to expec
 
 <br>
 
-## My Goal on the Academic Job Market
+## 
 Obviously, the goal on the academic job market is to find a new academic home. An academic home probably means different things to different people. To me, it was about seeking an environment where there was a sense of community. I imagined an academic community where people not only got along with each other but also appreciated each other's presence. My ideal academic home was a place where I envisioned myself thriving, surrounded by supportive colleagues, and engaging in a reciprocal relationship of support. Consequently, the concept of "a good fit," for me, extended beyond just a match in research interests; it encompassed a fit in values and culture as well.
 
 That being said, if I wanted to find the right institution for me, I needed to know who I was first. These are the questions I asked myself, before going on the job market: Who am I as a scholar? How do I position myself? What is my philosophy of research and teaching? What are some values I bring to the field that I would never ever compromise because that would change who I am? What kind of environment and community do I want to be in? What did I like about my current institution that I wanted to also seek in my new institution? What are the things that I don't get in my current institution that I'd love to have in my new academic home? 
