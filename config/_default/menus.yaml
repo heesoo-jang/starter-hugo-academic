@@ -9,16 +9,16 @@ main:
     weight: 10
   - name: Talks
     url: '#talks'
-    weight: 20
+    weight: 30
   - name: Skills
     url: '#skills'
     weight: 50
   - name: Research
     url: '#featured'
     weight: 60
-  # - name: Post
-  #   url: '#post'
-  #   weight: 70
+  - name: Blog
+    url: '#posts'
+    weight: 20
 
 #  - name: Contact
 #    url: '#contact'

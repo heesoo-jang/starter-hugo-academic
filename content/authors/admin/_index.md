@@ -23,7 +23,6 @@ interests:
 - Journalism
 - Public Relations
 - Strategic Communication
-- Corporate Social Responsibility
 - Mixed Methods
 - Computational Methods for Social Science
 
