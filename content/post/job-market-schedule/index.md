@@ -66,7 +66,8 @@ Find me at <a href="https://twitter.com/HeesooJang2">@HeesooJang2 on Twitter/X</
 
 
 
-I hope you find these resources helpful. I recognize that not everyone has access to the kind of support I was fortunate to receive from mentors and colleagues. By sharing these resources, I am hoping to extend a helping hand to those navigating the job market journey, especially to those who may feel isolated or under-supported. My goal is to level the playing field as much as possible, providing practical aids and insights that can make your job search more organized and a little less daunting. 
+I hope you find these resources helpful. My goal is to level the playing field as much as possible, providing practical aids and insights that can make your job search more organized and a little less daunting. I am also indebted to so many people that generously offered their time, experience, and advice while I was navigating the job market; this is my way of paying it forward. I recognize that not everyone has access to the kind of support I was fortunate to receive from mentors and colleagues. By sharing these resources, I am hoping to extend a helping hand to those navigating the job market journey, especially to those who may feel isolated or under-supported. Remember you're not alone! 💙
+
 
 <hr>
 <br>
@@ -82,13 +83,15 @@ I'm sharing this journey to provide insight into the timeline and process of sec
 <b>
   👉 Action items: <br>
     1. Ask for job materials and start your first drafts <br>
-    2. Promote that you're on the job market this year <br>
+    2. Start thinking about your references (hopefully with your advisor)
+    3. Promote that you're on the job market this year <br>
  </b>   
   
-
 Knowing I would be on the job market, I asked mentors and recent successful graduates to share their job materials with me. These materials provided excellent examples that helped me understand how to organize my CV, the meaning of research and teaching statements, how they differ from a cover letter, and what to emphasize in them. 
 
-Also, I discussed the job market extensively with my advisor and held meetings specifically for this purpose. Additionally, I had several coffee chats with other mentors in the field over Zoom and at conferences for advice. 
+I also discussed the job market extensively with my advisor and held meetings specifically for this purpose. Summer was also a great time to start thinking about who will be my references. 
+
+Additionally, I had several coffee chats with other mentors in the field over Zoom and at conferences for advice. Asking for advice not only provided me with the support I needed but also provided me with the opportunity to share with people that I was seeking for an academic job. You want to let as many people as possible that you're on the job market so you can get all the job ads once they start rolling out.
   
 I was fortunate to have such supportive mentors and an advisor, but if you don't, I encourage reaching out to people in your field online as early as possible. The hidden curriculum in academia is vast, and finding support early is crucial. 
 
@@ -101,6 +104,7 @@ Especially if you're a woman or nonbinary, identify as queer, are not a US citiz
   👉 Action items: <br>
     1. Make a spreadsheet to organize job ads <br>
     2. Finalize job materials and get multiple rounds of feedback <br>
+    3. Request references 
   </b>
   <br>
 
@@ -108,15 +112,18 @@ This is when a lot of job ads start rolling out. Do everything to catch those jo
   
 While collecting these job ads, I started building a spreadsheet with the school name, the position, due date, and the job materials they require. This spreadsheet was useful for two purposes. First, my future self thanked me. With so many job ads rolling out, I couldn't have been able to track all of them without a spreadsheet. Second and more importantly, I shared the spreadsheet with my advisor to strategize where to apply and also keep her up-to-date with the deadlines for job materials and reference letters (if it required one at the application stage.) 
 
-September was also the month I tried to get multiple feedback from my advisor and other mentors on my job materials. </li>
-  
+September was also the month when I sought multiple rounds of feedback from my advisor and other mentors on my job materials. Having job materials that I was confident enough to present to potential references was crucial; after all, how else was I to request professors to serve as my references?
+
+In the emails I sent to potential references, I attached my most recent CV along with drafts of my job materials, explained why I believed the potential reference would be a good fit for the positions I was applying for, and briefly described the types of jobs I was targeting. It was a real confidence booster for me when my references agreed to speak on my behalf in the job market, as it affirmed their belief in my qualifications and potential to succeed. I used this as my energy to push through the seemingly never-ending search for a new academic home.
+
 
 <br> 
 
 ### October 2023: Applying for jobs and starting zoom interviews
 <b>  👉 Action items: <br>
-    1. Apply for jobs every single day... ugh <br>
-    2. Start getting zoom interviews <br>
+    1. Apply for jobs every single day <br>
+    2. Research does not get done, and it's okay <br>
+    3. Start getting zoom interviews <br>
   </b>
   
 Applying for academic jobs felt like a full-time job in itself (without the pay for your labor). In October, I was applying to jobs every. single. day. No research got done, but I had a supportive advisor and mentors who assured me this was normal and okay. Don't be too hard on yourself while applying for jobs because there's already a lot of writing, sending emails, and bureaucratic tasks involved.
@@ -128,25 +135,31 @@ I started getting Zoom interviews in mid-October. I remember asking mentors what
 
 ### November 2023: Fly-outs and job talks
 <b>  👉 Action items: <br>
-    1. Draft your job talk slides and do prep talks <br>
-    2. Fly-outs! Lookout for red and green flags<br>
+    1. Draft your job talk slides to show your scholarly identity <br>
+    2. Prep talks are a must <br>
+    3. Fly-outs! Lookout for red and green flags<br>
  </b> 
-  
-I was invited for my first on-campus visit in early November, with two more spread out over the month. I began drafting job talk slides, and my advisor scheduled a prep talk for me, inviting several faculty members and graduate students.
 
-I was SO grateful that my advisor went ahead and scheduled these prep talks for me. I needed the practice for sure. Job talks were so long for a first timer like me. It felt so strange to be allotted almost an hour to discuss my research. Typically, at conferences, I've been given only four minutes on average, and at most seven minutes if I'm fortunate to receive the best paper award.
+I received an invitation for my first on-campus visit in early November, followed by two more spaced out throughout the month. Typically, you receive only a week or, at most, a couple of weeks' notice between the invitation for a campus visit and the actual job talk. 
 
-I am incredibly grateful to everyone who attended my prep talks to provide feedback and boost my confidence. After conducting two prep talks and receiving feedback, I improved significantly. With immense respect for UNC's faculty and graduate colleagues, I knew that if they believed I was ready, others would too.
+My job talks were 40 minutes followed by a 15 minute Q&A. There must be various approaches to organizing a job talk. For me, I prioritized showcasing my scholarly identity and my theoretical and methodological paradigms over detailing the individual studies I published. I aimed to create a flow that would naturally lead audiences to envision the values I would bring to the potential institution. 
 
-The fly-outs provided fantastic opportunities to immerse myself in the campus and academic communities of potential institutions. The schedule included one-on-one or group meetings with faculty members, meetings with students, and a job talk (with teaching demonstrations at two of the schools, but not the third). I especially appreciated having separate time with the students because they tend to be very honest about their experiences in the community. This insight was invaluable in helping me understand my potential role and contributions should I join the institution. Fortunately, I didn't encounter this, but I believe a lack of adequate time for restroom breaks and proper meals during a visit is a huge red flag, indicating how the institution might treat its faculty. If you heard that this is normal, I'm telling you: it's not.  
-  
+I spent hours on YouTube to see how others approached their job talks. The one talk that changed my whole perspective on job talks was Dr. Wenhao Sun's talk (now at the University of Michigan) he gave to his lab mates a few years ago, <a href = "https://www.youtube.com/watch?v=gjXD5dwRnDU"> available on YouTube </a>. 
+
+My advisor organized a prep talk for me, inviting several faculty members and graduate students. I was extremely grateful for my advisor's initiative in scheduling these prep talks. They were invaluable for practice. As a first-timer, the length of job talks felt overwhelming. It was unusual to have almost an hour to discuss my research. I was so used to presenting only four minutes on average at conferences, and at most seven minutes for receiving the best paper award.
+
+I am deeply grateful to everyone who attended my prep talks to provide feedback and boost my confidence. After two prep talks and incorporating the feedback received, I saw significant improvement. Also, with my immense respect for UNC's faculty and graduate colleagues, I felt assured that if they believed I was ready, others would too.
+
+The fly-outs were excellent opportunities to immerse myself in the campus and academic communities of potential institutions. The schedule included one-on-one or group meetings with faculty members, meetings with students, and a job talk — with teaching demonstrations at two of the schools, but not the third. I particularly valued the separate time with students, as they tend to be very candid about their community experiences. This insight was invaluable in understanding my potential role and contributions should I join the institution. 
+
+Although I personally did not experience this, I believe that insufficient time for restroom breaks and proper meals during a visit signals a significant red flag about how the institution might treat its faculty. If you've heard that this is normal, I'm telling you: it's not.
 
 <br> 
 
 ### December 2023: Final offers and negotiating
 <b>  👉 Action items: Once you get final offers... <br>
     1. Get advice from mentors on negotiating <br>
-    2. Google is your friend to learn how others negotiated
+    2. Google is your friend to learn how others negotiated<br>
 </b>  
 
 In December, my journey to find my new academic home reached its peak with final offers rolling in. My mentors played a key role, guiding me on how to articulate my needs and assertively negotiate. They were instrumental in teaching me what to prioritize in my negotiations. To ensure I was making informed decisions, I researched salaries for similar roles in public institutions. This step was about balancing my aspirations with the available opportunities, a challenging but essential part of the process. I focused on negotiating not only the salary, but the support, resources, and environment I need to succeed and feel fulfilled in my new institution. 
@@ -159,7 +172,6 @@ For those who are women, nonbinary, queer, not a US citizen, first-generation, o
 
 <br> 
 
-</ul>
 <br>
 
 <br>

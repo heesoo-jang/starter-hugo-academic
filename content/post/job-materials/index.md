@@ -51,7 +51,7 @@ Through my blog, I'm also sharing:<ul>
 <a href="https://www.heesoojang.com/post/job-market-schedule/">Calendar Guide for the Academic Job Market</a></li> 
 </ul>
 
-I hope you find these resources helpful. I recognize that not everyone has access to the kind of support I was fortunate to receive from mentors and colleagues. By sharing these resources, I am hoping to extend a helping hand to those navigating the job market journey, especially to those who may feel isolated or under-supported. My goal is to level the playing field as much as possible, providing practical aids and insights that can make your job search more organized and a little less daunting. Remember you're not alone! 💙
+I hope you find these resources helpful. My goal is to level the playing field as much as possible, providing practical aids and insights that can make your job search more organized and a little less daunting. I am also indebted to so many people that generously offered their time, experience, and advice while I was navigating the job market; this is my way of paying it forward. I recognize that not everyone has access to the kind of support I was fortunate to receive from mentors and colleagues. By sharing these resources, I am hoping to extend a helping hand to those navigating the job market journey, especially to those who may feel isolated or under-supported. Remember you're not alone! 💙
 
 <br>
 <hr>
