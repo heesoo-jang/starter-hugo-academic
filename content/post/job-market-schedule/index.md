@@ -83,7 +83,7 @@ I'm sharing this journey to provide insight into the timeline and process of sec
 <b>
   👉 Action items: <br>
     1. Ask for job materials and start your first drafts <br>
-    2. Start thinking about your references (hopefully with your advisor)
+    2. Start thinking about your references (hopefully with your advisor)<br>
     3. Promote that you're on the job market this year <br>
  </b>   
   
