@@ -42,7 +42,7 @@ categories:
 
 ## Welcome! 👋
 
-I was on the job market in the academic year of 2023-2024, applying for assistant professor jobs in departments of journalism, communication, and media studies. I will be an assistant professor in media law and ethics in the Department of Journalism, University of Massachusetts, Amherst, starting September 1. 
+I was on the job market in the academic year of 2023-2024, applying for assistant professor jobs in the social sciences that valued research in journalism and strategic communication, digital platform governance, and artificial intelligence ethics. I will be an assistant professor in media law and ethics in the Department of Journalism, University of Massachusetts, Amherst, starting September 1. 
 
 I'm writing this blog post with the hope of shedding some light on what to expect from the academic job market, sharing some thoughts and strategies I found helpful. Especially for those without a recent graduate to turn to for advice, I want to share my experiences. This is for anyone feeling a bit lost or unprepared about navigating the academic job journey—a friendly guide from someone who's been there. You're not alone 💙
 
