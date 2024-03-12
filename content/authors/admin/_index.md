@@ -20,11 +20,7 @@ bio: I'm enthusiastic about learning how people think and talk about technology 
 interests:
 - Artificial Intelligence (AI) Ethics
 - Transnational Digital Platforms
-- Journalism
-- Public Relations
-- Strategic Communication
-- Mixed Methods
-- Computational Methods for Social Science
+- Computational Mixed-method Research
 
 # Education to show in About widget
 education:
