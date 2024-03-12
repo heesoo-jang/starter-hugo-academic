@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: coffee
+theme: Cyberpunk
 day_night: false
-font: ''
+font: classic
 font_size: M
 
 # SEO
