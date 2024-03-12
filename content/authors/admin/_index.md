@@ -38,6 +38,9 @@ education:
   - course: B.A. in Media and Mass Communication
     institution: Korea University, South Korea
     year: 2016
+  - course: B.B.A in Business Administration
+    institution: Korea University Business School, South Korea
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
