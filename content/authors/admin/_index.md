@@ -88,10 +88,10 @@ I am a multidisciplinary scholar who studies artificial intelligence ethics and 
 
 ### 👉 Op-eds
 
-- [South Korea’s Press Freedom Under Fire. Read how] (https://thediplomat.com/2024/03/south-koreas-press-freedom-under-fire/) in <i> The Diplomat </i> (2024)
+- South Korea’s Press Freedom Under Fire. [Read how in <i> The Diplomat </i> (2024)](https://thediplomat.com/2024/03/south-koreas-press-freedom-under-fire/)
 
-- [Transnational platform ecosystems harm children and women outside the West. Read how](https://techpolicy.press/tech-companies-sit-on-sidelines-while-korean-children-are-drawn-into-digital-sex-trafficking/) in <i>Tech Policy Press</i> (2022)
+- Transnational platform ecosystems harm children and women outside the West. [Read how in <i>Tech Policy Press</i> (2022)](https://techpolicy.press/tech-companies-sit-on-sidelines-while-korean-children-are-drawn-into-digital-sex-trafficking/)
 
-- [AI chatbot systems can harm users in several ways. Read how](https://slate.com/technology/2021/04/scatterlab-lee-luda-chatbot-kakaotalk-ai-privacy.html)  in <i>Slate</i> (2021)
+- AI chatbot systems can harm users in several ways. [Read how in <i>Slate</i> (2021)](https://slate.com/technology/2021/04/scatterlab-lee-luda-chatbot-kakaotalk-ai-privacy.html)
 
 
