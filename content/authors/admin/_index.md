@@ -55,9 +55,13 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/heesoo-jang
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.kr/citations?hl=en&user=_ho9IcgAAAAJ
 - icon: cv
   icon_pack: ai
   link: /uploads/cv_HeesooJang_sep2023.pdf
+
 
 
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack

@@ -33,7 +33,7 @@ abstract: A majority of Americans are not confident about how companies will beh
 # Summary. An optional shortened abstract.
 summary: A recent incident of personal data misuse in South Korea provides us a clear picture of what can go wrong, and how consumers can fight back. 
 
-tags: []
+tags: [artificial intelligence, ]
 
 # Display this page in the Featured widget?
 featured: true

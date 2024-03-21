@@ -33,7 +33,7 @@ abstract: If you think the notion of news manipulation and censorship is relegat
 # Summary. An optional shortened abstract.
 summary: South Korea is on the brink of one of its most critical elections, amid an intensifying assault on press freedom.
 
-tags: []
+tags: [journalism]
 
 # Display this page in the Featured widget?
 featured: true
