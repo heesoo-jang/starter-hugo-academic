@@ -31,8 +31,7 @@ publication: Slate Future Tense
 abstract: A majority of Americans are not confident about how companies will behave when it comes to using and protecting personal data. But it can be hard to imagine the potential harms—exactly how a company misusing or compromising data can possibly affect us and our lives. A recent incident of personal data misuse in South Korea provides us a clear picture of what can go wrong, and how consumers can fight back. 
 
 # Summary. An optional shortened abstract.
-summary: Published in <i>[Slate Future Tense](https://slate.com/technology/future-tense)</i>.
-A recent incident of personal data misuse in South Korea provides us a clear picture of what can go wrong, and how consumers can fight back. 
+summary: Published in <i>[Slate Future Tense](https://slate.com/technology/future-tense)</i>. A recent incident of personal data misuse in South Korea provides us a clear picture of what can go wrong, and how consumers can fight back. 
 
 tags: [artificial intelligence, ]
 
