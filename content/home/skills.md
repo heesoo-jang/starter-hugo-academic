@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 20
 
 title: Skills
 subtitle:
@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: R, Python, SQL | SPSS, STATA, Qualtrics, MTurk
+- description: Python, SQL, R | SPSS, STATA, Qualtrics, MTurk
   icon: code
   icon_pack: fas
   name: Languages & Software
