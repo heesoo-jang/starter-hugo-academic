@@ -1,5 +1,5 @@
 ---
-title: "Social Media Policy in Two Dimensions: Understanding the Role of Anti-establishment Beliefs and Political Ideology in Americans’ Attribution of Responsibility regarding Online Content"
+title: "[Info, Comm, & Society] Social Media Policy in Two Dimensions: Understanding the Role of Anti-establishment Beliefs and Political Ideology in Americans’ Attribution of Responsibility regarding Online Content"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

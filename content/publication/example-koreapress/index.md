@@ -1,5 +1,5 @@
 ---
-title: "South Korea’s Press Freedom Under Fire"
+title: "[The Diplomat] South Korea’s Press Freedom Under Fire"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -25,7 +25,7 @@ doi: ""
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: Slate Future Tense
+publication: The Diplomat
 
 
 abstract: If you think the notion of news manipulation and censorship is relegated to the dark annals of authoritarian regimes, it’s time to reconsider. A closer look at the unfolding narrative in South Korea paints a disconcertingly different picture. The actions of the current administration of President Yoon Suk-yeol have cast a long shadow over press freedom in South Korea. 

@@ -1,5 +1,5 @@
 ---
-title: "A South Korean Chatbot Shows Just How Sloppy Tech Companies Can Be With User Data"
+title: "[Slate Future Tense] A South Korean Chatbot Shows Just How Sloppy Tech Companies Can Be With User Data"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

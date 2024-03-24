@@ -31,7 +31,7 @@ publication: Tech Policy Press
 abstract: A mass sex trafficking crime that happened in South Korea was only possible with the use of the combined affordances of several Internet platforms and cloud storage providers, the majority of which are headquartered in the West. These platforms are less rigorous when it comes to monitoring material that is written in non-Western languages (i.e., Korean) and less beholden to local law enforcement, factors that combine to make it easier for the criminals to obscure their activities. Reforms are necessary to prevent future crimes, and to hold highly profitable, often publicly traded tech firms to account for their roles. 
 
 # Summary. An optional shortened abstract.
-summary: A mass sex trafficking crime that happened in South Korea was only possible with the use of the combined affordances of several Internet platforms and cloud storage providers, the majority of which are headquartered in the West. 
+summary: Read in the [Tech Policy Press](https://www.techpolicy.press/). A mass sex trafficking crime that happened in South Korea was only possible with the use of the combined affordances of several Internet platforms and cloud storage providers, the majority of which are headquartered in the West. 
 
 tags: []
 

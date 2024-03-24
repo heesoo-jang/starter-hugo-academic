@@ -1,5 +1,5 @@
 ---
-title: "Safeguarding the Peaceful Transfer of Power: Pro-Democracy Electoral Frames and Journalist Coverage of Election Deniers During the 2022 U.S. Midterm Elections"
+title: "[International Journal of Press/Politics] Safeguarding the Peaceful Transfer of Power: Pro-Democracy Electoral Frames and Journalist Coverage of Election Deniers During the 2022 U.S. Midterm Elections"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
