@@ -86,7 +86,7 @@ highlight_name: true
 
 ---
 
-Hi! I'm a Ph.D. Candidate at the [Hussman School of Journalism and Media](http://hussman.unc.edu/), Univeristy of North Carolina at Chapel Hill. My advisor is [Dr. Shannon McGregor](http://www.shannoncmcgregor.com/). I'm also a graduate affiliate with the [Center for Information, Technology, and Public Life (CITAP)](https://citap.unc.edu/). Previously, I worked at [SNU FactCheck Center](https://factcheck.snu.ac.kr/home/about), the first and only fact-checking platform in South Korea.
+Hi! I'm a Ph.D. Candidate at the [Hussman School of Journalism and Media](http://hussman.unc.edu/), Univeristy of North Carolina at Chapel Hill. I'm also a graduate affiliate with the [Center for Information, Technology, and Public Life (CITAP)](https://citap.unc.edu/). I will join [the department of Journalism, University of Massachusetts Amherst](https://www.umass.edu/journalism/) as an Assistant Professor of Media Law and Ethics starting September 2024. [It's official!](https://www.umass.edu/journalism/journalism-announces-hiring-heesoo-jang).
 
 I am a multidisciplinary scholar who studies artificial intelligence ethics and digital platform governance in the context of healthy information systems. I am passionate about my research because of its implications for equity and democracy.
 
