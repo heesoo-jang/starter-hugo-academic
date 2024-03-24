@@ -1,5 +1,5 @@
 ---
-title: "[The Diplomat] South Korea’s Press Freedom Under Fire"
+title: "South Korea’s Press Freedom Under Fire"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -31,7 +31,8 @@ publication: The Diplomat
 abstract: If you think the notion of news manipulation and censorship is relegated to the dark annals of authoritarian regimes, it’s time to reconsider. A closer look at the unfolding narrative in South Korea paints a disconcertingly different picture. The actions of the current administration of President Yoon Suk-yeol have cast a long shadow over press freedom in South Korea. 
 
 # Summary. An optional shortened abstract.
-summary: South Korea is on the brink of one of its most critical elections, amid an intensifying assault on press freedom.
+summary: Published in <i>[The Diplomat](https://thediplomat.com/)</i>.
+South Korea is on the brink of one of its most critical elections, amid an intensifying assault on press freedom.
 
 tags: [journalism]
 

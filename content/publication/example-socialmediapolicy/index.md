@@ -1,5 +1,5 @@
 ---
-title: "[Info, Comm, & Society] Social Media Policy in Two Dimensions: Understanding the Role of Anti-establishment Beliefs and Political Ideology in Americans’ Attribution of Responsibility regarding Online Content"
+title: "Social Media Policy in Two Dimensions"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -33,7 +33,8 @@ publication:
 abstract: While government regulators, the press, and academics struggle to determine who should be responsible for content on social media platforms, we know little about what the public believes about these issues. In this study, we investigate what drives Americans’ opinions on whether the government, platforms, or individual users should be responsible for social media content. Using data from a nationally representative survey of over 10,000 Americans, we investigate how anti-establishment attitudes relate to who Americans believe should be responsible for content on social media. We also examine the role of beliefs in the government’s role in the market, free speech beliefs, and beliefs in individual responsibility in this context. Among other findings, we show how anti-establishment beliefs and beliefs in individual responsibility may drive people to put the onus on individual users to bear the responsibility for online content. Theoretically, our study contributes to the ongoing discussion in sociology and political science that partisanship alone is not sufficient for explaining American public opinion. Practically, this study contributes to the ongoing public discussion around content moderation and related policies.
 
 # Summary. An optional shortened abstract.
-summary: We investigate what drives Americans’ opinions on whether the government, platforms, or individual users should be responsible for social media content. Using data from a nationally representative survey of over 10,000 Americans, we show how anti-establishment beliefs and beliefs in individualism may drive people to put the onus on individual users to bear the responsibility for online content.
+summary: Published open access in journal <i>[Information, Communication, & Society](https://www.tandfonline.com/journals/rics20)</i>.
+We investigate what drives Americans’ opinions on whether the government, platforms, or individual users should be responsible for social media content using data from a nationally representative survey of over 10,000 Americans.
 
 tags: []
 
