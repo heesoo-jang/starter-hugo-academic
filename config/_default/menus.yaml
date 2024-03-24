@@ -15,10 +15,10 @@ main:
     weight: 50
   - name: Research
     url: '#featured'
-    weight: 60
+    weight: 20
   - name: Blog
     url: '#posts'
-    weight: 20
+    weight: 60
 
 #  - name: Contact
 #    url: '#contact'
