@@ -60,7 +60,7 @@ social:
   link: https://scholar.google.co.kr/citations?hl=en&user=_ho9IcgAAAAJ
 - icon: cv
   icon_pack: ai
-  link: /uploads/cv_HeesooJang_sep2023.pdf
+  link: /uploads/cv_full_Mar272024.pdf
 
 
 
