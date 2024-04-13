@@ -19,7 +19,10 @@ bio: I'm enthusiastic about learning how people think and talk about technology 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence (AI) Ethics
-- Transnational Digital Platforms
+- Platform Governance
+- Journalism
+- Public Relations
+- Strategic Communication
 - Computational Mixed-method Research
 
 # Education to show in About widget
