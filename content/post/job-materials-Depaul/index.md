@@ -41,7 +41,7 @@ categories:
 - Blog
 ---
 
-Here are all of the job application materials I submitted to the College of Communication at DePaul University (Chicago, USA), where I applied for the position of Assistant Professor of Public Relations. I was one of the finalists that were invited to their on-campus interviews. 
+Here are all of the job application materials I submitted to the College of Communication at DePaul University (Chicago, USA), where I applied for the position of Assistant Professor of Public Relations. I was one of the finalists invited for on-campus interviews.
 
 If you're on the Journalism job market, you might want to check out check out my journalism job market materials.
 
