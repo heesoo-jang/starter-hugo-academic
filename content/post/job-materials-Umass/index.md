@@ -61,8 +61,12 @@ I hope you find these resources helpful. My goal is to level the playing field a
 ## Summary of my journey
 I knew I would be on the job market for 2023-24 by May, so I started promoting myself being on the job market starting at the AEJMC job hub in August. I applied to around 25 schools for an assistant professor position (including open rank searches) in my field (mostly in journalism, public relations, and other strategic communication fields), and another 10 in computer science and public policy, targeting AI ethics and social science roles despite being less familiar with their culture. After applying to  R1s and research-focused R2s known for their strong communities, I received 7 Zoom interview requests (all from journalism, public relations, and other strategic communication fields; none from other fields), progressed to campus visits with three schools, and received two official offers. Ultimately, I accepted the offer from the University of Massachusetts, Amherst.
 <br>
-
+<br>
+<br>
+<br>
 <hr>
+<br>
+<br>
 
 ## Cover Letter
 <br>

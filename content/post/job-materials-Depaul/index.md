@@ -60,8 +60,12 @@ I hope you find these resources helpful. My goal is to level the playing field a
 ## Summary of my journey
 I knew I would be on the job market for 2023-24 by May, so I started promoting myself being on the job market starting at the AEJMC job hub in August. I applied to around 25 schools for an assistant professor position (including open rank searches) in my field (mostly in journalism, public relations, and other strategic communication fields), and another 10 in computer science and public policy, targeting AI ethics and social science roles despite being less familiar with their culture. After applying to  R1s and research-focused R2s known for their strong communities, I received 7 Zoom interview requests (all from journalism, public relations, and other strategic communication fields; none from other fields), progressed to campus visits with three schools, and received two official offers. Ultimately, I accepted the offer from the University of Massachusetts, Amherst.
 <br>
-
+<br>
+<br>
+<br>
 <hr>
+<br>
+<br>
 
 ## Cover Letter
 <br>
@@ -81,7 +85,7 @@ I am prepared to teach public relations courses at both undergraduate and gradua
 I’ve also devoted significant service to the school and the field. I am actively involved in reviewing manuscripts for both conferences and journals. I am also passionate about supporting professional development opportunities for Ph.D. students and junior scholars. This year, I have co-organized two initiatives, both in collaboration with Data \& Society, including a training workshop for junior scholars on communicating their research to policymakers and exploring opportunities to promote research. <br>
 
 Lastly, I take my commitments to diversity, equity, and inclusion (DEI) seriously. This is reflected in my research, teaching, and community engagement. My research focuses on marginalized communities, seeking solutions for historical inequalities and digital harms. In teaching, I include feminist and standpoint theories, offering students valuable tools for understanding their world. Qualitative feedback shows students of color find validation in my classes. At the Center for Information, Technology, and Public Life (CITAP), I collaborate to meet marginalized communities' information needs.
-With my research expertise, my effectiveness in the classroom, and my commitment to serving marginalized communities, I will bring rigorous research, innovative and inclusive teaching, and new collaborations to DePaul University’s College of Communication. Please feel free to contact me at any time at heesoo@unc.edu or 857-472-3903. Thank you for this opportunity and for your consideration of my application. I look forward to the committee’s response.<br>
+With my research expertise, my effectiveness in the classroom, and my commitment to serving marginalized communities, I will bring rigorous research, innovative and inclusive teaching, and new collaborations to DePaul University’s College of Communication. Please feel free to contact me at any time at heesoo@unc.edu or [my cell number]. Thank you for this opportunity and for your consideration of my application. I look forward to the committee’s response.<br>
 
 Sincerely,
 <br>
