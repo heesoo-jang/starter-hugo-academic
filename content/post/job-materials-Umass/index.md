@@ -43,7 +43,7 @@ categories:
 
 Here are all of the job application materials I submitted to the Department of Journalism, University of Massachusetts, Amherst, where I will be an assistant professor in Media Law and Ethics starting September 1. 
 
-If you're on the Public Relations job market, you might want to check out my public relations job market materials.
+If you're on the Public Relations job market, you might want to check out my public relations job market materials <a href="https://www.heesoojang.com/post/job-materials-depaul//">here</a>
 
 I'm sharing my job market materials here along with the <a href="https://docs.google.com/spreadsheets/d/1QVCuMXV_9W5ui1MM4Nkl3fePEhKzcW1MMiXAJRvMhc4/edit?usp=sharing">spreadsheet template</a> I used for organizing job ads and keeping track of applications. 
 

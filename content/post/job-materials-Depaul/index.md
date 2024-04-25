@@ -43,7 +43,7 @@ categories:
 
 Here are all of the job application materials I submitted to the College of Communication at DePaul University (Chicago, USA), where I applied for the position of Assistant Professor of Public Relations. I was one of the finalists invited for on-campus interviews.
 
-If you're on the Journalism job market, you might want to check out check out my journalism job market materials.
+If you're on the Journalism job market, you might want to check out my journalism job market materials <a href="https://www.heesoojang.com/post/job-materials-umass/">here</a>
 
 I'm sharing my job market materials here along with the <a href="https://docs.google.com/spreadsheets/d/1QVCuMXV_9W5ui1MM4Nkl3fePEhKzcW1MMiXAJRvMhc4/edit?usp=sharing">spreadsheet template</a> I used for organizing job ads and keeping track of applications. 
 
