@@ -1,5 +1,5 @@
 ---
-title: A Comprehensive Job Market Material Share (Public Relations)
+title: A Comprehensive *Public Relations* Job Market Material Share
 subtitle: 
 
 # Summary for listings and search engines
