@@ -146,7 +146,8 @@ I'm sending all my best wishes and positive vibes your way. May you find your ac
 Through my blog, I'm also sharing:<ul>
   <li>
 <a href="https://www.heesoojang.com/post/job-market-schedule/">Calendar Guide for the Academic Job Market</a></li>
-<li> <a href="https://www.heesoojang.com/post/job-materials/"> My job market materials </a> </li>
+<li> <a href="https://www.heesoojang.com/post/job-materials-UMass/"> My Job Market Materials *for Journalism positions* </a> </li>
+<li> <a href="https://www.heesoojang.com/post/job-materials-depaul/"> My Job Market Materials *for Public Relations Positions* </a> </li>
 </ul>
 
 Am I missing anything? Let me know! <br>
