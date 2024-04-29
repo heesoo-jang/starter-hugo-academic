@@ -54,7 +54,7 @@ I knew I would be on the job market for 2023-24 by May, so I started promoting m
 <br>
 
 ## What was my goal for the job market?
-Obviously, the goal on the academic job market is to find a new academic home. An academic home probably means different things to different people. To me, it was about seeking an environment where there was a sense of community. I imagined an academic community where people not only got along with each other but also appreciated each other's presence. My ideal academic home was a place where I envisioned myself thriving, surrounded by supportive colleagues, and engaging in a reciprocal relationship of support. Consequently, the concept of "a good fit," for me, extended beyond just a match in research interests; it encompassed a fit in values and culture as well.
+Obviously, the goal on the academic job market is to find a new academic home. An academic home probably means different things to different people. To me, it was about seeking an environment where there was a sense of community. I imagined an academic community where people not only got along with each other but also appreciated each other's presence. My ideal academic home was a place where I envisioned myself thriving, surrounded by supportive colleagues, and engaging in a reciprocal relationship of support. And, of course, a place that I could be that colleague to my colleagues. Consequently, the concept of "a good fit," for me, extended beyond just a match in research interests; it encompassed a fit in values and culture as well.
 
 That being said, if I wanted to find the right institution for me, I needed to know who I was first. These are the questions I asked myself, before going on the job market: Who am I as a scholar? How do I position myself? What is my philosophy of research and teaching? What are some values I bring to the field that I would never ever compromise because that would change who I am? What kind of environment and community do I want to be in? What did I like about my current institution that I wanted to also seek in my new institution? What are the things that I don't get in my current institution that I'd love to have in my new academic home? 
 
@@ -82,7 +82,7 @@ The best piece of advice I've ever received from mentors I truly admire is to al
 
 For PhD candidates or ABDs (all-but-dissertations) entering the job market, shedding the graduate student identity is challenging. It took me a year to fully understand what moving beyond this identity means. As students, we can get too caught up in research being everything, obsessing over how many publications we have, and trying to showcase our research skills. However, I would like to say this mindset is not helpful, at least on the academic job market.
 
-So, what else should you concentrate on? From my experience, it's about highlighting the skills that aren't directly spelled out on your CV but are crucial for a future faculty member. First, regarding research, I aimed to demonstrate how my work contributes significantly to my field, offering fresh perspectives on established issues. I've found that illustrating the direction and impact of your research is more crucial than the sheer number of your publications. As a faculty member, your research should not only influence your students but also your peers and the broader community. It's about showing that your research will have a meaningful impact on all those you interact with, making the quality of your contributions more significant than their quantity. 
+So, what else should we concentrate on? From my experience, it's about highlighting the skills that aren't directly spelled out on your CV but are crucial for a future faculty member. First, regarding research, I aimed to demonstrate how my work contributes significantly to my field, offering fresh perspectives on established issues. I've found that illustrating the direction and impact of your research is more crucial than the sheer number of your publications. As a faculty member, your research should not only influence your students but also your peers and the broader community. It's about showing that your research will have a meaningful impact on all those you interact with, making the quality of your contributions more significant than their quantity. 
 
 Equally important, I felt that the capability to juggle research, teaching, and service responsibilities effectively was valued a lot on the job market. Thus, I emphasized my experience in teaching relevant courses at my current institution, alongside my research and contributions to the field's service. Because faculty members are expected to teach a certain number of courses each year, starting from day one, the transition from student to instructor requires a demonstrated ability to teach, in addition to fulfilling the other demands of the role.
 
@@ -104,15 +104,11 @@ I also suggest going to the <a href="https://community.aejmc.org/conference/oppo
 
 I needed support throughout my journey, and you will too. I learned that even the most experienced professionals seek guidance. In fact, asking for help became one of the most valuable skills I developed while on the job market, a skill that I'll continue to rely on throughout my career. You know what? Academics are accustomed to seeking and offering help; it's a standard part of the process. No one will think less of you for seeking support. Assistant professors ask associate professors for advice on achieving tenure, associate professors consult with full professors about promotion, and professors looking to secure a book contract seek assistance from those who have already succeeded. I can confidently tell you: seeking help smoothed every step of my journey. Here are some strategies to seek the support you need while on the job market: 
 
-<b>
-1. Find community with other students on the job market
-</b>
+<b>1. Find community with other students on the job market</b>
 
 First and foremost, I realized I wasn't alone. Connecting with many other students who were navigating the same challenges in the job market was incredibly beneficial for my mental and emotional well-being. Sharing experiences, tips, and even job leads transformed the job search from an isolating experience into a collaborative effort. It was comforting to have friends who understood exactly what I was going through, and we supported each other throughout.
 
-<b>
-2. Ask mentors and colleagues to review your materials and watch your mock job talks
-</b>
+<b>2. Ask mentors and colleagues to review your materials and watch your mock job talks </b>
 
 Preparing my application materials and practicing for interviews wasn't something I did in isolation. Involving a network of mentors, colleagues, and peers for feedback was crucial. Their insights ensured I presented myself in the best possible light, offering perspectives I hadn't considered and suggesting improvements that significantly impacted my approach.
 
@@ -120,9 +116,7 @@ Beyond all the feedback and advice received from mentors and colleagues, I felt 
 
 If you have supportive mentors and colleagues, definitely reach out to them to boost your confidence and self-esteem. If you don't, I'm truly sorry. I recognize that having a supportive network isn't guaranteed in academia. That's why going to conferences and connecting with people in the field is so important. That's how I met several of my mentors who have been anything but supportive. Also, please feel free to reach out to me.
 
-<b>
-3. Ask for advice and support from every professor you meet
-</b>
+<b> 3. Ask for advice and support from every professor you meet </b>
 
 Whenever I encountered a professor, whether from my own institution or at conferences, I seized the opportunity to ask for advice and support. Assistant professors, having navigated the job market successfully not long ago, offered me invaluable insights based on their fresh experiences. Many were generous enough to share their job market materials with me, which provided practical examples and benchmarks for my own applications. 
 
@@ -130,11 +124,9 @@ I also engaged with associate and full professors, who brought a wealth of exper
 
 The great thing about connecting with faculty members is that I not only received useful advice, but they also assisted in promoting me by mentioning my name whenever an institution was starting to hire. They were the best advocates!
 
-<b>
-4. Give yourself fun time and meeting friends outside
-</b>
+<b> 4. Give yourself fun time and meeting friends outside </b>
 
-The academic job market can be a long and grueling process. Stretching over more than half a year for most people, sometimes it can take multiple years to find your new home. Maintaining my happiness and energy was crucial for presenting my best self to interviewers. I found that all work and no play wasn't beneficial, so taking breaks to enjoy hobbies or simply relax was essential for my mental health and keeping my energy levels up. I made small adventures with my partners to find new cute coffee shops, try new recipes, and go to the gym together. I also made a trip back to South Korea during the job market to see family and reconnect with loved ones. These breaks provided me with fresh perspectives on my job search, and I do not regeret it at all.
+The academic job market can be a long and grueling process. Stretching over more than half a year for most people, sometimes it can take multiple years to find your new home. Maintaining my happiness and energy was crucial for presenting my best self to interviewers. I found that all work and no play made me very unhappy and didn't even help me be productive either, so taking breaks to enjoy hobbies or simply relax was essential for my mental health and keeping my energy levels up. I made small adventures with my partners to find new cute coffee shops, try new recipes, and go to the gym together. I also made a trip back to South Korea during the job market to see family and reconnect with loved ones. These breaks provided me with fresh perspectives on my job search, and I do not regret it at all.
 
 <br>
 
