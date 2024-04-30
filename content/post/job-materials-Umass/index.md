@@ -1,5 +1,5 @@
 ---
-title: A Comprehensive *Journalism* Job Market Material Share
+title: A Comprehensive *Ethics&Law/Journalism* Job Market Material Share
 subtitle: 
 
 # Summary for listings and search engines
