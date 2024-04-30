@@ -57,8 +57,9 @@ I knew I would be on the job market for 2023-24 by May, so I started promoting m
 ## Helpful Job Market Resources for you
 Through my blog, I'm also sharing:<ul>
   <li>
-<a href="https://www.heesoojang.com/post/getting-started/">General advice on the academic job market based on my experience</a></li>
-<li> <a href="https://www.heesoojang.com/post/job-materials/"> My job market materials </a> </li>
+<a href="https://www.heesoojang.com/post/job-market-schedule/">Calendar Guide for the Academic Job Market</a></li>
+<li> <a href="https://www.heesoojang.com/post/job-materials-UMass/"> My Job Market Materials *for Ethics&Law/Journalism positions* </a> </li>
+<li> <a href="https://www.heesoojang.com/post/job-materials-depaul/"> My Job Market Materials *for Public Relations Positions* </a> </li>
 </ul>
 
 Am I missing anything? Let me know! <br>
