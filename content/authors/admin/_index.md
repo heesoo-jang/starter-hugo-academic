@@ -89,9 +89,15 @@ highlight_name: true
 
 ---
 
-Hi! I'm a Ph.D. Candidate at the [Hussman School of Journalism and Media](http://hussman.unc.edu/), Univeristy of North Carolina at Chapel Hill. I'm also a graduate affiliate with the [Center for Information, Technology, and Public Life (CITAP)](https://citap.unc.edu/). I'll be joining [the department of Journalism, University of Massachusetts Amherst](https://www.umass.edu/journalism/) as an Assistant Professor of Media Law and Ethics starting September 2024. [It's official!](https://www.umass.edu/journalism/news/journalism-announces-hiring-heesoo-jang)
+Hi! I'm an [Assistant Professor of Media Law and Ethics](https://www.umass.edu/journalism/news/journalism-announces-hiring-heesoo-jang) in [the department of Journalism, University of Massachusetts Amherst](https://www.umass.edu/journalism/). I earned my Ph.D. from the Hussman School of Journalism and Media, University of North Carolina at Chapel Hill. I'm a faculty affiliate with the [Center for Information, Technology, and Public Life (CITAP)](https://citap.unc.edu/)
 
-I am a multidisciplinary scholar who studies artificial intelligence ethics and platform governance. I am passionate about my research because of its implications for equity and democracy.
+My research explores artificial intelligence (AI) ethics and platform governance, particularly in relation to journalism and public relations. These professions hold the power to hold institutions accountable, expose corruption, amplify marginalized voices, and shape public understanding in ways that promote equity and inclusion. As AI and digital platforms increasingly influence how information is produced and shared, I am committed to examining their ethical implications, especially their impact on equity and the democratic values that journalism and public relations are designed to uphold.
+
+I am particularly concerned about the disproportionate harms that these technologies and digital spaces pose to historically marginalized communities, including women, people of color, and those in [the Majority World](https://dl.acm.org/doi/abs/10.1145/3584931.3608439), with the understanding that marginalization takes different forms across contexts.
+
+
+
+
 
 ### 👉 Op-eds
 
