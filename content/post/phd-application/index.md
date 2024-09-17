@@ -1,6 +1,6 @@
 ---
 title: Sharing My PhD Statement of Purpose (SOP)
-subtitle: 
+subtitle: Sharing my Statement of Purpose (SOP) from my successful application to PhD programs in Journalism and Media Studies/Communication Science back in AY2019-2020
 
 # Summary for listings and search engines
 summary: 
@@ -53,7 +53,7 @@ I applied to Journalism and Media Studies/Communication science PhD programs in 
 <br>
 
 ## My PhD Statement of Purpose (SOP) for PhD Applications in Media Studies/Communication Science
-Okay, let me share my SOP first since this is what you’re here for. The paragraph I italicized was tailored to the different programs I applied to. 
+Okay, let me share my SOP first since this is what you’re here for. This SOP was for the University of Washington; I don’t know where I misplaced my UNC one! I used the same template for all the programs I applied to, so this is the SOP I used for UNC as well. The paragraph I italicized was tailored to the different programs.
 
 <br>
 Ph.D. Program in Communication<br>
