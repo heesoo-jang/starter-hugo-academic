@@ -11,7 +11,7 @@ projects: []
 # Date published
 date: "2024-09-12T00:00:00Z"
 
-# Date updated
+# Date updatedgit
 lastmod: "2024-09-12T00:00:00Z"
 
 # Is this an unpublished draft?
@@ -52,9 +52,10 @@ I applied to Journalism and Media Studies/Communication science PhD programs in 
 ## My PhD Statement of Purpose (SOP) for PhD Applications in Media Studies/Communication Science
 Okay, let me share my SOP first since this is what you’re here for. This SOP was for the University of Washington; I don’t know where I misplaced my UNC one! I used the same template for all the programs I applied to, so this is the SOP I used for UNC as well. The paragraph I italicized was tailored to the different programs.
 
-<br>
+<br><p align="right">
 Ph.D. Program in Communication<br>
 Heesoo Jang
+</p>
 <br>
 <br>
 My primary research interest lies in the area of communication technology and society. I am especially interested in examining the use of algorithms in journalism, its social impact on users from both ends, and the ethical and legal questions concerning news quality, transparency, and accountability. Through my research, I aspire to contribute to forming a society in which everyone has equal access to quality news based on reliable information.<br>
