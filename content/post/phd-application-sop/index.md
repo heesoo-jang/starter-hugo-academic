@@ -45,7 +45,7 @@ categories:
 
 
 ## A summary of my PhD application journey <br>
-I applied to Journalism and Media Studies/Communication science PhD programs in the US in 2018 for the 2019–2020 academic year. This is the Statement of Purpose (SOP) that got me final offers for five programs with fully funded packages and prestigious top-up offers—either for a stipend or separate research/travel funds—for more than half of the offers: University of Washington, University of Wisconsin-Madison, Ohio State University, University of Illinois-Urbana Champaign, and University of North Carolina at Chapel Hill. I also was offered an on-campus interview to Northwestern University, although this didn’t lead to a final offer after determining this place wasn’t a good fit for me at the time. Some schools offered acceptance without interviews, while others went through multiple interview processes. Every program is different.
+I applied to Journalism and Media Studies/Communication science PhD programs in the US in 2018 for the 2019–2020 academic year. This is the Statement of Purpose (SOP) that got me final offers for five programs with fully funded packages and prestigious top-up offers—either for a stipend or separate research/travel funds—for more than half of the offers: University of Washington, University of Wisconsin-Madison, the Ohio State University, University of Illinois-Urbana Champaign, and University of North Carolina at Chapel Hill. I also was offered an on-campus interview to Northwestern University, although this didn’t lead to a final offer after determining this place wasn’t a good fit for me at the time. After two weeks of back-to-back campus visits, several gut checks, and deep conversations with people I trust, I decided to attend UNC-Chapel Hill. Some schools offered acceptance without interviews, while others went through multiple interview processes. Every program is different.
 
 <br>
 
@@ -97,7 +97,7 @@ Adaptability and flexibility are the two essential strengths that I have develop
 <br>
 <br>
 
-## Sharing my SOP
+## Reflecting on my PhD SOP
 
 I hadn’t initially planned to write a blog post about applying for PhD programs because my experience was pre-pandemic, and I feel like many things have changed since then. However, I’ve received numerous requests for advice on PhD applications—sometimes due to overlapping research interests or methodologies, or because you’re applying to institutions I’ve been a part of. So, I decided to share the statement of purpose (SOP) I wrote when I applied for US PhD programs. I hope this helps many, as my job market materials have, especially for those without access to the tangible and intangible resources needed to navigate higher education.
 <br>
