@@ -1,9 +1,9 @@
 ---
 title: Sharing My PhD Statement of Purpose (SOP)
-subtitle: Sharing my Statement of Purpose (SOP) from my successful application to PhD programs in Journalism and Media Studies/Communication Science back in AY2019-2020
+subtitle: 
 
 # Summary for listings and search engines
-summary: 
+summary: Sharing my Statement of Purpose (SOP) from my successful application to PhD programs in Journalism and Media Studies/Communication Science back in AY2019-2020
 
 # Link this post with a project
 projects: []
@@ -44,21 +44,27 @@ categories:
 ---
 
 
-## Summary of my journey
-I applied to Journalism and Media Studies/Communication science PhD programs in the US in 2018 for the 2019–2020 academic year. This is the Statement of Purpose (SOP) that got me into five programs with fully funded packages and prestigious top-up offers—either for a stipend or separate research/travel funds—for more than half of the programs: University of Washington, University of Wisconsin-Madison, Ohio State University, University of Illinois-Urbana Champaign, and University of North Carolina at Chapel Hill. I also was offered an on-campus interview to Northwestern University, although this didn’t lead to a final offer after determining this place wasn’t a good fit for me at the time. Some schools offered acceptance without interviews, while others went through multiple interview processes. Every program is different.
+## A summary of my PhD application journey <br>
+I applied to Journalism and Media Studies/Communication science PhD programs in the US in 2018 for the 2019–2020 academic year. This is the Statement of Purpose (SOP) that got me final offers for five programs with fully funded packages and prestigious top-up offers—either for a stipend or separate research/travel funds—for more than half of the offers: University of Washington, University of Wisconsin-Madison, Ohio State University, University of Illinois-Urbana Champaign, and University of North Carolina at Chapel Hill. I also was offered an on-campus interview to Northwestern University, although this didn’t lead to a final offer after determining this place wasn’t a good fit for me at the time. Some schools offered acceptance without interviews, while others went through multiple interview processes. Every program is different.
 
 <br>
 
-## My PhD Statement of Purpose (SOP) for PhD Applications in Media Studies/Communication Science
-Okay, let me share my SOP first since this is what you’re here for. This SOP was for the University of Washington; I don’t know where I misplaced my UNC one! I used the same template for all the programs I applied to, so this is the SOP I used for UNC as well. The paragraph I italicized was tailored to the different programs.
+## My PhD Statement of Purpose (SOP) for PhD Applications 
+#### Area: Media Studies/Communication Science
+First things first, let me share my SOP since that’s what you’re here for. Priorities✨ This SOP was for the University of Washington; I don’t know where I misplaced my UNC one! I used the same template for all the programs I applied to, so this is the SOP I used for UNC as well. The paragraph I italicized was tailored for the different programs.
+
+
+<br>
+<hr>
 
 <br><p align="right">
 Ph.D. Program in Communication<br>
 Heesoo Jang
 </p>
-<br>
+
 <br>
 My primary research interest lies in the area of communication technology and society. I am especially interested in examining the use of algorithms in journalism, its social impact on users from both ends, and the ethical and legal questions concerning news quality, transparency, and accountability. Through my research, I aspire to contribute to forming a society in which everyone has equal access to quality news based on reliable information.<br>
+<br>
 
 As a young child, I had initially hoped to become a fiction writer. Writing novels, usually science fiction, in online writing communities, I had realized the importance of quality information and fact-checking. Although I was writing about the future, where androids and humans are indistinguishable, I felt that the readers wanted a believable narrative with authentic details. I would devote more time researching and checking facts to construct a realistically surreal background in which my story would unfold. For example, it took weeks of research before I could decide on what profession to give a character. If a character were to be a violinist, I would watch videos after videos of Itzhak Perlman’s performances, contemplating how to make my character the most believable.<br>
 
@@ -86,18 +92,35 @@ University of Washington provides an ideal environment for me to achieve my goal
 Adaptability and flexibility are the two essential strengths that I have developed while living in Australia, Hong Kong, France, and South Korea, befriending people from various backgrounds. While pursuing three fields of studies, I have also developed multidisciplinary skills and knowledge from communication, business, and English literature. I believe that I have a lot to offer to the academic community of the University of Washington in terms of diversity both academically and culturally.
 <br>
 <br>
+<hr>
+
+<br>
+<br>
 
 ## Sharing my SOP
-I hadn’t initially planned to write a blog post about applying for PhD programs because my experience was pre-pandemic, and I feel like many things have changed since then. However, I’ve received numerous requests for advice on PhD applications—sometimes due to overlapping research interests or methodologies, or because you’re applying to institutions I’ve been a part of. So, I decided to share the statement of purpose (SOP) I wrote when I applied for US PhD programs. I hope this helps many, as my job market materials have, especially for those without access to the tangible and intangible resources needed to navigate higher education.<br>
-I can’t say this is the only way to write an SOP—treat it as just one example of how someone else has approached it. Obviously, how you express yourself in these statements, how much you want to share, and what you want to focus on will differ based on your personality, goals, and what works best for you. For example, SOPs for PhD programs in the natural and engineering sciences will look different from my social science SOP, and whether the SOP is written solely for the PI or for the full search committee could also be a factor to consider in how you design your SOP.<br>
-Looking back, I feel grateful and proud of my earlier self. Writing any type of personal statement—whether for a PhD program or an academic job—has given me invaluable opportunities to pause, reflect on the bigger picture, and check in with myself before moving forward to the next chapter of my career. Revisiting my SOP while on the academic job market for tenure-track positions allowed me to see how much I’ve grown and what has remained consistent. The research program and interests I outlined in my PhD SOP are still highly relevant, and I fully intend to continue pursuing these lines of study beyond my PhD. That said, some of my most impactful research projects, like those on online harms, emerged after I began my program, through connections with scholars and issues that resonated deeply with me—such as digital sex trafficking in South Korea. So, don’t be afraid if your journey takes you in a different direction than you initially outlined in your SOP; it’s part of the process of growth and discovery.<br>
+
+I hadn’t initially planned to write a blog post about applying for PhD programs because my experience was pre-pandemic, and I feel like many things have changed since then. However, I’ve received numerous requests for advice on PhD applications—sometimes due to overlapping research interests or methodologies, or because you’re applying to institutions I’ve been a part of. So, I decided to share the statement of purpose (SOP) I wrote when I applied for US PhD programs. I hope this helps many, as my job market materials have, especially for those without access to the tangible and intangible resources needed to navigate higher education.
+<br>
+
+I can’t say this is the only way to write an SOP—consider it just one example of how someone else has approached it. How you express yourself in these statements, how much you want to share, and what you want to focus on will differ based on your personality, goals, and what works best for you. For example, SOPs for PhD programs in the natural and engineering sciences will look different from my social science SOP. Additionally, whether the search is designed for the SOP to be written solely for the principal investigator of your potential lab or for the full search committee is also a factor to consider in how you design your SOP. 
+
+Looking back, I feel grateful and proud of my earlier self. Writing any type of personal statement—whether for a PhD program or an academic job—has given me invaluable opportunities to pause, reflect on the bigger picture, and check in with myself before moving forward to the next chapter of my career. 
+
+Revisiting my SOP while on the academic job market for tenure-track positions allowed me to see how much I’ve grown and what has remained consistent. The research program and interests I outlined in my PhD SOP are still highly relevant, and I fully intend to continue pursuing these lines of study beyond my PhD. 
+
+That said, some of my recent research projects, like those on online harms, emerged after I began my program, through connections with scholars and issues that resonated deeply with me—such as digital sex trafficking in South Korea. So, don’t be afraid if your journey takes you in a different direction than you initially outlined in your SOP; it’s part of the process of growth and discovery.
 
 ### For Those Breaking Barriers
 To those of you who are first-generation students, people of color, individuals with disabilities, international students, and anyone leaving their family behind for post-graduate education—truly, anyone who identifies with any marginalized identity—you’re navigating a uniquely challenging journey, and I want to commend you for your courage and determination. It’s important to recognize that your experience may be very different from those who don’t share your background, and that difference is not a weakness; it’s a source of strength.<br>
+
 Please don’t be too hard on yourself if everything isn’t perfectly in place. The landscape of higher education can feel like a complex maze, filled with obstacles that others may not have to face. Acknowledge your efforts and celebrate your progress, no matter how small. Remember, your journey is valid, and it’s okay to seek support and take your time as you carve your own path. You are not alone in this, and your resilience is a powerful testament to your strength and commitment. Your unique perspective is invaluable, and it will enrich the academic community and beyond. Keep pushing forward—you’ve got this!<br>
 
+
+<br>
+<br>
+
 ## Miscellaneous Advice
-This is a collection of miscellaneous advice that I’ve shared with people I deeply care about and want to see succeed in graduate school. I hope this helps you too.<br>
+This is a collection of miscellaneous advice that I’ve shared with people I deeply care about and want to see succeed in graduate school. I hope this helps you too!<br>
 
 ### Talk with Current Students in the Program
 
@@ -114,3 +137,11 @@ The location of your program can significantly impact your experience, shaping n
 ### Think About Your Goals for the PhD Program
 
 Before applying, clarify your goals for pursuing a PhD and what you hope to achieve during and after your studies. Your objectives may evolve as you progress, which is perfectly okay. Different programs prepare you for various career paths, so ensure the programs you consider align with your long-term aspirations, whether in academia, industry, or beyond. If you’re like me, you might want flexibility in coursework to explore interdisciplinary interests, test out industry roles, or engage in community-based work. Reflect on the type of mentorship and academic environment that will best support your growth, and remember that each experience along the way contributes to your unique journey. Embrace the process with an open mind, as unexpected turns can lead to valuable opportunities. 
+
+<br>
+<br>
+<br>
+🤟 You've got this! <br>
+If you have questions or want to share your own experiences, let me know via <a href="https://x.com/heesoojang2?lang=en">@HeesooJang2</a> or shoot me an email at <a href="mailto:heesoojang@umass.edu">heesoojang@umass.edu</a>. Academia can be a lonely journey, but it doesn’t have to be that way.
+<br>
+<br>
