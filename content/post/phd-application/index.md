@@ -56,7 +56,7 @@ I applied to Journalism and Media Studies/Communication science PhD programs in 
 Okay, let me share my SOP first since this is what you’re here for. The paragraph I italicized was tailored to the different programs I applied to. 
 
 <br>
-Ph.D. Program in Communication
+Ph.D. Program in Communication<br>
 Heesoo Jang
 <br>
 
