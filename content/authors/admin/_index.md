@@ -6,12 +6,12 @@ title: Heesoo Jang
 superuser: true
 
 # Role/position/tagline
-role: Social Science Researcher
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: UNC-Chapel Hill
-  url: https://www.unc.edu/
+- name: UMass-Amherst
+  url: https://www.umass.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm enthusiastic about learning how people think and talk about technology and which factors influence them to do so. Through my research, I aim to address the multifaceted impacts of AI systems and digital platforms on people and society and their implications for democracy. More specifically, I look into the discourses, framing efforts, and ethical issues of AI technology and digital platforms. 
