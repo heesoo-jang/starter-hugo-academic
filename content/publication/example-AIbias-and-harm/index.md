@@ -1,19 +1,19 @@
 ---
-title: "Introducing the Co-oriented Scansis (CoS) model: A case of chatbot, Lee-Luda"
+title: "An Assessment of Reported Biases and Harms of Large Language Models"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Heesoo Jang
-- Suman Lee
+- Jaemin Cho
 
 # Author notes (optional)
 # author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2022-05-13"
+date: "2024-06-21"
 doi: "10.1016/j.pubrev.2023.102360"
 
 # Schedule page publish date (NOT publication's date).
@@ -26,13 +26,13 @@ doi: "10.1016/j.pubrev.2023.102360"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Public Relations Review
+publication: International Communication Association (ICA) Conference
 
 
-abstract: This study presents the Co-oriented Scansis (CoS) model, which provides a comprehensive understanding of scansis—a recently identified crisis type integrated into the Situational Crisis Communication Theory (SCCT). Using a crisis case of Scatter Lab, a South Korean AI company, as a model case, the study applies the CoS model to analyze the perceptions and meta-perceptions of both the organization and the public regarding the crisis. The data collection involved three official statements released by Scatter Lab and an analysis of 365 reviews from the Google Play users' reviews page of Science of Love—the app used by Scatter Lab to collect intimate conversations between romantic partners. The findings highlight the utility of the CoS model in explaining how Scatter Lab's AI crisis evolved into a scansis. Specifically, the organization's failure to accurately comprehend the public's perception of the crisis (second level co-orientation) and the resulting discrepancy between the organization and the public's perceptions (third level co-orientation) contributed to moral outrage, ultimately leading to a scansis. The study concludes by discussing the theoretical contributions of the CoS model and its practical implications for crisis management.
+abstract: Artificial intelligence (AI) systems are perpetuating social biases, harming those who are already marginalized. In response, documenting ethical considerations of AI models has emerged as a non-algorithmic solution to assess and mitigate AI biases and harms. This study examined how biases and harms are reported and understood in the documents of so-called large language models (LLMs). We used both qualitative thematic analysis and quantitative content analysis. Based on our analysis, we discuss the implications of our findings, including the need for public availability for identifying and mitigating biases, the observed consensus around understanding biases in models, bias evaluations that narrowly define bias through existing benchmarks, the need to go beyond just listing harms than discussing them, and delegation of mitigation efforts to future work and downstream applications. Our study shows that the AI industry needs more interdisciplinary collaborations with scholars who have expertise in representation, bias, prejudice, and ethics.
 
 # Summary. An optional shortened abstract.
-summary: Published in <i>[Public Relations Review](https://www.sciencedirect.com/journal/public-relations-review)</i>. We propose a new model that explains the gap between how AI companies and the public understand organizational crises caused by AI systems. How does a crisis of an AI company become scandalized? We use the case of a South Korean AI company, Scatterlab, to answer this question. 
+summary: This study analyzes how biases and harms are reported in large language model documentation, highlighting the need for interdisciplinary collaboration to address ethical issues and improve mitigation efforts in AI. It received the Top Paper Award.
 
 tags: []
 
@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: uploads/janglee2023-leeluda.pdf
+url_pdf: uploads/ICA_ASSESSMENT_BIAS_TITLE.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
