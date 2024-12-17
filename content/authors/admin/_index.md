@@ -106,11 +106,11 @@ I am a public-facing scholar dedicated to making complex issues accessible and d
 
 In the Media: Selected Interviews and Mentions
 
-- 2024. [Interview with Jang on martial law in South Korea](https://youtu.be/VF-XQp4BBW4) (<i>CNN</i>) 
-- 2024. [The end of passive democracy](https://www.bloomberg.com/news/features/2024-12-06/south-korea-s-brush-with-martial-law-is-a-warning-to-democratic-nations) (<i>Bloomberg</i>)
-- 2024. [Two Upstart Search Engines Are Teaming Up to Take on Google](https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/) (<i>Wired</i>)
-- 2024. ["Journalists must monitor dangerous AI"](https://news.mt.co.kr/mtview.php?no=2024061411434854201) (<i>Moneytoday</i>)
-- 2024. [Hussman researcher promotes truth in the news](https://endeavors.unc.edu/hussman-researcher-promotes-truth-in-the-news) (<i>Endeavors</i>)
+- 2024. [Interview with Jang on martial law in South Korea](https://youtu.be/VF-XQp4BBW4) <i>(CNN)</i> 
+- 2024. [The end of passive democracy](https://www.bloomberg.com/news/features/2024-12-06/south-korea-s-brush-with-martial-law-is-a-warning-to-democratic-nations) <i>(Bloomberg)</i>
+- 2024. [Two Upstart Search Engines Are Teaming Up to Take on Google](https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/) <i>(Wired)</i>
+- 2024. ["Journalists must monitor dangerous AI"](https://news.mt.co.kr/mtview.php?no=2024061411434854201) <i>(Moneytoday)</i>
+- 2024. [Hussman researcher promotes truth in the news](https://endeavors.unc.edu/hussman-researcher-promotes-truth-in-the-news) <i>(Endeavors)</i>
 
 Opinion pieces
 
