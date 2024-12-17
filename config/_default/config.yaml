@@ -71,3 +71,11 @@ security:
     getenv:
       - ^HUGO_
       - ^WC_
+
+outputFormats:
+  headers:
+    mediaType: text/plain
+    baseName: headers
+    isPlainText: true
+    notAlternative: true
+

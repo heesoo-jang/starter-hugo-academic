@@ -104,6 +104,7 @@ I'm an [Assistant Professor of Media Law and Ethics](https://www.umass.edu/journ
 - <i>[(CNN, 2024)](https://youtu.be/VF-XQp4BBW4)</i> Interview with Jang on martial law in South Korea
 - <i>[(Bloomberg, 2024)](https://www.bloomberg.com/news/features/2024-12-06/south-korea-s-brush-with-martial-law-is-a-warning-to-democratic-nations)</i> The end of passive democracy
 - <i>[(Wired, 2024)](https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/)</i> Two Upstart Search Engines Are Teaming Up to Take on Google
+- <i>[The Washington Post, 2024](https://www.washingtonpost.com/opinions/2024/05/14/election-denial-prevention/)</i> Americans must prepare for another round of election denial
 
 **<span style="color: black;">Opinion pieces</span>**
 
