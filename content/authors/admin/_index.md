@@ -30,7 +30,7 @@ education:
   courses:
   - course: Ph.D. in Communication
     institution: University of North Carolina at Chapel Hill, USA
-    year: Expected 2024
+    year: 2024
   - course: M.A. in Communication
     institution: Seoul National University, South Korea
     year: 2018
@@ -89,22 +89,35 @@ highlight_name: true
 
 ---
 
-Hi! I'm an [Assistant Professor of Media Law and Ethics](https://www.umass.edu/journalism/news/journalism-announces-hiring-heesoo-jang) in [the department of Journalism, University of Massachusetts Amherst](https://www.umass.edu/journalism/). I earned my Ph.D. from the [Hussman School of Journalism and Media, University of North Carolina at Chapel Hill](https://hussman.unc.edu/). I'm a faculty affiliate with the [Center for Information, Technology, and Public Life (CITAP)](https://citap.unc.edu/).
+I'm an [Assistant Professor of Media Law and Ethics](https://www.umass.edu/journalism/news/journalism-announces-hiring-heesoo-jang) in [the department of Journalism, University of Massachusetts Amherst](https://www.umass.edu/journalism/). 
 
-My research explores artificial intelligence (AI) ethics and platform governance, particularly in relation to journalism and public relations. These professions hold the power to hold institutions accountable, expose corruption, amplify marginalized voices, and shape public understanding in ways that promote equity and inclusion. As AI and digital platforms increasingly influence how information is produced and shared, I am committed to examining their implications, especially their impact on equity and the democratic values that journalism and public relations are designed to uphold.
+I'm a faculty affiliate with the [Global Technology for Social Justice Lab (GloTech)](https://glotechlab.net/) and the [Center for Information, Technology, and Public Life (CITAP)](https://citap.unc.edu/). I co-organize the Tech Policy Junior Scholar Working Group in collaboration with [Data & Society's Public Technology Leadership Collaborative (PTLC)](https://datasociety.net/public-technology-leadership-collaborative/), a peer-learning network of scholars, researchers, and government leaders focused on the social and cultural impacts of data and technology.
 
-I am particularly concerned about the disproportionate harms that these technologies and digital spaces pose to historically marginalized communities, including women, people of color, and those in [the Majority World](https://dl.acm.org/doi/abs/10.1145/3584931.3608439), with the understanding that marginalization takes different forms across contexts.
+### 👉 Curious about my research?
+
+My research examines AI ethics and platform governance through the lens of public accountability, equity, and systemic impact. As AI and digital platforms transform how information is produced and disseminated, I investigate their implications for democratic governance, social equity, and institutional transparency. I am particularly focused on the impact of these technologies on journalism, public relations, and legal systems—critical pillars of a healthy democracy that hold power to account, amplify marginalized voices, and foster informed public debate.
+
+In my scholarship, I focus on addressing the disproportionate harms these technologies impose on historically marginalized communities, including but not limited to women, children, people of color, and populations in the [Majority World](https://dl.acm.org/doi/abs/10.1145/3584931.3608439). Recognizing that inequities manifest differently across social, economic, and geopolitical contexts, my work seeks to inform policies and governance frameworks that advance justice, inclusivity, and democratic resilience in the digital age.
 
 
+### 👉 Going beyond academic walls
 
+I am a public-facing scholar dedicated to making complex issues accessible and driving meaningful, real-world conversations. 
 
+In the Media: Selected Interviews and Mentions
 
-### 👉 Op-eds
+- 2024. [Interview with Jang on martial law in South Korea](https://youtu.be/VF-XQp4BBW4) (<i>CNN</i>) 
+- 2024. [The end of passive democracy](https://www.bloomberg.com/news/features/2024-12-06/south-korea-s-brush-with-martial-law-is-a-warning-to-democratic-nations) (<i>Bloomberg</i>)
+- 2024. [Two Upstart Search Engines Are Teaming Up to Take on Google](https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/) (<i>Wired</i>)
+- 2024. ["Journalists must monitor dangerous AI"](https://news.mt.co.kr/mtview.php?no=2024061411434854201) (<i>Moneytoday</i>)
+- 2024. [Hussman researcher promotes truth in the news](https://endeavors.unc.edu/hussman-researcher-promotes-truth-in-the-news) (<i>Endeavors</i>)
+
+Opinion pieces
+
+- My recent piece gained significant traction on [Bluesky](https://bsky.app/profile/did:plc:b7ijfztl7y6tu7xwu3eqcw5r/post/3lcfwf2fldc2e), where the global community was actively seeking context following South Korea's martial law declaration. You can read the viral version here: [South Korea Is Fighting for Democracy Again—And the World Needs to Know](https://docs.google.com/document/d/13cZrLIFbanNpIFNPE8xRObf_Hhko8NMpriRAH7levQo/edit?tab=t.0). An updated version was later published on [<i>Zeteo.com </i>(2024)](https://zeteo.com/p/south-korea-deeper-story-democracy-martial-law-yoon)
 
 - South Korea’s Press Freedom Under Fire. [Read how in <i> The Diplomat </i> (2024)](https://thediplomat.com/2024/03/south-koreas-press-freedom-under-fire/)
 
 - Transnational platform ecosystems harm children and women outside the West. [Read how in <i>Tech Policy Press</i> (2022)](https://techpolicy.press/tech-companies-sit-on-sidelines-while-korean-children-are-drawn-into-digital-sex-trafficking/)
 
 - AI chatbot systems can harm users in several ways. [Read how in <i>Slate</i> (2021)](https://slate.com/technology/2021/04/scatterlab-lee-luda-chatbot-kakaotalk-ai-privacy.html)
-
-
