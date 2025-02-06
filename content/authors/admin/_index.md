@@ -100,9 +100,9 @@ I'm an [Assistant Professor of Media Law and Ethics](https://www.umass.edu/journ
 
 **<span style="color: black;">Meet me in person this year at:</span>**
 - <i> [AEJMC 50th Southeast Colloquium](https://tarheels.live/aejmcsoutheast2025/)</i> @Chapel Hill, NC, USA <br>
-Law & Policy division, Saturday March 15 8:00 a.m. – 9:45 a.m. <br>
+Law & Policy division, March 15 8:00 a.m. – 9:45 a.m. <br>
 "Beyond Innovation Diffusion Theory: Stakeholder Perspectives in News Coverage of Legal AI Adoption" **(Top Faculty Paper)** <br>
-- [International Communication Association (ICA) 75th](https://www.icahdq.org/mpage/ICA25) @Denver, CO, USA <br>
+- <i> [International Communication Association (ICA) 75th](https://www.icahdq.org/mpage/ICA25) </i> @Denver, CO, USA <br>
 Law & Policy division, June 12-16 (program TBD) <br>
 "The Future of Justice: A Computational Mixed-method Approach to News Coverage of AI in the United States Legal System"
 
