@@ -15,7 +15,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm enthusiastic about learning how people think and talk about technology and which factors influence them to do so. Through my research, I aim to address the multifaceted impacts of AI systems and digital platforms on people and society and their implications for democracy. More specifically, I look into the discourses, framing efforts, and ethical issues of AI technology and digital platforms. 
+bio: I'm an [Assistant Professor of Media Law and Ethics](https://www.umass.edu/journalism/news/journalism-announces-hiring-heesoo-jang) in [the department of Journalism, University of Massachusetts Amherst](https://www.umass.edu/journalism/).
 
 # # Interests to show in About widget
 # Affiliations:
@@ -53,7 +53,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:heesoo@unc.edu
+  link: mailto:heesoojang@umass.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/HeesooJang2
@@ -97,6 +97,14 @@ highlight_name: true
 I'm an [Assistant Professor of Media Law and Ethics](https://www.umass.edu/journalism/news/journalism-announces-hiring-heesoo-jang) in [the department of Journalism, University of Massachusetts Amherst](https://www.umass.edu/journalism/). I'm affiliated with the [Global Technology for Social Justice Lab (GloTech)](https://glotechlab.net/) and the [Center for Information, Technology, and Public Life (CITAP)](https://citap.unc.edu/). I co-organize the Tech Policy Junior Scholar Working Group in collaboration with [Data & Society's Public Technology Leadership Collaborative (PTLC)](https://datasociety.net/public-technology-leadership-collaborative/).
 
 **I study the ethics and governance of AI and digital platforms, with a focus on their implications for democratic governance, social equity, and institutional transparency.** 
+
+**<span style="color: black;">Meet me in person this year at:</span>**
+- <i> [AEJMC 50th Southeast Colloquium](https://tarheels.live/aejmcsoutheast2025/)</i> @Chapel Hill, NC, USA <br>
+Law & Policy division, Saturday March 15 8:00 a.m. – 9:45 a.m. <br>
+"Beyond Innovation Diffusion Theory: Stakeholder Perspectives in News Coverage of Legal AI Adoption" **(Top Faculty Paper)** <br>
+- [International Communication Association (ICA) 75th](https://www.icahdq.org/mpage/ICA25) @Denver, CO, USA <br>
+Law & Policy division, June 12-16 (program TBD) <br>
+"The Future of Justice: A Computational Mixed-method Approach to News Coverage of AI in the United States Legal System"
 
 <!-- As AI and digital platforms transform how information is produced and disseminated, I investigate their implications for democratic governance, social equity, and institutional transparency. I focus on addressing the disproportionate harms these technologies impose on historically marginalized communities, including but not limited to women, children, people of color, and populations in the [Majority World](https://dl.acm.org/doi/abs/10.1145/3584931.3608439). I am particularly focused on the impact of these technologies on journalism, public relations, and legal systems—critical pillars of a healthy democracy that hold power to account, amplify marginalized voices, and foster informed public debate. -->
 
