@@ -33,18 +33,18 @@ bio: I'm an [Assistant Professor of Media Law and Ethics](https://www.umass.edu/
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. in Communication
+  - course: Ph.D. in CommunicationS
     institution: University of North Carolina at Chapel Hill, USA
-    year: 2024
+    # year: 2024
   - course: M.A. in Communication
     institution: Seoul National University, South Korea
-    year: 2018
+    # year: 2018
   - course: B.A. in Media and Mass Communication
     institution: Korea University, South Korea
-    year: 2016
+    # year: 2016
   - course: B.B.A in Business Administration
-    institution: Korea University Business School, South Korea
-    year: 2016
+    institution: Korea University Business School, South KoreaS
+    # year: 2016 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
