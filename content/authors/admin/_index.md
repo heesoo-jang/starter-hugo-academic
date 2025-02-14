@@ -33,7 +33,7 @@ bio: I'm an [Assistant Professor of Media Law and Ethics](https://www.umass.edu/
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. in CommunicationS
+  - course: Ph.D. in Communication
     institution: University of North Carolina at Chapel Hill, USA
     # year: 2024
   - course: M.A. in Communication
