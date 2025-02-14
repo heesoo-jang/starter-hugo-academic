@@ -43,7 +43,7 @@ education:
     institution: Korea University, South Korea
     # year: 2016
   - course: B.B.A in Business Administration
-    institution: Korea University Business School, South KoreaS
+    institution: Korea University Business School, South Korea
     # year: 2016 
 
 # Social/Academic Networking
