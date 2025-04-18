@@ -33,7 +33,7 @@ bio: I'm an [Assistant Professor of Media Law and Ethics](https://www.umass.edu/
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. in Communication
+  - course: Ph.D. in Media and Communication
     institution: University of North Carolina at Chapel Hill, USA
     # year: 2024
   - course: M.A. in Communication
@@ -68,7 +68,7 @@ social:
   link: https://scholar.google.co.kr/citations?hl=en&user=_ho9IcgAAAAJ
 - icon: cv
   icon_pack: ai
-  link: /uploads/cv_full_Oct2024.pdf
+  link: /uploads/HEESOO JANG_CV.pdf
 
 
 
