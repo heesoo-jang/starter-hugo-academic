@@ -98,14 +98,6 @@ I'm an [Assistant Professor of Media Law and Ethics](https://www.umass.edu/journ
 
 **I'm interested in the Ethics, Governance, and Policy of AI and digital platforms and what journalists, public relations professionals, and policymakers can do better to address these issues.**
 
-**<span style="color: black;">Meet me in person this year at:</span>**
-- <i> [AEJMC 50th Southeast Colloquium](https://tarheels.live/aejmcsoutheast2025/)</i> @Chapel Hill, NC, USA <br>
-Law & Policy division, March 15 8:00 a.m. – 9:45 a.m. <br>
-"Beyond Innovation Diffusion Theory: Stakeholder Perspectives in News Coverage of Legal AI Adoption" **(Top Faculty Paper)** <br>
-- <i> [International Communication Association (ICA) 75th](https://www.icahdq.org/mpage/ICA25) </i> @Denver, CO, USA <br>
-Law & Policy division, June 12-16 (program TBD) <br>
-"The Future of Justice: A Computational Mixed-method Approach to News Coverage of AI in the United States Legal System"
-
 <!-- As AI and digital platforms transform how information is produced and disseminated, I investigate their implications for democratic governance, social equity, and institutional transparency. I focus on addressing the disproportionate harms these technologies impose on historically marginalized communities, including but not limited to women, children, people of color, and populations in the [Majority World](https://dl.acm.org/doi/abs/10.1145/3584931.3608439). I am particularly focused on the impact of these technologies on journalism, public relations, and legal systems—critical pillars of a healthy democracy that hold power to account, amplify marginalized voices, and foster informed public debate. -->
 
 **<span style="color: black;">Selected Interviews and Mentions</span>**
