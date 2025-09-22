@@ -62,7 +62,9 @@ So if you’re wondering what this class is *really* like, keep reading. These v
 
 And who knows? At the end of the semester, *you* might be the one writing the next letter to future students — carrying on the tradition of saving the next wave of nervous, curious, future journalism and law folks. (No pressure. Okay, maybe just a little pressure. But the good kind!)  
 
-Now, here’s the wisdom to be carried throughout — straight from students who’ve been in your seat not long ago.
+Each semester looks a little different depending on class size and groupings, but the big picture and what you’ll take away from this course always remain the same.
+
+Now, here’s the wisdom to carry with you—straight from students who were in your seat not long ago. 
 
 Still got questions? I've got you. Email me at heesoojang@umass.edu
 
