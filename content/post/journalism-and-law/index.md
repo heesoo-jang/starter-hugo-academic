@@ -77,27 +77,28 @@ Still got questions? I've got you. Email me at heesoojang@umass.edu
 ---
 
 ## Emily Johnson (Spring 25)
+> Dear future Journalism and Law student,
+>
 > This class will be one of the most important, in terms of content, that will apply to the rest of your lives and careers. Especially in the current political climate we live in, knowing your rights as a journalist as well as just a citizen is so important… Through all of the ups and downs of your semester keep in mind that your education, before all else, is about your learning– not just the grades.  
->   
+> It’s so easy to get caught up and feel like finishing and submitting assignments is the most important thing but appreciate the process of learning new things because after college that experience isn’t as common for most.
 > Also Heesoo is amazing and truly cares about her students, you are so lucky to have the opportunity to take this class so take full advantage of it!
+>
+> Sincerely, 
+>
+> a past Journalism and Law student :)
 ---
 
 ## Aivree Kus (Spring 25)
-> If you feel like you’re in a trap, trust me, you aren’t… The semester brings everyone together, and by the time you’re done, you won’t want to leave.  
->   
-> Expect an easy way to ask questions without having to raise your hand, thanks to sticky thoughts. The FIRACs… really give you an opportunity to fully understand what the class is about.  
->   
-> **Key case?** New York Times v. Sullivan… It’ll be eye opening, and you might take this new knowledge into your own life more than you realize.  
->   
-> **Presentations?** Project your voice, bring note cards, and find quotes… Everyone is just as anxious, and those viewing are more concerned about their feedback forms anyway.  
->   
-> A challenge I had was presenting, so trust me if I could nail it while being anxious, so can you.  
->   
-> Well, dear reader, get out your map and get ready to run this class. Have faith in yourself, it’s not as scary as it may seem!
-
+> Dear reader,
+>
+> If you feel like you’re in a trap, trust me, you aren’t in one. While you may be looking at the syllabus thinking ‘how am I going to complete this course?' just take a breath and relax, it’s a lot of information, but it makes your life easier in the long run. The semester brings everyone together, and by the time you're done, you won’t want to leave. Expect an easy way to ask questions without having to raise your hand, thanks to sticky thoughts, which double as a way for you to show you are in class for the day. The FIRACS, sit down and read. Take your time and read it as many times as you need. These really give you an opportunity to fully understand what the class is about and the material you are seeing in class. I think the one legal case that is vital to keep with you is the New York Times v. Sullivan case, which you might cover for your first FIRAC. It helps determine malice and when it can be used legally. You’ll learn how far the Supreme Court will go to uphold the 1st amendment. It’ll be eye opening, and you might take this new knowledge into your own life more than you realize, especially with how you might view politics. Make sure to project your voice during your presentations, bring note cards, and find quotes to say, this will allow you to have solid facts to support your ideas. Just know everyone is just as anxious, and those viewing are more concerned about their feedback forms, which are more content based anyway. A challenge I had in this class was presenting, so trust me if I could nail it while being anxious, so can you. I had this magical moment where as soon as I presented in front of Heesoo, I did unbelievably good and then went back to being anxious in front of everyone. I would recommend taking notes during class and trying to keep a focus on this to help you with your sticky thoughts for the day. It also reinforces what information you learned. Well, dear reader, get out your map and get ready to run this class. Have faith in yourself, it’s not as scary as it may seem!
+>
+> Much love,
+>
+> Aivree Kus
 ---
 
-## Maggie Norton (Spring 25)
+## Maggie (Spring 25)
 > This class is actually so fun. I’m not joking when I say that Heesoo is one of the best professors ever. What you can expect from this class is a lot of learning, as well as a large amount of participation.  
 >   
 > Do not be nervous about presentations, it is really not that serious. I do get nervous with presentations but Heesoo makes such a comfortable environment that it does not feel scary.  
