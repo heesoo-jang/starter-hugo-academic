@@ -76,7 +76,7 @@ Still got questions? I've got you. Email me at heesoojang@umass.edu
 
 ---
 
-## Emily Johnson (Spring 25)
+## Emily(Spring 25)
 > Dear future Journalism and Law student,
 >
 > This class will be one of the most important, in terms of content, that will apply to the rest of your lives and careers. Especially in the current political climate we live in, knowing your rights as a journalist as well as just a citizen is so important… Through all of the ups and downs of your semester keep in mind that your education, before all else, is about your learning– not just the grades.  
@@ -88,7 +88,7 @@ Still got questions? I've got you. Email me at heesoojang@umass.edu
 > a past Journalism and Law student :)
 ---
 
-## Aivree Kus (Spring 25)
+## Aivree (Spring 25)
 > Dear reader,
 >
 > If you feel like you’re in a trap, trust me, you aren’t in one. While you may be looking at the syllabus thinking ‘how am I going to complete this course?' just take a breath and relax, it’s a lot of information, but it makes your life easier in the long run. The semester brings everyone together, and by the time you're done, you won’t want to leave. Expect an easy way to ask questions without having to raise your hand, thanks to sticky thoughts, which double as a way for you to show you are in class for the day. The FIRACS, sit down and read. Take your time and read it as many times as you need. These really give you an opportunity to fully understand what the class is about and the material you are seeing in class. I think the one legal case that is vital to keep with you is the New York Times v. Sullivan case, which you might cover for your first FIRAC. It helps determine malice and when it can be used legally. You’ll learn how far the Supreme Court will go to uphold the 1st amendment. It’ll be eye opening, and you might take this new knowledge into your own life more than you realize, especially with how you might view politics. Make sure to project your voice during your presentations, bring note cards, and find quotes to say, this will allow you to have solid facts to support your ideas. Just know everyone is just as anxious, and those viewing are more concerned about their feedback forms, which are more content based anyway. A challenge I had in this class was presenting, so trust me if I could nail it while being anxious, so can you. I had this magical moment where as soon as I presented in front of Heesoo, I did unbelievably good and then went back to being anxious in front of everyone. I would recommend taking notes during class and trying to keep a focus on this to help you with your sticky thoughts for the day. It also reinforces what information you learned. Well, dear reader, get out your map and get ready to run this class. Have faith in yourself, it’s not as scary as it may seem!
@@ -107,7 +107,7 @@ Still got questions? I've got you. Email me at heesoojang@umass.edu
 
 ---
 
-## Ty Priest-Heck (Spring 25)
+## Ty (Spring 25)
 > Dear future student,
 >
 > I recommend taking Journalism and Law, especially with Heesoo Jang. This semester was so much fun; I made many friends and learned a lot. You should expect to show up to most of the classes prepared to learn. There are heavy concepts throughout the course, but Heesoo makes a point of offering extra support and going through each concept thoroughly. Also, if you ask for the occasional extension, she is kind and understanding about it. I would say the workload stays easy if you don’t fall behind. You can’t just not go to class for a week or two and return and feel prepped. 
@@ -125,7 +125,7 @@ Still got questions? I've got you. Email me at heesoojang@umass.edu
 
 ---
 
-## Samantha Craddock (Spring 25)
+## Samantha (Spring 25)
 > This semester was good! It was significantly less busy and stressful than my fall semester.  
 >   
 > **What should I expect?** A lot of discussion, a super chill and comforting environment, and a loooooot to learn.  
@@ -144,7 +144,7 @@ Still got questions? I've got you. Email me at heesoojang@umass.edu
 
 ---
 
-## Rylee Davis (Spring 25)
+## Rylee (Spring 25)
 > This semester was really fun! I learned a lot of new things, but it all felt very attainable.  
 >   
 > **What to expect?** There will be a lot of group discussion and opportunities for participation. Expect to learn a lot in class, and be prepared to ask questions.  
@@ -162,7 +162,7 @@ Still got questions? I've got you. Email me at heesoojang@umass.edu
 > **Proud moment?** When I made the poster with the FIRAC method and presented it a couple of times, I could feel myself understanding it more and more.
 ---
 
-## Mehrob Fatemi (Spring 25)
+## Mehrob (Spring 25)
 > On Day 1, I was petrified. I’d heard from past students that this class was incredibly long, time-consuming, deadline loaded and concrete; and packed with work. I was even more afraid when Professor Jang handed out 14 page syllabus packets… However, as I read through it, I still saw understanding and leniency.  
 >   
 > The biggest thing I noticed from the first to second half of the semester, was the discussions we got into. The discussions were always welcomed during class, but especially in the second half of the semester, I found Professor Jang promoting in depth conversations…  
@@ -175,7 +175,7 @@ Still got questions? I've got you. Email me at heesoojang@umass.edu
 
 ---
 
-## Beckett Storey (Spring 25)
+## Beckett (Spring 25)
 > I learned so much from Heesoo and the rest of the class this semester. I became a better journalist and a more informed member of society.  
 >   
 > **What to expect?** This class will challenge you to research and learn more about our system of government. It is crucial to pay attention and keep up with the learning, but if you do, you’ll have no issues succeeding.  
@@ -266,7 +266,7 @@ Still got questions? I've got you. Email me at heesoojang@umass.edu
 
 --- 
 
-## Andre Ayuyao (Fall 24)
+## Andre (Fall 24)
 > The semester has been great. I've been really busy but productive at the same time. I'm excited to wrap it up and head into the Christmas break.  
 >   
 > **What to expect?** This class is content-heavy, there are a lot of concepts and cases you need to learn about and cover. With that being said, the way Professor Jang approaches this information makes it very accessible. Expect to put in some time when making presentations or doing research for assignments.  
@@ -285,7 +285,7 @@ Still got questions? I've got you. Email me at heesoojang@umass.edu
 
 ---
 
-## Hannah Berry (Fall 24)
+## Hannah (Fall 24)
 > In all honesty, this semester was brutal for me. I graduate in a week and I have been overwhelmed all semester… However, I absolutely loved this class! This was a class I enjoyed coming to every Monday/Wednesday because of the community in the class.  
 >   
 > **What to expect?** You should expect to complete three presentations throughout the semester (they really help you grasp the information in a deeper way), engage with your classmates each class and get to know them as people outside of being students, and complete feedback on other student's work. You will learn a lot throughout this course through discussion and deep engagement with the content. I wish I could take another semester of this class.  
@@ -304,7 +304,7 @@ Still got questions? I've got you. Email me at heesoojang@umass.edu
 
 ---
 
-## Grace Chai (Fall 24)
+## Grace (Fall 24)
 > It was difficult emotionally at times but academically I think I did really well!  
 >   
 > **What to expect?** This class will make you think. You will be confused at times because there is a lot of information and legal jargon to process, but you'll learn valuable things so take it all in with an open mind.  
@@ -323,7 +323,7 @@ Still got questions? I've got you. Email me at heesoojang@umass.edu
 
 ---
 
-## Eva Maniatty (Fall 24)
+## Eva (Fall 24)
 > This semester was full of growth and was character building.  
 >   
 > **What to expect?** Expect to be an active participant in discussions and to read!  
@@ -342,7 +342,7 @@ Still got questions? I've got you. Email me at heesoojang@umass.edu
 
 ---
 
-## Crissy Saucier (Fall 24)
+## Crissy(Fall 24)
 > This semester has been kind of difficult for me to juggle my course load across the five classes I am taking. However, I am glad the semester is coming to an end.  
 >   
 > **What to expect?** Journalism and Law is a great class based on participation and peer engagement that has given me the foundational knowledge of media law, specifically concerning journalism. Each student in the class completed 3 presentations and wrote 2 papers to articulate their learned knowledge in the class.  
