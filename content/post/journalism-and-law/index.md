@@ -38,7 +38,7 @@ categories:
 - Blog
 ---
 
-## Thinking about taking Journalism & Law (JOURN 445)? 
+## Thinking about taking Journalism & Law (JOURNAL 445)? 
 
 
 Hi! If you’re here, you’re probably one of our students at UMass Amherst thinking about taking Journalism and Law (JOURNAL 445) with me. 
