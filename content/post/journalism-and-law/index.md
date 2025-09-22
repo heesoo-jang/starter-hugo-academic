@@ -108,15 +108,20 @@ Still got questions? I've got you. Email me at heesoojang@umass.edu
 ---
 
 ## Ty Priest-Heck (Spring 25)
-> This semester was so much fun; I made many friends and learned a lot. You should expect to show up to most of the classes prepared to learn. There are heavy concepts throughout the course, but Heesoo makes a point of offering extra support and going through each concept thoroughly.  
->   
-> I think one legal concept that I will take with me is defamation. You often hear about defamation in the media… but I didn’t know what it meant or, more importantly, how I could be sued for it.  
->   
-> This class will entirely change the way you think about law… Journalists interact with the law significantly more than you would think.  
->   
-> **Presentations?** Follow the exact outline of Heesoo’s practice presentation, and you will be just fine. She’s a very reasonable grader as well. Also, you do it in a group of 3 or 4, so odds are you won’t have to do all the work.  
->   
-> Honestly, I’m most proud of the community that this class built together. We all laughed, had difficult conversations, and asked big questions. Overall, I’m incredibly grateful I got to take this class.
+> Dear future student,
+>
+> I recommend taking Journalism and Law, especially with Heesoo Jang. This semester was so much fun; I made many friends and learned a lot. You should expect to show up to most of the classes prepared to learn. There are heavy concepts throughout the course, but Heesoo makes a point of offering extra support and going through each concept thoroughly. Also, if you ask for the occasional extension, she is kind and understanding about it. I would say the workload stays easy if you don’t fall behind. You can’t just not go to class for a week or two and return and feel prepped. 
+>
+> I think one legal concept that I will take with me is defamation. You often hear about defamation in the media, especially in the last 10 years and the rise of social media, but I didn’t know what it meant or, more importantly, how I could be sued for it. This class will entirely change the way you think about law because it highlights the complexities of law and the many doctrines and legal processes. Journalists interact with the law significantly more than you would think, and it’s essential to understand what you could be unprotected from in the eyes of the law. 
+>
+>The presentations seem super scary and intimidating, but they are not! My biggest recommendation is to follow the exact outline of Heesoo’s practice presentation, and you will be just fine. She’s a very reasonable grader as well. Also, you do it in a group of 3 or 4, so odds are you won’t have to do all the work.
+>
+> While all legal terms seem intimidating, you aren’t tested on definitions, which helps with the stress. If you forget what something means, ASK! GOOGLE IT! FIGURE IT OUT DIVA! But don’t sit there confused because you will fall even deeper behind if you don't know the term. 
+>
+> Honestly, I’m most proud of the community that this class built together. We all laughed, had difficult conversations, and asked big questions. 
+>
+>Overall, I’m incredibly grateful I got to take this class and would encourage all students to take it.
+
 
 ---
 
