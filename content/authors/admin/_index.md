@@ -97,11 +97,12 @@ highlight_name: true
 I'm an [Assistant Professor of Media Law and Ethics](https://www.umass.edu/journalism/news/journalism-announces-hiring-heesoo-jang) in [the department of Journalism, University of Massachusetts Amherst](https://www.umass.edu/journalism/). I'm affiliated with the [Global Technology for Social Justice Lab (GloTech)](https://glotechlab.net/) and the [Center for Information, Technology, and Public Life (CITAP)](https://citap.unc.edu/). I co-organize the junior tech scholar group with the [Public Technology Leadership Collaborative (PTLC)](https://datasociety.net/public-technology-leadership-collaborative/).
 
 I study AI systems and platform power, examining their implications for journalism, media, and democracy.
+My work also explores how powerful actors—media organizations, institutions, and governments—can better support the public's relationship with technology.
 
 <!-- **<span style="color: black;">Meet me in person this summer:</span>**
 - <i> [AEJMC 2025](https://tarheels.live/aejmcsoutheast2025/)</i> @Chapel Hill, NC, USA <br>
 Law & Policy division, March 15 8:00 a.m. – 9:45 a.m. <br>
-"Beyond Innovation Diffusion Theory: Stakeholder Perspectives in News Coverage of Legal AI Adoption" **(Top Faculty Paper)** <br> -->
+"Beyond Innovation Diffusion Theory: Stakeholder Perspectives in News Coverage of Legalgit sta AI Adoption" **(Top Faculty Paper)** <br> -->
 
 <!-- As AI and digital platforms transform how information is produced and disseminated, I investigate their implications for democratic governance, social equity, and institutional transparency. I focus on addressing the disproportionate harms these technologies impose on historically marginalized communities, including but not limited to women, children, people of color, and populations in the [Majority World](https://dl.acm.org/doi/abs/10.1145/3584931.3608439). I am particularly focused on the impact of these technologies on journalism, public relations, and legal systems—critical pillars of a healthy democracy that hold power to account, amplify marginalized voices, and foster informed public debate. -->
 
