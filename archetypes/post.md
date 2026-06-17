@@ -27,8 +27,9 @@ authors:
 - Heesoo Jang
 
 # Choose ONE column (matches the Substack sections):
-#   Research Notes  -> public scholarship: AI, democracy, platforms, media law
-#   Academic Life   -> mentorship: job market, grad school, the profession
+#   Korea & Democracy -> South Korean politics, press freedom, public commentary
+#   Research Notes    -> public scholarship: AI, journalism, platforms, media law
+#   Academic Life     -> the job market & early-career faculty life
 categories:
 - Research Notes
 
