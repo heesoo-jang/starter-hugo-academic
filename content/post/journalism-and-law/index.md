@@ -35,7 +35,7 @@ tags:
 - UMassAmherst
 
 categories:
-- Blog
+- Academic Life
 ---
 
 ## Thinking about taking Journalism & Law (JOURNAL 445)? 

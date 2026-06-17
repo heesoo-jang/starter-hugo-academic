@@ -40,7 +40,7 @@ tags:
 - Personal Experience
 
 categories:
-- Blog
+- Academic Life
 ---
 
 

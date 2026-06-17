@@ -3,8 +3,7 @@ title: A Comprehensive *Ethics&Law/Journalism* Job Market Material Share
 subtitle: 
 
 # Summary for listings and search engines
-summary: 
-
+summary: "My complete journalism / media-law-and-ethics job-market application materials, shared openly, from the search that led to my UMass position."
 # Link this post with a project
 projects: []
 
@@ -38,7 +37,7 @@ tags:
 - Personal Experience
 
 categories:
-- Blog
+- Academic Life
 ---
 
 Here are all of the job application materials I submitted to the Department of Journalism, University of Massachusetts, Amherst, where I will be an assistant professor in Media Law and Ethics starting September 1. 

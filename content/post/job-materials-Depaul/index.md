@@ -3,8 +3,7 @@ title: A Comprehensive *Public Relations* Job Market Material Share
 subtitle: 
 
 # Summary for listings and search engines
-summary: 
-
+summary: "My complete public relations job-market application materials, shared openly — plus the spreadsheet I used to track applications."
 # Link this post with a project
 projects: []
 
@@ -38,7 +37,7 @@ tags:
 - Personal Experience
 
 categories:
-- Blog
+- Academic Life
 ---
 
 Here are all of the job application materials I submitted to the College of Communication at DePaul University (Chicago, USA), where I applied for the position of Assistant Professor of Public Relations. I was one of the finalists invited for on-campus interviews.

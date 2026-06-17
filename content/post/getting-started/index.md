@@ -3,8 +3,7 @@ title: Navigating the Academic Job Market with Grace and Grit
 subtitle: Here's how I navigated through the hidden curricula of the academic job market. Hope this is helpful for you. I'm sending positive vibes and good thoughts your way as you prepare for your own journey!
 
 # Summary for listings and search engines
-summary: 
-
+summary: "Hard-won advice on surviving and thriving on the academic job market — the mindset, the logistics, and the support that carried me through."
 # Link this post with a project
 projects: []
 
@@ -37,7 +36,7 @@ tags:
 - Personal Experience
 
 categories:
-- Blog
+- Academic Life
 ---
 
 ## Welcome! 👋

@@ -3,8 +3,7 @@ title: A Calendar Guide for the Academic Job Market
 subtitle: A detailed glimpse into a year-long quest for an academic position, tailored from my personal journey, aimed at guiding future applicants.
 
 # Summary for listings and search engines
-summary: 
-
+summary: "A month-by-month calendar for the academic job market: what to prepare and when, so the whole process feels less overwhelming."
 # Link this post with a project
 projects: []
 
@@ -37,7 +36,7 @@ tags:
 - Personal Experience
 
 categories:
-- Blog
+- Academic Life
 ---
 
 
