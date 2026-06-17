@@ -6,7 +6,7 @@ title: Dr. Heesoo Jang
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor
+role: Assistant Professor of Media Law & Ethics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -96,7 +96,7 @@ highlight_name: true
 
 I'm an [Assistant Professor of Media Law and Ethics](https://www.umass.edu/journalism/news/journalism-announces-hiring-heesoo-jang) in [the department of Journalism, University of Massachusetts Amherst](https://www.umass.edu/journalism/). I'm affiliated with the [Global Technology for Social Justice Lab (GloTech)](https://glotechlab.net/) and the [Center for Information, Technology, and Public Life (CITAP)](https://citap.unc.edu/). I co-organize the junior tech scholar group with the [Public Technology Leadership Collaborative (PTLC)](https://datasociety.net/public-technology-leadership-collaborative/).
 
-I study AI for journalism and public communication by analyzing how institutions uphold or evolve their responsibility and democratic accountability in response to AI’s societal impact. My goal is to equip institutions to thoughtfully navigate these challenges, preserving trust and ethical clarity in an AI-inflected era.
+My research asks who gets a voice in AI’s governance, how AI is narrated in public life, and who is held accountable for its harms. Working across journalism, media law, and public discourse, I study the information infrastructures that democracy depends on, bringing a critical and normative lens to computational and cross-national methods. My aim is scholarship in service of a more democratic and just society.
 
 <!-- **<span style="color: black;">Meet me in person this summer:</span>**
 - <i> [AEJMC 2025](https://tarheels.live/aejmcsoutheast2025/)</i> @Chapel Hill, NC, USA <br>
