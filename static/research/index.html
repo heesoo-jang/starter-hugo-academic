@@ -1,0 +1,532 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Heesoo Jang — Research Portfolio</title>
+<style>
+  :root{
+    --ink:#1a1a1a;
+    --muted:#5c5c5c;
+    --faint:#8a8a8a;
+    --rule:#e4e1da;
+    --bg:#fbfaf7;
+    --card:#ffffff;
+    --accent:#7a4a2b;
+    --accent-soft:#f0e9e0;
+    --pub:#3a5a40;
+    --pres:#7a4a2b;
+    --maxw:860px;
+  }
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--ink);
+    font-family:Georgia,'Times New Roman',serif;
+    line-height:1.6;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:var(--maxw);margin:0 auto;padding:0 22px;}
+
+  /* Header */
+  header.masthead{
+    padding:64px 0 36px;
+    border-bottom:2px solid var(--ink);
+    margin-bottom:8px;
+  }
+  .name{
+    font-size:2.6rem;
+    letter-spacing:.5px;
+    margin:0 0 6px;
+    font-weight:700;
+  }
+  .role{
+    font-size:1.05rem;
+    color:var(--muted);
+    font-style:italic;
+    margin:0 0 18px;
+  }
+  .intro{
+    font-size:1.02rem;
+    color:var(--ink);
+    max-width:680px;
+    margin:0;
+  }
+
+  /* TOC */
+  nav.toc{
+    margin:30px 0 10px;
+    padding:20px 24px;
+    background:var(--card);
+    border:1px solid var(--rule);
+    border-radius:8px;
+  }
+  nav.toc h2{
+    font-size:.78rem;
+    letter-spacing:1.4px;
+    text-transform:uppercase;
+    color:var(--faint);
+    margin:0 0 12px;
+    font-family:Helvetica,Arial,sans-serif;
+  }
+  nav.toc ol{margin:0;padding:0;list-style:none;counter-reset:toc;}
+  nav.toc li{
+    counter-increment:toc;
+    padding:5px 0;
+    border-bottom:1px dotted var(--rule);
+  }
+  nav.toc li:last-child{border-bottom:none;}
+  nav.toc a{
+    text-decoration:none;
+    color:var(--ink);
+    font-size:1rem;
+    display:flex;
+    align-items:baseline;
+    gap:10px;
+  }
+  nav.toc a::before{
+    content:counter(toc,upper-alpha);
+    font-family:Helvetica,Arial,sans-serif;
+    font-weight:700;
+    color:var(--accent);
+    font-size:.85rem;
+    min-width:18px;
+  }
+  nav.toc a:hover{color:var(--accent);}
+
+  /* Expand / collapse controls */
+  .controls{
+    display:flex;
+    gap:10px;
+    margin:14px 0 0;
+    font-family:Helvetica,Arial,sans-serif;
+    font-size:.8rem;
+  }
+  .controls button{
+    background:none;
+    border:1px solid var(--rule);
+    border-radius:5px;
+    padding:6px 13px;
+    cursor:pointer;
+    color:var(--accent);
+    font:inherit;
+    transition:background .15s ease;
+  }
+  .controls button:hover{background:var(--accent-soft);}
+
+  /* Bucket sections */
+  section.bucket{
+    margin:50px 0;
+    scroll-margin-top:20px;
+  }
+  .bucket-head{
+    display:flex;
+    align-items:baseline;
+    gap:14px;
+    border-bottom:1px solid var(--ink);
+    padding-bottom:10px;
+    margin-bottom:6px;
+  }
+  .bucket-letter{
+    font-family:Helvetica,Arial,sans-serif;
+    font-size:1.5rem;
+    font-weight:700;
+    color:var(--accent);
+    line-height:1;
+  }
+  .bucket-title{
+    font-size:1.5rem;
+    margin:0;
+    font-weight:700;
+  }
+  .bucket-tagline{
+    font-size:.98rem;
+    color:var(--muted);
+    font-style:italic;
+    margin:10px 0 26px;
+  }
+  .flagship{
+    display:inline-block;
+    font-family:Helvetica,Arial,sans-serif;
+    font-size:.62rem;
+    letter-spacing:1px;
+    text-transform:uppercase;
+    background:var(--accent);
+    color:#fff;
+    padding:3px 8px;
+    border-radius:3px;
+    vertical-align:middle;
+    margin-left:8px;
+    font-weight:700;
+  }
+
+  /* Project cards (collapsible) */
+  details.project{
+    background:var(--card);
+    border:1px solid var(--rule);
+    border-left:3px solid var(--accent);
+    border-radius:6px;
+    margin-bottom:14px;
+    overflow:hidden;
+  }
+  details.project > summary{
+    list-style:none;
+    cursor:pointer;
+    padding:16px 22px;
+    font-size:1.1rem;
+    font-weight:700;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:12px;
+    user-select:none;
+  }
+  details.project > summary::-webkit-details-marker{display:none;}
+  details.project > summary:hover{color:var(--accent);}
+  details.project[open] > summary{
+    border-bottom:1px solid var(--rule);
+  }
+  .chev{
+    font-family:Helvetica,Arial,sans-serif;
+    font-weight:400;
+    color:var(--accent);
+    transition:transform .2s ease;
+    font-size:1.25rem;
+    line-height:1;
+    flex-shrink:0;
+  }
+  details.project[open] > summary .chev{transform:rotate(90deg);}
+  .project-body{padding:16px 22px 18px;}
+
+  .group-label{
+    font-family:Helvetica,Arial,sans-serif;
+    font-size:.66rem;
+    letter-spacing:1.2px;
+    text-transform:uppercase;
+    font-weight:700;
+    margin:14px 0 8px;
+    color:var(--faint);
+  }
+  .group-label:first-child{margin-top:0;}
+  ul.cites{margin:0 0 4px;padding:0;list-style:none;}
+  ul.cites li{
+    position:relative;
+    padding:6px 0 6px 20px;
+    font-size:.95rem;
+    color:#2a2a2a;
+    border-bottom:1px solid #f3f1ec;
+  }
+  ul.cites li:last-child{border-bottom:none;}
+  ul.cites li::before{
+    content:"";
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:7px;height:7px;
+    border-radius:50%;
+    background:var(--accent);
+  }
+  ul.cites.pub li::before{background:var(--pub);}
+  ul.cites.pres li::before{background:var(--pres);}
+  .venue{font-style:italic;}
+  .award{
+    display:inline-block;
+    font-family:Helvetica,Arial,sans-serif;
+    font-size:.66rem;
+    letter-spacing:.4px;
+    background:var(--accent-soft);
+    color:var(--accent);
+    padding:1px 7px;
+    border-radius:3px;
+    margin-left:5px;
+    font-weight:700;
+    white-space:nowrap;
+  }
+  .note{
+    font-size:.86rem;
+    color:var(--muted);
+    font-style:italic;
+    margin:10px 0 0;
+    padding-top:8px;
+    border-top:1px dotted var(--rule);
+  }
+  a.doi{color:var(--accent);text-decoration:none;border-bottom:1px solid var(--accent-soft);}
+  a.doi:hover{border-bottom-color:var(--accent);}
+
+  /* Legend */
+  .legend{
+    display:flex;
+    flex-wrap:wrap;
+    gap:22px;
+    margin:24px 0 0;
+    font-family:Helvetica,Arial,sans-serif;
+    font-size:.8rem;
+    color:var(--muted);
+  }
+  .legend span{display:inline-flex;align-items:center;gap:7px;}
+  .dot{width:9px;height:9px;border-radius:50%;display:inline-block;}
+  .dot.pub{background:var(--pub);}
+  .dot.pres{background:var(--pres);}
+
+  footer{
+    margin:50px 0 40px;
+    padding-top:20px;
+    border-top:1px solid var(--rule);
+    font-size:.82rem;
+    color:var(--faint);
+    font-family:Helvetica,Arial,sans-serif;
+  }
+
+  @media (max-width:560px){
+    .name{font-size:2rem;}
+    header.masthead{padding:42px 0 28px;}
+    details.project > summary{padding:14px 16px;font-size:1.02rem;}
+    .project-body{padding:14px 16px 16px;}
+    .bucket-title{font-size:1.25rem;}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <p style="padding-top:22px;margin:0;"><a href="/" style="color:var(--accent);text-decoration:none;font-size:.95rem;">&larr; Back to heesoojang.com</a></p>
+
+  <header class="masthead">
+    <h1 class="name">Heesoo Jang</h1>
+    <p class="role">Assistant Professor of Media Law and Ethics &middot; University of Massachusetts Amherst</p>
+    <p class="intro">My research asks who governs what a democracy knows. As the institutions democracy relies on — journalism, courts, election systems — and the communities they serve come to depend on platforms and AI companies they don't control, I study how that dependency redistributes power, who can be held accountable when these systems fail, and what makes publics support or resist their governance. I work across journalism, platforms, and AI, combining qualitative, quantitative, and computational methods across national contexts under a critical and normative lens: scholarship in service of a more democratic and just society.</p>
+    <p class="intro" style="margin-top:14px;">My work is organized into four research programs. Click any project to view its publications and presentations.</p>
+    <div class="legend">
+      <span><span class="dot pub"></span> Peer-reviewed publication / law review / dissertation</span>
+      <span><span class="dot pres"></span> Conference presentation</span>
+    </div>
+  </header>
+
+  <nav class="toc">
+    <h2>Research Programs</h2>
+    <ol>
+      <li><a href="#a">AI Governance, Ethics &amp; Democracy</a></li>
+      <li><a href="#b">Journalism, Democracy &amp; Media Accountability</a></li>
+      <li><a href="#c">Platform Harms, Digital (In)Justice &amp; Transnational Media</a></li>
+      <li><a href="#d">AI, Corporate Responsibility &amp; Public Trust</a></li>
+    </ol>
+    <div class="controls">
+      <button type="button" onclick="setAll(true)">Expand all</button>
+      <button type="button" onclick="setAll(false)">Collapse all</button>
+    </div>
+  </nav>
+
+  <!-- BUCKET A -->
+  <section class="bucket" id="a">
+    <div class="bucket-head">
+      <span class="bucket-letter">A</span>
+      <h2 class="bucket-title">AI Governance, Ethics &amp; Democracy<span class="flagship">Flagship</span></h2>
+    </div>
+    <p class="bucket-tagline">The critical study of AI power, governance, and democratic implications.</p>
+
+    <details class="project">
+      <summary><span>LLMs and U.S. Elections</span><span class="chev">&rsaquo;</span></summary>
+      <div class="project-body">
+        <div class="group-label">Publication</div>
+        <ul class="cites pub">
+          <li>Jang, H.*, McGregor, S. C.*, &amp; Neill, L.* (2026, In Press). Inaccuracies, Omissions, and Hallucinations: 2024 U.S. elections through the eyes of ChatGPT. <span class="venue">Information, Communication &amp; Society</span> [Special issue].</li>
+        </ul>
+        <div class="group-label">Presentation</div>
+        <ul class="cites pres">
+          <li>Jang, H.*, McGregor, S. C.*, &amp; Neill, L.* (2025, September). Investigating the Democratic Alignment of LLMs during the 2024 U.S. Elections. <span class="venue">APSA</span>, Vancouver.</li>
+        </ul>
+        <p class="note">Related grant: "Assessing the Impact of Large Language Models on Elections," Microsoft (2023).</p>
+      </div>
+    </details>
+
+    <details class="project">
+      <summary><span>Framing the Public Discourse on AI Ethics (Doctoral Dissertation)</span><span class="chev">&rsaquo;</span></summary>
+      <div class="project-body">
+        <div class="group-label">Dissertation</div>
+        <ul class="cites pub">
+          <li>Jang, H. (2024). An Integrative Framing Study of the Public Discourse around Artificial Intelligence (AI) Ethics [Doctoral dissertation, University of North Carolina at Chapel Hill]. Carolina Digital Repository. <a class="doi" href="https://doi.org/10.17615/jd4c-dk43">https://doi.org/10.17615/jd4c-dk43</a></li>
+        </ul>
+        <div class="group-label">Presentations</div>
+        <ul class="cites pres">
+          <li>Jang, H. (2025, August). The Ethics We Read: How News Media Shape the Moral Imagination of AI. <span class="venue">PolNet-PaCSS</span>, Boston/Cambridge.</li>
+          <li>Jang, H., &amp; Cho, J. (2024, June). An Assessment of Reported Biases and Harms of Large Language Models. <span class="venue">ICA</span>, Gold Coast. <span class="award">Top Paper</span></li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="project">
+      <summary><span>AI Infrastructure Dependency</span><span class="chev">&rsaquo;</span></summary>
+      <div class="project-body">
+        <div class="group-label">Presentations</div>
+        <ul class="cites pres">
+          <li>Jang, H.* (2025, October). Exporting autonomy, importing dependency: The geopolitical work of "sovereign AI." <span class="venue">AIES</span>, Madrid.</li>
+          <li>Jang, H. (2026, April). Lessons from the platform era for AI governance: The infrastructural dependency trap in local journalism. <span class="venue">Local Journalism Researchers Workshop</span>, Duke in DC, Washington.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="project">
+      <summary><span>AI in the Legal System &amp; First Amendment Theory</span><span class="chev">&rsaquo;</span></summary>
+      <div class="project-body">
+        <div class="group-label">Publication</div>
+        <ul class="cites pub">
+          <li>Schroeder, J., &amp; Jang, H. (2026, In Press). A synthetic marketplace: Rethinking First Amendment theory in the age of AI-generated video. <span class="venue">Missouri Law Review</span>.</li>
+        </ul>
+        <div class="group-label">Presentations</div>
+        <ul class="cites pres">
+          <li>Jang, H.*, Reid, A.*, &amp; Ringel, E.* (2025, August). Who Gets to Shape the Future? A Theory of Stakeholder Voices for Understanding Legal AI. <span class="venue">AEJMC</span>, San Francisco.</li>
+          <li>Jang, H., Ringel, E., &amp; Reid, A. (2025, June). The Future of Justice: A Computational Mixed-method Approach to News Coverage of AI in the United States Legal System. <span class="venue">ICA</span>, Denver.</li>
+          <li>Jang, H.*, Reid, A.*, &amp; Ringel, E.* (2025, March). Beyond Innovation Diffusion Theory: Stakeholder Perspectives in News Coverage of Legal AI Adoption. <span class="venue">AEJMC Southeast Colloquium</span>, Chapel Hill. <span class="award">Top Faculty Paper</span></li>
+        </ul>
+      </div>
+    </details>
+  </section>
+
+  <!-- BUCKET B -->
+  <section class="bucket" id="b">
+    <div class="bucket-head">
+      <span class="bucket-letter">B</span>
+      <h2 class="bucket-title">Journalism, Democracy &amp; Media Accountability</h2>
+    </div>
+    <p class="bucket-tagline">How news, democracy, and political actors shape — and are shaped by — the media system.</p>
+
+    <details class="project">
+      <summary><span>Democracy-Framed Journalism, Election Deniers &amp; Far-Right News</span><span class="chev">&rsaquo;</span></summary>
+      <div class="project-body">
+        <div class="group-label">Publications</div>
+        <ul class="cites pub">
+          <li>Jang, H.*, &amp; Kreiss, D.* (2024). Analyzing "Democracy-Framed Journalism": The Case of Media Coverage of Election Deniers During the 2022 U.S. Midterm Elections. <span class="venue">International Journal of Press/Politics</span>.</li>
+          <li>Archer, A. M. N., Schmitt, C., McGregor, S. C., &amp; Jang, H. (2024). Presidential Authority and the Legitimation of Far-Right News. <span class="venue">International Journal of Press/Politics</span>.</li>
+        </ul>
+        <div class="group-label">Presentations</div>
+        <ul class="cites pres">
+          <li>Archer, A. M. N., Schmitt, C., McGregor, S. C., &amp; Jang, H. (2022, September). Presidential Authority and the Legitimation of Far-Right News. <span class="venue">APSA</span>, Montreal.</li>
+          <li>Schmitt, C., Bach, P., Jang, H., McGregor, S. C., &amp; Archer, A. (2023, September). "Fox News doesn't deliver for us anymore" — Political elites and far-right media. <span class="venue">APSA</span>, Los Angeles.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="project">
+      <summary><span>Social Media Policy &amp; Attribution of Responsibility</span><span class="chev">&rsaquo;</span></summary>
+      <div class="project-body">
+        <div class="group-label">Publication</div>
+        <ul class="cites pub">
+          <li>Jang, H., Barrett, B., &amp; McGregor, S. C. (2023). Social media policy in two dimensions: Understanding the role of anti-establishment beliefs and political ideology in Americans' attribution of responsibility regarding online content. <span class="venue">Information, Communication, &amp; Society</span>.</li>
+        </ul>
+        <div class="group-label">Presentation</div>
+        <ul class="cites pres">
+          <li>Jang, H., Barrett, B., &amp; McGregor, S. C. (2022, August). Social media policy in two dimensions. <span class="venue">AEJMC</span>, Detroit.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="project">
+      <summary><span>Celebrity Journalism Ethics</span><span class="chev">&rsaquo;</span></summary>
+      <div class="project-body">
+        <div class="group-label">Presentation</div>
+        <ul class="cites pres">
+          <li>Jang, H. (2025, August). The Case of G-Dragon and the Ethics of Celebrity Journalism. <span class="venue">AEJMC</span>, San Francisco. <span class="award">First Place Faculty Paper</span></li>
+        </ul>
+      </div>
+    </details>
+  </section>
+
+  <!-- BUCKET C -->
+  <section class="bucket" id="c">
+    <div class="bucket-head">
+      <span class="bucket-letter">C</span>
+      <h2 class="bucket-title">Platform Harms, Digital (In)Justice &amp; Transnational Media</h2>
+    </div>
+    <p class="bucket-tagline">Feminist, global, and justice-oriented work on platform-enabled harm — anchored in India and South Korea.</p>
+
+    <details class="project">
+      <summary><span>Deepfakes, Image-Based Abuse &amp; Digital Sex Trafficking (Nth Room)</span><span class="chev">&rsaquo;</span></summary>
+      <div class="project-body">
+        <div class="group-label">Presentations</div>
+        <ul class="cites pres">
+          <li>Jang, H. (2023, October). Using Data Feminism to Study South Korea's Mass Digital Sex Trafficking Case. <span class="venue">A Toolbox of Feminist Wonder Workshop, CSCW '23</span>, Minneapolis.</li>
+          <li>Jang, H. (2022, April). The "Nth Room" case: transnational contexts in modern digital sex trafficking. <span class="venue">CHI Conference on Human Factors in Computing Systems</span>, New Orleans.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="project">
+      <summary><span>Digital Harm &amp; Platform (In)Justice — India &amp; South Korea</span><span class="chev">&rsaquo;</span></summary>
+      <div class="project-body">
+        <div class="group-label">Publication</div>
+        <ul class="cites pub">
+          <li>Jang, H., &amp; Narayanamoorthy, N. (2025). Echo Chambers of Digital Harm: Insights Into Layered Affordances From India and South Korea. <span class="venue">Social Media + Society</span>, 11(4).</li>
+        </ul>
+        <div class="group-label">Presentations</div>
+        <ul class="cites pres">
+          <li>Jang, H., Narayanamoorthy, N., Schelenz, L., Brandner, L. T., Burkhardt, A., Hirsbrunner, S. D., &amp; Timcke, S. (2023). Platform (In)Justice: A Call for a Global Research Agenda. <span class="venue">CSCW '23</span>, Minneapolis. [Panel Organizer]</li>
+          <li>Jang, H., et al. (2023). Platform (In)Justice: Exploring Research Priorities and Practical Solutions. <span class="venue">CSCW '23 Companion</span>, 576–580. [SIG Organizer]</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="project">
+      <summary><span>TikTok, Privacy &amp; National Reputation</span><span class="chev">&rsaquo;</span></summary>
+      <div class="project-body">
+        <div class="group-label">Presentations</div>
+        <ul class="cites pres">
+          <li>Jang, H. (2023, August). Understanding Americans' TikTok Privacy Concerns, Resistance, and Rejection via their Country Reputation of China. <span class="venue">AEJMC</span>, Washington, D.C.</li>
+          <li>Jang, H. (2021, May). Tik Tok: Motivations and Privacy Perceptions. <span class="venue">ICA</span> (virtual).</li>
+        </ul>
+      </div>
+    </details>
+  </section>
+
+  <!-- BUCKET D -->
+  <section class="bucket" id="d">
+    <div class="bucket-head">
+      <span class="bucket-letter">D</span>
+      <h2 class="bucket-title">AI, Corporate Responsibility &amp; Public Trust</h2>
+    </div>
+    <p class="bucket-tagline">How organizations — especially AI companies — communicate, manage responsibility, and are evaluated by their publics.</p>
+
+    <details class="project">
+      <summary><span>Corporate Responsibility &amp; Public Evaluation of AI Companies</span><span class="chev">&rsaquo;</span></summary>
+      <div class="project-body">
+        <div class="group-label">Presentations</div>
+        <ul class="cites pres">
+          <li>Jang, H. (2023, November). Bringing AI Under Critical CSR Scrutiny: A Critical CSR Assessment of Major AI Companies' Communication of Responsible AI. <span class="venue">NCA</span>, National Harbor.</li>
+          <li>Jang, H. (2023, March). What should CSR in the AI industry look like? — A current assessment and a framework for the future. <span class="venue">IPRRC</span>, Orlando.</li>
+          <li>Xu, H., Zhu, Y. E., Jang, H., &amp; Juarez Miro, C. (2026, August). Value-based communication in the AI industry: Public evaluation of AI companies' organization–public relationships and governance expectations. <span class="venue">AEJMC</span>, New Orleans.</li>
+          <li>Xu, H., Zhu, Y. E., Jang, H., &amp; Juarez Miro, C. (2026, June). From optimism to obligation: How positive orientation toward AI drives public demand for corporate digital responsibility. <span class="venue">ICA</span>, Cape Town.</li>
+          <li>Zhu, Y. E., Juarez Miro, C., Jang, H., &amp; Xu, H. (2026, June). Confidence engages; understanding withdraws: How knowledge and populist attitudes shape orientations toward AI and participatory governance across three countries. <span class="venue">ICA</span>, Cape Town.</li>
+        </ul>
+        <p class="note">Related grant: "Public Reactions to AI Promotional Campaigns," University of Melbourne (with H. Xu).</p>
+      </div>
+    </details>
+
+    <details class="project">
+      <summary><span>AI Crisis Communication (Lee-Luda / Co-oriented Scansis Model)</span><span class="chev">&rsaquo;</span></summary>
+      <div class="project-body">
+        <div class="group-label">Publication</div>
+        <ul class="cites pub">
+          <li>Jang, H., &amp; Lee, S. (2023). Introducing the Co-oriented Scansis (CoS) model: A case of chatbot, Lee-Luda. <span class="venue">Public Relations Review</span>.</li>
+        </ul>
+        <div class="group-label">Presentation</div>
+        <ul class="cites pres">
+          <li>Jang, H., &amp; Lee, S. (2022, May). A co-oriented crisis communication model for an AI scansis: A Case of Chatbot, Lee-Luda. <span class="venue">ICA</span>, Paris. <span class="award">Top Student Paper</span></li>
+        </ul>
+      </div>
+    </details>
+  </section>
+
+  <footer>
+    Heesoo Jang &middot; Department of Journalism, University of Massachusetts Amherst &middot; heesoojang.com
+  </footer>
+
+</div>
+
+<script>
+  function setAll(open){
+    document.querySelectorAll('details.project').forEach(function(d){ d.open = open; });
+  }
+</script>
+</body>
+</html>

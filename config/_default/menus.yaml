@@ -14,7 +14,7 @@ main:
     url: '#skills'
     weight: 50
   - name: Research
-    url: '#featured'
+    url: '/research/'
     weight: 30
   - name: Blog
     url: '#posts'
