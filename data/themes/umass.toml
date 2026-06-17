@@ -1,0 +1,29 @@
+# Theme metadata
+name = "UMass"
+
+# Is theme light or dark?
+light = true
+
+# Primary (links, buttons, accents, section headings)
+primary = "#881c1c"
+
+# Menu (navbar) — UMass maroon bar with white text
+menu_primary = "#881c1c"
+menu_text = "rgba(255, 255, 255, 0.78)"
+menu_text_active = "#ffffff"
+menu_title = "#ffffff"
+
+# Home sections
+home_section_odd = "#ffffff"
+home_section_even = "#f7f4f4"
+
+[dark]
+  menu_primary = "#6e1717"
+  menu_text = "rgba(255, 255, 255, 0.78)"
+  menu_text_active = "#ffffff"
+  menu_title = "#ffffff"
+  background = "#1a1717"
+  home_section_odd = "#1a1717"
+  home_section_even = "#211c1c"
+  link = "#e69a9a"
+  link_hover = "#f3c2c2"
