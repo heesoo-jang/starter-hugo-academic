@@ -96,7 +96,7 @@ highlight_name: true
 
 I'm an [Assistant Professor of Media Law and Ethics](https://www.umass.edu/journalism/news/journalism-announces-hiring-heesoo-jang) in [the department of Journalism, University of Massachusetts Amherst](https://www.umass.edu/journalism/). I'm affiliated with the [Global Technology for Social Justice Lab (GloTech)](https://glotechlab.net/) and the [Center for Information, Technology, and Public Life (CITAP)](https://citap.unc.edu/). I co-organize the junior tech scholar group with the [Public Technology Leadership Collaborative (PTLC)](https://datasociety.net/public-technology-leadership-collaborative/).
 
-My research asks who gets a voice in AI’s governance, how AI is narrated in public life, and who is held accountable for its harms. Working across journalism, media law, and public discourse, I study the information infrastructures that democracy depends on, bringing a critical and normative lens to computational and cross-national methods. My aim is scholarship in service of a more democratic and just society.
+My research asks who governs what a democracy knows. As the institutions democracy relies on — journalism, courts, election systems — come to depend on platforms and AI companies they don’t control, I study how that dependency redistributes power, who can be held accountable when these systems fail, and what makes publics support or resist their governance. I work across journalism, platforms, and AI, bringing a critical and normative lens to computational and cross-national methods — scholarship in service of a more democratic and just society.
 
 <!-- **<span style="color: black;">Meet me in person this summer:</span>**
 - <i> [AEJMC 2025](https://tarheels.live/aejmcsoutheast2025/)</i> @Chapel Hill, NC, USA <br>
