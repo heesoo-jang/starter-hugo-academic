@@ -16,7 +16,7 @@
     --accent-soft:#f0e9e0;
     --pub:#3a5a40;
     --pres:#7a4a2b;
-    --maxw:860px;
+    --maxw:1040px;
   }
   *{box-sizing:border-box;}
   html{scroll-behavior:smooth;}
@@ -24,8 +24,8 @@
     margin:0;
     background:var(--bg);
     color:var(--ink);
-    font-family:Georgia,'Times New Roman',serif;
-    line-height:1.6;
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+    line-height:1.65;
     -webkit-font-smoothing:antialiased;
   }
   .wrap{max-width:var(--maxw);margin:0 auto;padding:0 22px;}
@@ -37,6 +37,7 @@
     margin-bottom:8px;
   }
   .name{
+    font-family:Georgia,'Times New Roman',serif;
     font-size:2.6rem;
     letter-spacing:.5px;
     margin:0 0 6px;
@@ -49,52 +50,60 @@
     margin:0 0 18px;
   }
   .intro{
-    font-size:1.02rem;
+    font-size:1.08rem;
     color:var(--ink);
-    max-width:680px;
+    max-width:800px;
     margin:0;
   }
 
-  /* TOC */
-  nav.toc{
-    margin:30px 0 10px;
-    padding:20px 24px;
-    background:var(--card);
-    border:1px solid var(--rule);
-    border-radius:8px;
-  }
-  nav.toc h2{
-    font-size:.78rem;
+  .eyebrow,
+  .section-label{
+    font-size:.72rem;
     letter-spacing:1.4px;
     text-transform:uppercase;
-    color:var(--faint);
-    margin:0 0 12px;
-    font-family:Helvetica,Arial,sans-serif;
-  }
-  nav.toc ol{margin:0;padding:0;list-style:none;counter-reset:toc;}
-  nav.toc li{
-    counter-increment:toc;
-    padding:5px 0;
-    border-bottom:1px dotted var(--rule);
-  }
-  nav.toc li:last-child{border-bottom:none;}
-  nav.toc a{
-    text-decoration:none;
-    color:var(--ink);
-    font-size:1rem;
-    display:flex;
-    align-items:baseline;
-    gap:10px;
-  }
-  nav.toc a::before{
-    content:counter(toc,upper-alpha);
-    font-family:Helvetica,Arial,sans-serif;
-    font-weight:700;
     color:var(--accent);
-    font-size:.85rem;
-    min-width:18px;
+    font-weight:750;
+    margin:0 0 10px;
   }
-  nav.toc a:hover{color:var(--accent);}
+  .section-title{
+    font-family:Georgia,'Times New Roman',serif;
+    font-size:1.75rem;
+    line-height:1.25;
+    margin:0 0 10px;
+  }
+  .section-intro{color:var(--muted);max-width:700px;margin:0 0 22px;}
+
+  /* TOC */
+  nav.toc{margin:36px 0 10px;}
+  .program-grid{
+    display:grid;
+    grid-template-columns:repeat(2,minmax(0,1fr));
+    gap:14px;
+    margin:0;
+    padding:0;
+    list-style:none;
+  }
+  .program-card{
+    display:block;
+    height:100%;
+    padding:20px;
+    background:var(--card);
+    border:1px solid var(--rule);
+    border-radius:10px;
+    color:var(--ink);
+    text-decoration:none;
+    transition:border-color .15s ease,transform .15s ease,box-shadow .15s ease;
+  }
+  .program-card:hover,
+  .program-card:focus-visible{
+    border-color:var(--accent);
+    transform:translateY(-2px);
+    box-shadow:0 8px 24px rgba(49,35,25,.08);
+    outline:none;
+  }
+  .program-name{display:block;font-family:Georgia,'Times New Roman',serif;font-weight:700;font-size:1.08rem;line-height:1.3;margin-bottom:7px;}
+  .program-question{display:block;color:var(--muted);font-size:.92rem;line-height:1.5;}
+  .program-meta{display:block;color:var(--accent);font-size:.75rem;font-weight:700;letter-spacing:.4px;text-transform:uppercase;margin-top:14px;}
 
   /* Expand / collapse controls */
   .controls{
@@ -118,34 +127,27 @@
 
   /* Bucket sections */
   section.bucket{
-    margin:50px 0;
+    margin:64px 0;
     scroll-margin-top:20px;
   }
   .bucket-head{
-    display:flex;
-    align-items:baseline;
-    gap:14px;
+    display:block;
     border-bottom:1px solid var(--ink);
     padding-bottom:10px;
     margin-bottom:6px;
   }
-  .bucket-letter{
-    font-family:Helvetica,Arial,sans-serif;
-    font-size:1.5rem;
-    font-weight:700;
-    color:var(--accent);
-    line-height:1;
-  }
+  .bucket-letter{display:block;font-size:.7rem;font-weight:750;letter-spacing:1.3px;text-transform:uppercase;color:var(--accent);margin-bottom:6px;}
   .bucket-title{
+    font-family:Georgia,'Times New Roman',serif;
     font-size:1.5rem;
     margin:0;
     font-weight:700;
   }
   .bucket-tagline{
-    font-size:.98rem;
+    font-size:1rem;
     color:var(--muted);
-    font-style:italic;
     margin:10px 0 26px;
+    max-width:720px;
   }
   .flagship{
     display:inline-block;
@@ -170,13 +172,14 @@
     border-radius:6px;
     margin-bottom:14px;
     overflow:hidden;
+    scroll-margin-top:20px;
   }
+  details.project:target{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft);}
   details.project > summary{
     list-style:none;
     cursor:pointer;
     padding:16px 22px;
-    font-size:1.1rem;
-    font-weight:700;
+    font-size:1rem;
     display:flex;
     align-items:center;
     justify-content:space-between;
@@ -199,6 +202,31 @@
   }
   details.project[open] > summary .chev{transform:rotate(90deg);}
   .project-body{padding:16px 22px 18px;}
+  .summary-copy{display:block;min-width:0;}
+  .project-title{display:block;font-family:Georgia,'Times New Roman',serif;font-size:1.12rem;font-weight:700;line-height:1.35;color:var(--ink);}
+  .project-summary{display:block;color:var(--muted);font-size:.88rem;font-weight:400;line-height:1.45;margin-top:5px;}
+  .project-meta{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px;}
+  .status{
+    display:inline-block;
+    font-size:.66rem;
+    line-height:1;
+    letter-spacing:.45px;
+    text-transform:uppercase;
+    font-weight:750;
+    color:var(--pub);
+    background:#edf3ed;
+    border-radius:999px;
+    padding:5px 8px;
+  }
+  .status.ongoing{color:var(--accent);background:var(--accent-soft);}
+
+  .selected-work{margin:52px 0 12px;}
+  .selected-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;}
+  .selected-card{background:var(--ink);color:#fff;border-radius:10px;padding:22px;text-decoration:none;min-height:190px;display:flex;flex-direction:column;justify-content:space-between;}
+  .selected-card:hover,.selected-card:focus-visible{background:var(--accent);outline:none;}
+  .selected-card small{display:block;text-transform:uppercase;letter-spacing:1px;color:#d8d2ca;font-size:.67rem;font-weight:700;margin-bottom:12px;}
+  .selected-card strong{display:block;font-family:Georgia,'Times New Roman',serif;font-size:1.18rem;line-height:1.35;}
+  .selected-card span{display:block;font-size:.85rem;line-height:1.45;color:#e8e4df;margin-top:14px;}
 
   .group-label{
     font-family:Helvetica,Arial,sans-serif;
@@ -285,6 +313,9 @@
     details.project > summary{padding:14px 16px;font-size:1.02rem;}
     .project-body{padding:14px 16px 16px;}
     .bucket-title{font-size:1.25rem;}
+    .program-grid,.selected-grid{grid-template-columns:1fr;}
+    .selected-card{min-height:0;}
+    .project-summary{font-size:.84rem;}
   }
 </style>
 </head>
@@ -294,10 +325,11 @@
   <p style="padding-top:22px;margin:0;"><a href="/" style="color:var(--accent);text-decoration:none;font-size:.95rem;">&larr; Back to heesoojang.com</a></p>
 
   <header class="masthead">
+    <p class="eyebrow">Research portfolio</p>
     <h1 class="name">Heesoo Jang</h1>
     <p class="role">Assistant Professor of Media Law and Ethics &middot; University of Massachusetts Amherst</p>
-    <p class="intro">My research asks who governs what a democracy knows. As the institutions democracy relies on — journalism, courts, election systems — and the communities they serve come to depend on platforms and AI companies they don't control, I study how that dependency redistributes power, who can be held accountable when these systems fail, and what makes publics support or resist their governance. I work across journalism, platforms, and AI, combining qualitative, quantitative, and computational methods across national contexts under a critical and normative lens: scholarship in service of a more democratic and just society.</p>
-    <p class="intro" style="margin-top:14px;">My work is organized into four research programs. Click any project to view its publications and presentations.</p>
+    <p class="intro">My research asks <strong>who governs what a democracy knows</strong>. I study how dependence on platforms and AI companies redistributes power and accountability across journalism, courts, election systems, and the communities they serve.</p>
+    <p class="intro" style="margin-top:14px;">I combine qualitative, quantitative, and computational methods across national contexts in service of a more democratic and just society.</p>
     <div class="legend">
       <span><span class="dot pub"></span> Peer-reviewed publication / law review / dissertation</span>
       <span><span class="dot pres"></span> Conference presentation</span>
@@ -305,12 +337,14 @@
   </header>
 
   <nav class="toc">
-    <h2>Research Programs</h2>
-    <ol>
-      <li><a href="#a">AI Governance, Ethics &amp; Democracy</a></li>
-      <li><a href="#b">Journalism, Democracy &amp; Media Accountability</a></li>
-      <li><a href="#c">Platform Harms, Digital (In)Justice &amp; Transnational Media</a></li>
-      <li><a href="#d">AI, Corporate Responsibility &amp; Public Trust</a></li>
+    <p class="section-label">Four research programs</p>
+    <h2 class="section-title">Explore the portfolio</h2>
+    <p class="section-intro">Start with a program, or browse the selected projects below. Every project includes its publications and related presentations.</p>
+    <ol class="program-grid">
+      <li><a class="program-card" href="#a"><span class="program-name">AI Governance, Ethics &amp; Democracy</span><span class="program-question">How does AI power reshape democratic knowledge, law, and institutional autonomy?</span><span class="program-meta">4 projects</span></a></li>
+      <li><a class="program-card" href="#b"><span class="program-name">Journalism, Democracy &amp; Media Accountability</span><span class="program-question">How do news institutions and political actors shape democratic accountability?</span><span class="program-meta">3 projects</span></a></li>
+      <li><a class="program-card" href="#c"><span class="program-name">Platform Harms &amp; Digital Justice</span><span class="program-question">How do platform harms travel across social, national, and technological contexts?</span><span class="program-meta">3 projects</span></a></li>
+      <li><a class="program-card" href="#d"><span class="program-name">AI, Corporate Responsibility &amp; Public Trust</span><span class="program-question">How do publics evaluate AI companies, responsibility, and governance?</span><span class="program-meta">2 projects</span></a></li>
     </ol>
     <div class="controls">
       <button type="button" onclick="setAll(true)">Expand all</button>
@@ -318,16 +352,27 @@
     </div>
   </nav>
 
+  <section class="selected-work" aria-labelledby="selected-title">
+    <p class="section-label">Selected work</p>
+    <h2 class="section-title" id="selected-title">Three places to begin</h2>
+    <p class="section-intro">A cross-section of current and published work spanning elections, AI ethics, and journalism.</p>
+    <div class="selected-grid">
+      <a class="selected-card" href="#llm-elections"><span><small>AI &amp; elections</small><strong>LLMs and U.S. Elections</strong></span><span>Examining inaccuracies, omissions, hallucinations, and democratic alignment.</span></a>
+      <a class="selected-card" href="#ai-ethics"><span><small>AI ethics</small><strong>Framing Public Discourse on AI Ethics</strong></span><span>Studying how news and public discourse shape the moral imagination of AI.</span></a>
+      <a class="selected-card" href="#democracy-journalism"><span><small>Journalism &amp; democracy</small><strong>Democracy-Framed Journalism</strong></span><span>Analyzing election denial, far-right news, and journalism's democratic role.</span></a>
+    </div>
+  </section>
+
   <!-- BUCKET A -->
   <section class="bucket" id="a">
     <div class="bucket-head">
-      <span class="bucket-letter">A</span>
+      <span class="bucket-letter">Program 1</span>
       <h2 class="bucket-title">AI Governance, Ethics &amp; Democracy<span class="flagship">Flagship</span></h2>
     </div>
     <p class="bucket-tagline">The critical study of AI power, governance, and democratic implications.</p>
 
-    <details class="project">
-      <summary><span>LLMs and U.S. Elections</span><span class="chev">&rsaquo;</span></summary>
+    <details class="project" id="llm-elections">
+      <summary><span class="summary-copy"><span class="project-title">LLMs and U.S. Elections</span><span class="project-summary">How accurately and democratically do large language models represent U.S. elections?</span><span class="project-meta"><span class="status">In press</span><span class="status ongoing">Active research</span></span></span><span class="chev">&rsaquo;</span></summary>
       <div class="project-body">
         <div class="group-label">Publication</div>
         <ul class="cites pub">
@@ -341,8 +386,8 @@
       </div>
     </details>
 
-    <details class="project">
-      <summary><span>Framing the Public Discourse on AI Ethics (Doctoral Dissertation)</span><span class="chev">&rsaquo;</span></summary>
+    <details class="project" id="ai-ethics">
+      <summary><span class="summary-copy"><span class="project-title">Framing Public Discourse on AI Ethics</span><span class="project-summary">How do news and public discourse define the harms, values, and moral stakes of AI?</span><span class="project-meta"><span class="status">Dissertation</span><span class="status ongoing">Continuing research</span></span></span><span class="chev">&rsaquo;</span></summary>
       <div class="project-body">
         <div class="group-label">Dissertation</div>
         <ul class="cites pub">
@@ -357,7 +402,7 @@
     </details>
 
     <details class="project">
-      <summary><span>AI Infrastructure Dependency</span><span class="chev">&rsaquo;</span></summary>
+      <summary><span class="summary-copy"><span class="project-title">AI Infrastructure Dependency</span><span class="project-summary">What happens when institutions and nations pursue AI autonomy through infrastructure they do not control?</span><span class="project-meta"><span class="status ongoing">Active research</span></span></span><span class="chev">&rsaquo;</span></summary>
       <div class="project-body">
         <div class="group-label">Presentations</div>
         <ul class="cites pres">
@@ -368,7 +413,7 @@
     </details>
 
     <details class="project">
-      <summary><span>AI in the Legal System &amp; First Amendment Theory</span><span class="chev">&rsaquo;</span></summary>
+      <summary><span class="summary-copy"><span class="project-title">AI in the Legal System &amp; First Amendment Theory</span><span class="project-summary">Who shapes legal AI, and how should First Amendment theory respond to synthetic media?</span><span class="project-meta"><span class="status">In press</span><span class="status ongoing">Active research</span></span></span><span class="chev">&rsaquo;</span></summary>
       <div class="project-body">
         <div class="group-label">Publication</div>
         <ul class="cites pub">
@@ -387,13 +432,13 @@
   <!-- BUCKET B -->
   <section class="bucket" id="b">
     <div class="bucket-head">
-      <span class="bucket-letter">B</span>
+      <span class="bucket-letter">Program 2</span>
       <h2 class="bucket-title">Journalism, Democracy &amp; Media Accountability</h2>
     </div>
-    <p class="bucket-tagline">How news, democracy, and political actors shape — and are shaped by — the media system.</p>
+    <p class="bucket-tagline">How news, democracy, and political actors shape the media system and are shaped by it.</p>
 
-    <details class="project">
-      <summary><span>Democracy-Framed Journalism, Election Deniers &amp; Far-Right News</span><span class="chev">&rsaquo;</span></summary>
+    <details class="project" id="democracy-journalism">
+      <summary><span class="summary-copy"><span class="project-title">Democracy-Framed Journalism &amp; Far-Right News</span><span class="project-summary">How do journalists and political elites frame election denial and legitimize far-right media?</span><span class="project-meta"><span class="status">Published</span></span></span><span class="chev">&rsaquo;</span></summary>
       <div class="project-body">
         <div class="group-label">Publications</div>
         <ul class="cites pub">
@@ -409,7 +454,7 @@
     </details>
 
     <details class="project">
-      <summary><span>Social Media Policy &amp; Attribution of Responsibility</span><span class="chev">&rsaquo;</span></summary>
+      <summary><span class="summary-copy"><span class="project-title">Social Media Policy &amp; Responsibility</span><span class="project-summary">How do political ideology and anti-establishment beliefs shape responsibility for online content?</span><span class="project-meta"><span class="status">Published</span></span></span><span class="chev">&rsaquo;</span></summary>
       <div class="project-body">
         <div class="group-label">Publication</div>
         <ul class="cites pub">
@@ -423,7 +468,7 @@
     </details>
 
     <details class="project">
-      <summary><span>Celebrity Journalism Ethics</span><span class="chev">&rsaquo;</span></summary>
+      <summary><span class="summary-copy"><span class="project-title">Celebrity Journalism Ethics</span><span class="project-summary">What ethical obligations arise when celebrity coverage intersects with criminal accusation and public judgment?</span><span class="project-meta"><span class="status ongoing">Conference research</span></span></span><span class="chev">&rsaquo;</span></summary>
       <div class="project-body">
         <div class="group-label">Presentation</div>
         <ul class="cites pres">
@@ -436,13 +481,13 @@
   <!-- BUCKET C -->
   <section class="bucket" id="c">
     <div class="bucket-head">
-      <span class="bucket-letter">C</span>
+      <span class="bucket-letter">Program 3</span>
       <h2 class="bucket-title">Platform Harms, Digital (In)Justice &amp; Transnational Media</h2>
     </div>
-    <p class="bucket-tagline">Feminist, global, and justice-oriented work on platform-enabled harm — anchored in India and South Korea.</p>
+    <p class="bucket-tagline">Feminist, global, and justice-oriented work on platform-enabled harm, anchored in India and South Korea.</p>
 
     <details class="project">
-      <summary><span>Deepfakes, Image-Based Abuse &amp; Digital Sex Trafficking (Nth Room)</span><span class="chev">&rsaquo;</span></summary>
+      <summary><span class="summary-copy"><span class="project-title">Deepfakes, Image-Based Abuse &amp; Digital Sex Trafficking</span><span class="project-summary">What does South Korea's Nth Room case reveal about platform-enabled abuse and transnational digital harm?</span><span class="project-meta"><span class="status ongoing">Conference research</span></span></span><span class="chev">&rsaquo;</span></summary>
       <div class="project-body">
         <div class="group-label">Presentations</div>
         <ul class="cites pres">
@@ -453,7 +498,7 @@
     </details>
 
     <details class="project">
-      <summary><span>Digital Harm &amp; Platform (In)Justice — India &amp; South Korea</span><span class="chev">&rsaquo;</span></summary>
+      <summary><span class="summary-copy"><span class="project-title">Digital Harm &amp; Platform (In)Justice</span><span class="project-summary">How do layered platform affordances produce distinct forms of harm in India and South Korea?</span><span class="project-meta"><span class="status">Published</span></span></span><span class="chev">&rsaquo;</span></summary>
       <div class="project-body">
         <div class="group-label">Publication</div>
         <ul class="cites pub">
@@ -468,7 +513,7 @@
     </details>
 
     <details class="project">
-      <summary><span>TikTok, Privacy &amp; National Reputation</span><span class="chev">&rsaquo;</span></summary>
+      <summary><span class="summary-copy"><span class="project-title">TikTok, Privacy &amp; National Reputation</span><span class="project-summary">How does national reputation shape Americans' privacy concerns, resistance, and rejection of TikTok?</span><span class="project-meta"><span class="status ongoing">Conference research</span></span></span><span class="chev">&rsaquo;</span></summary>
       <div class="project-body">
         <div class="group-label">Presentations</div>
         <ul class="cites pres">
@@ -482,13 +527,13 @@
   <!-- BUCKET D -->
   <section class="bucket" id="d">
     <div class="bucket-head">
-      <span class="bucket-letter">D</span>
+      <span class="bucket-letter">Program 4</span>
       <h2 class="bucket-title">AI, Corporate Responsibility &amp; Public Trust</h2>
     </div>
-    <p class="bucket-tagline">How organizations — especially AI companies — communicate, manage responsibility, and are evaluated by their publics.</p>
+    <p class="bucket-tagline">How organizations, especially AI companies, communicate, manage responsibility, and are evaluated by their publics.</p>
 
     <details class="project">
-      <summary><span>Corporate Responsibility &amp; Public Evaluation of AI Companies</span><span class="chev">&rsaquo;</span></summary>
+      <summary><span class="summary-copy"><span class="project-title">Corporate Responsibility &amp; Public Evaluation of AI</span><span class="project-summary">How do people evaluate AI companies and form expectations for responsibility, participation, and governance?</span><span class="project-meta"><span class="status ongoing">Active research</span></span></span><span class="chev">&rsaquo;</span></summary>
       <div class="project-body">
         <div class="group-label">Presentations</div>
         <ul class="cites pres">
@@ -503,7 +548,7 @@
     </details>
 
     <details class="project">
-      <summary><span>AI Crisis Communication (Lee-Luda / Co-oriented Scansis Model)</span><span class="chev">&rsaquo;</span></summary>
+      <summary><span class="summary-copy"><span class="project-title">AI Crisis Communication &amp; the Co-oriented Scansis Model</span><span class="project-summary">How should crisis communication account for competing interpretations of harm in the Lee-Luda chatbot case?</span><span class="project-meta"><span class="status">Published</span></span></span><span class="chev">&rsaquo;</span></summary>
       <div class="project-body">
         <div class="group-label">Publication</div>
         <ul class="cites pub">
