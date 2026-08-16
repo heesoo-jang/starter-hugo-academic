@@ -47,7 +47,7 @@ url_pdf:
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://slate.com/technology/2021/04/scatterlab-lee-luda-chatbot-kakaotalk-ai-privacy.html'
+url_project: 'https://thediplomat.com/2024/03/south-koreas-press-freedom-under-fire/'
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -73,6 +73,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
 
 

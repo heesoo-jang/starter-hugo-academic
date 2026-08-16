@@ -14,7 +14,7 @@ authors:
 #- "Equal contribution"
 
 date: "2024-03-19"
-doi: "10.1177/194016122412358190"
+doi: "10.1177/19401612241235819"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -39,10 +39,10 @@ tags: []
 # Display this page in the Featured widget?
 featured: true
 
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+# Publisher-hosted supplementary material
+links:
+- name: Supplement
+  url: https://journals.sagepub.com/doi/suppl/10.1177/19401612241235819/suppl_file/sj-docx-1-hij-10.1177_19401612241235819.docx
 
 url_pdf: 'https://journals.sagepub.com/doi/10.1177/19401612241235819'
 url_code: ''
@@ -74,6 +74,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
 
 
