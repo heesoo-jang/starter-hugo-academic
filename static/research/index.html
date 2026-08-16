@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Heesoo Jang — Research Portfolio</title>
+<title>Heesoo Jang | Research Portfolio</title>
 <style>
   :root{
     --ink:#1a1a1a;
@@ -97,7 +97,7 @@
   nav.toc{margin:36px 0 10px;}
   .program-grid{
     display:grid;
-    grid-template-columns:repeat(2,minmax(0,1fr));
+    grid-template-columns:repeat(3,minmax(0,1fr));
     gap:14px;
     margin:0;
     padding:0;
@@ -260,6 +260,18 @@
   .selected-card strong{display:block;font-family:Georgia,'Times New Roman',serif;font-size:1.18rem;line-height:1.35;}
   .selected-card span{display:block;font-size:.85rem;line-height:1.45;color:#e8e4df;margin-top:14px;}
 
+  .methods-box{
+    margin:46px 0 10px;
+    padding:24px;
+    background:var(--accent-soft);
+    border-radius:10px;
+    border:1px solid #e3d8ca;
+  }
+  .methods-box h2{font-family:Georgia,'Times New Roman',serif;font-size:1.35rem;margin:0 0 8px;}
+  .methods-box p{margin:0;color:#3e3934;max-width:850px;}
+  .methods-list{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px;}
+  .methods-list span{background:var(--card);border:1px solid #dfd4c6;border-radius:999px;padding:5px 10px;font-size:.78rem;color:var(--accent);font-weight:650;}
+
   .group-label{
     font-family:Helvetica,Arial,sans-serif;
     font-size:.66rem;
@@ -361,8 +373,8 @@
     <p class="eyebrow">Research portfolio</p>
     <h1 class="name">Heesoo Jang</h1>
     <p class="role">Assistant Professor of Media Law and Ethics &middot; University of Massachusetts Amherst</p>
-    <p class="intro">My research asks <strong>who governs what a democracy knows</strong>. I study how dependence on platforms and AI companies redistributes power and accountability across journalism, courts, election systems, and the communities they serve.</p>
-    <p class="intro" style="margin-top:14px;">I combine qualitative, quantitative, and computational methods across national contexts in service of a more democratic and just society.</p>
+    <p class="intro">My research asks <strong>who governs what a democracy knows</strong>. Journalism, platforms, and AI increasingly operate as interconnected governors of democratic knowledge, shaping what becomes publicly knowable and credible, whose expertise counts, and who bears responsibility when information systems fail.</p>
+    <p class="intro" style="margin-top:14px;">Across the United States, South Korea, and other national contexts, I study how these institutions produce knowledge, authorize stakeholder voice, and exercise corporate and infrastructural power.</p>
     <figure class="hero-visual">
       <img src="/research/research-portfolio-hero.png" width="1536" height="1024" alt="An editorial illustration connecting a ballot box, newspaper, courthouse, public conversation, and an abstract AI network." decoding="async">
       <figcaption>Democratic knowledge is shaped across journalism, law, elections, platforms, and AI.</figcaption>
@@ -374,14 +386,13 @@
   </header>
 
   <nav class="toc">
-    <p class="section-label">Four research programs</p>
+    <p class="section-label">Three research strands</p>
     <h2 class="section-title">Explore the portfolio</h2>
-    <p class="section-intro">Start with a program, or browse the selected projects below. Every project includes its publications and related presentations.</p>
+    <p class="section-intro">The projects below form one research program on democratic knowledge governance. Each strand follows power and accountability across institutions rather than treating journalism, platforms, AI, law, and corporations as separate domains.</p>
     <ol class="program-grid">
-      <li><a class="program-card" href="#a"><span class="program-icon" aria-hidden="true">🧭</span><span class="program-name">AI Governance, Ethics &amp; Democracy</span><span class="program-question">How does AI power reshape democratic knowledge, law, and institutional autonomy?</span><span class="program-meta">4 projects</span></a></li>
-      <li><a class="program-card" href="#b"><span class="program-icon" aria-hidden="true">📰</span><span class="program-name">Journalism, Democracy &amp; Media Accountability</span><span class="program-question">How do news institutions and political actors shape democratic accountability?</span><span class="program-meta">3 projects</span></a></li>
-      <li><a class="program-card" href="#c"><span class="program-icon" aria-hidden="true">🛡️</span><span class="program-name">Platform Harms &amp; Digital Justice</span><span class="program-question">How do platform harms travel across social, national, and technological contexts?</span><span class="program-meta">3 projects</span></a></li>
-      <li><a class="program-card" href="#d"><span class="program-icon" aria-hidden="true">🤝</span><span class="program-name">AI, Corporate Responsibility &amp; Public Trust</span><span class="program-question">How do publics evaluate AI companies, responsibility, and governance?</span><span class="program-meta">2 projects</span></a></li>
+      <li><a class="program-card" href="#a"><span class="program-icon" aria-hidden="true">📰</span><span class="program-name">AI, Journalism &amp; Public Knowledge</span><span class="program-question">How do AI and platform systems reshape journalism's economic, ethical, and infrastructural conditions?</span><span class="program-meta">5 projects</span></a></li>
+      <li><a class="program-card" href="#b"><span class="program-icon" aria-hidden="true">⚖️</span><span class="program-name">AI Governance, Law &amp; Stakeholder Voice</span><span class="program-question">Who is authorized to define AI in legal and policy settings, and whose experience is excluded?</span><span class="program-meta">3 projects</span></a></li>
+      <li><a class="program-card" href="#c"><span class="program-icon" aria-hidden="true">🏛️</span><span class="program-name">Corporate &amp; Infrastructural Power</span><span class="program-question">How do firms and states claim legitimacy while distributing or avoiding responsibility?</span><span class="program-meta">4 projects</span></a></li>
     </ol>
     <div class="controls">
       <button type="button" id="expand-all" aria-pressed="false">Expand all</button>
@@ -393,26 +404,33 @@
   <section class="selected-work" aria-labelledby="selected-title">
     <p class="section-label">Selected work</p>
     <h2 class="section-title" id="selected-title">Three places to begin</h2>
-    <p class="section-intro">A cross-section of current and published work spanning elections, AI ethics, and journalism.</p>
+    <p class="section-intro">Three projects that introduce the program's central concerns: consequential omission, democratic accountability, and infrastructural dependency.</p>
     <div class="selected-grid">
-      <a class="selected-card" href="#llm-elections"><span><small><span aria-hidden="true">🗳️</span> AI &amp; elections</small><strong>LLMs and U.S. Elections</strong></span><span>Examining inaccuracies, omissions, hallucinations, and democratic alignment.</span></a>
-      <a class="selected-card" href="#ai-ethics"><span><small><span aria-hidden="true">💬</span> AI ethics</small><strong>Framing Public Discourse on AI Ethics</strong></span><span>Studying how news and public discourse shape the moral imagination of AI.</span></a>
-      <a class="selected-card" href="#democracy-journalism"><span><small><span aria-hidden="true">📰</span> Journalism &amp; democracy</small><strong>Democracy-Framed Journalism</strong></span><span>Analyzing election denial, far-right news, and journalism's democratic role.</span></a>
+      <a class="selected-card" href="#llm-elections"><span><small><span aria-hidden="true">🗳️</span> Public knowledge</small><strong>LLMs and U.S. Elections</strong></span><span>Auditing not only what generative AI gets wrong, but what it leaves democratically unusable.</span></a>
+      <a class="selected-card" href="#democracy-journalism"><span><small><span aria-hidden="true">📰</span> Journalism</small><strong>Democracy-Framed Journalism</strong></span><span>Showing how routine election coverage can normalize claims that reject democratic procedure.</span></a>
+      <a class="selected-card" href="#infrastructure-capture"><span><small><span aria-hidden="true">🔗</span> Infrastructure</small><strong>Journalism's Dependency Trap</strong></span><span>Tracing how news institutions come to rely on AI infrastructure they cannot control, audit, or readily leave.</span></a>
     </div>
+  </section>
+
+  <section class="methods-box" aria-labelledby="methods-title">
+    <p class="section-label">Cross-cutting expertise</p>
+    <h2 id="methods-title">Auditing opaque systems and measuring consequential absence</h2>
+    <p>I design empirical studies of systems that cannot be directly observed and translate normative theory into measurable baselines. This makes it possible to study not only what institutional texts and technical outputs contain, but also which context, obligations, and stakeholder voices should have appeared and did not.</p>
+    <div class="methods-list" aria-label="Research methods"><span>Computational text analysis</span><span>Mixed-method AI auditing</span><span>Surveys</span><span>Interviews and focus groups</span><span>Qualitative and thematic analysis</span><span>Normative and legal inquiry</span></div>
   </section>
 
   <!-- BUCKET A -->
   <section class="bucket" id="a">
     <div class="bucket-head">
-      <span class="bucket-letter">Program 1</span>
-      <h2 class="bucket-title">AI Governance, Ethics &amp; Democracy<span class="flagship">Flagship</span></h2>
+      <span class="bucket-letter">Strand 1</span>
+      <h2 class="bucket-title">AI, Journalism &amp; Public Knowledge<span class="flagship">Flagship</span></h2>
     </div>
-    <p class="bucket-tagline">The critical study of AI power, governance, and democratic implications.</p>
+    <p class="bucket-tagline">How AI and platform systems reshape journalism's economic, ethical, and infrastructural conditions, and what those changes do to public knowledge.</p>
 
     <details class="project" id="llm-elections">
       <summary><span class="summary-copy"><span class="project-title">LLMs and U.S. Elections</span><span class="project-summary">How accurately and democratically do large language models represent U.S. elections?</span><span class="project-meta"><span class="status">In press</span><span class="status ongoing">Active research</span></span></span><span class="chev">&rsaquo;</span></summary>
       <div class="project-body">
-        <div class="group-label">Publication</div>
+        <div class="group-label">Peer-reviewed publication</div>
         <ul class="cites pub">
           <li>Jang, H.*, McGregor, S. C.*, &amp; Neill, L.* (2026, In Press). Inaccuracies, Omissions, and Hallucinations: 2024 U.S. elections through the eyes of ChatGPT. <span class="venue">Information, Communication &amp; Society</span> [Special issue].</li>
         </ul>
@@ -420,49 +438,55 @@
         <ul class="cites pres">
           <li>Jang, H.*, McGregor, S. C.*, &amp; Neill, L.* (2025, September). Investigating the Democratic Alignment of LLMs during the 2024 U.S. Elections. <span class="venue">APSA</span>, Vancouver.</li>
         </ul>
-        <p class="note">Related grant: "Assessing the Impact of Large Language Models on Elections," Microsoft (2023).</p>
+        <p class="note">Contribution. Extends communicative gatekeeping theory to generative systems and develops democratic information standards for evaluating consequential omissions.</p>
       </div>
     </details>
 
-    <details class="project" id="ai-ethics">
-      <summary><span class="summary-copy"><span class="project-title">Framing Public Discourse on AI Ethics</span><span class="project-summary">How do news and public discourse define the harms, values, and moral stakes of AI?</span><span class="project-meta"><span class="status">Dissertation</span><span class="status ongoing">Continuing research</span></span></span><span class="chev">&rsaquo;</span></summary>
+    <details class="project" id="democracy-journalism">
+      <summary><span class="summary-copy"><span class="project-title">Democracy-Framed Journalism &amp; the Legitimation of Far-Right News</span><span class="project-summary">How can established news routines normalize actors and claims that undermine democratic institutions?</span><span class="project-meta"><span class="status">Published</span></span></span><span class="chev">&rsaquo;</span></summary>
       <div class="project-body">
-        <div class="group-label">Dissertation</div>
+        <div class="group-label">Peer-reviewed publications</div>
         <ul class="cites pub">
-          <li>Jang, H. (2024). An Integrative Framing Study of the Public Discourse around Artificial Intelligence (AI) Ethics [Doctoral dissertation, University of North Carolina at Chapel Hill]. Carolina Digital Repository. <a class="doi" href="https://doi.org/10.17615/jd4c-dk43">https://doi.org/10.17615/jd4c-dk43</a></li>
+          <li>Jang, H.*, &amp; Kreiss, D.* (2024). Analyzing "Democracy-Framed Journalism": The Case of Media Coverage of Election Deniers During the 2022 U.S. Midterm Elections. <span class="venue">International Journal of Press/Politics</span>. <a class="doi" href="https://journals.sagepub.com/doi/10.1177/19401612241235819">Article</a></li>
+          <li>Archer, A. M. N., Schmitt, C., McGregor, S. C., &amp; Jang, H. (2024). Presidential Authority and the Legitimation of Far-Right News. <span class="venue">International Journal of Press/Politics</span>. <a class="doi" href="https://journals.sagepub.com/doi/10.1177/19401612241235630">Article</a></li>
         </ul>
-        <div class="group-label">Presentations</div>
-        <ul class="cites pres">
-          <li>Jang, H. (2025, August). The Ethics We Read: How News Media Shape the Moral Imagination of AI. <span class="venue">PolNet-PaCSS</span>, Boston/Cambridge.</li>
-          <li>Jang, H., &amp; Cho, J. (2024, June). An Assessment of Reported Biases and Harms of Large Language Models. <span class="venue">ICA</span>, Gold Coast. <span class="award">Top Paper</span></li>
-        </ul>
+        <p class="note">Contribution. Introduces democracy-framed electoral coverage and identifies presidential mentions as authority signals that can transfer institutional legitimacy to far-right media.</p>
       </div>
     </details>
 
-    <details class="project">
-      <summary><span class="summary-copy"><span class="project-title">AI Infrastructure Dependency</span><span class="project-summary">What happens when institutions and nations pursue AI autonomy through infrastructure they do not control?</span><span class="project-meta"><span class="status ongoing">Active research</span></span></span><span class="chev">&rsaquo;</span></summary>
+    <details class="project" id="infrastructure-capture">
+      <summary><span class="summary-copy"><span class="project-title">Epistemic Infrastructure Capture &amp; Journalism's Dependency Trap</span><span class="project-summary">What happens when journalism relies on AI systems that train on its work, compete for its audiences, and supply its newsroom tools?</span><span class="project-meta"><span class="status ongoing">Under review</span><span class="status ongoing">In preparation</span></span></span><span class="chev">&rsaquo;</span></summary>
       <div class="project-body">
-        <div class="group-label">Presentations</div>
+        <div class="group-label">Current manuscripts</div>
+        <ul class="cites pub">
+          <li>Zamith, R., et al. Epistemic infrastructure capture. Collaborative manuscript under review at <span class="venue">Digital Journalism</span>.</li>
+          <li>Jang, H. How Journalism's Dual Market Came Apart. Sole-authored manuscript in preparation for <span class="venue">Journalism</span>.</li>
+        </ul>
+        <div class="group-label">Research presentation</div>
         <ul class="cites pres">
-          <li>Jang, H.* (2025, October). Exporting autonomy, importing dependency: The geopolitical work of "sovereign AI." <span class="venue">AIES</span>, Madrid.</li>
           <li>Jang, H. (2026, April). Lessons from the platform era for AI governance: The infrastructural dependency trap in local journalism. <span class="venue">Local Journalism Researchers Workshop</span>, Duke in DC, Washington.</li>
         </ul>
+        <p class="note">Contribution. Names the infrastructural dependency trap: a public-serving institution comes to rely on technical infrastructure it does not control, cannot fully audit, and cannot easily exit.</p>
       </div>
     </details>
 
     <details class="project">
-      <summary><span class="summary-copy"><span class="project-title">AI in the Legal System &amp; First Amendment Theory</span><span class="project-summary">Who shapes legal AI, and how should First Amendment theory respond to synthetic media?</span><span class="project-meta"><span class="status">In press</span><span class="status ongoing">Active research</span></span></span><span class="chev">&rsaquo;</span></summary>
+      <summary><span class="summary-copy"><span class="project-title">Building Journalism's Capacity for the AI Era</span><span class="project-summary">Which competencies do journalists need, who should provide them, and how can training fit the practical constraints of news organizations?</span><span class="project-meta"><span class="status ongoing">Funded research</span><span class="status ongoing">Data collection</span></span></span><span class="chev">&rsaquo;</span></summary>
       <div class="project-body">
-        <div class="group-label">Publication</div>
+        <div class="group-label">Current project</div>
         <ul class="cites pub">
-          <li>Schroeder, J., &amp; Jang, H. (2026, In Press). A synthetic marketplace: Rethinking First Amendment theory in the age of AI-generated video. <span class="venue">Missouri Law Review</span>.</li>
+          <li>AI-Era Journalist Training Improvement Plan (2026). Awarded Korea Press Foundation research collaboration.</li>
         </ul>
-        <div class="group-label">Presentations</div>
-        <ul class="cites pres">
-          <li>Jang, H.*, Reid, A.*, &amp; Ringel, E.* (2025, August). Who Gets to Shape the Future? A Theory of Stakeholder Voices for Understanding Legal AI. <span class="venue">AEJMC</span>, San Francisco.</li>
-          <li>Jang, H., Ringel, E., &amp; Reid, A. (2025, June). The Future of Justice: A Computational Mixed-method Approach to News Coverage of AI in the United States Legal System. <span class="venue">ICA</span>, Denver.</li>
-          <li>Jang, H.*, Reid, A.*, &amp; Ringel, E.* (2025, March). Beyond Innovation Diffusion Theory: Stakeholder Perspectives in News Coverage of Legal AI Adoption. <span class="venue">AEJMC Southeast Colloquium</span>, Chapel Hill. <span class="award">Top Faculty Paper</span></li>
-        </ul>
+        <p class="note">Interviews and focus groups engage nearly fifty journalists, newsroom leaders, trainers, technologists, educators, and journalism scholars in South Korea. The project will produce evidence-based recommendations for newsroom training and journalism education.</p>
+      </div>
+    </details>
+
+    <details class="project">
+      <summary><span class="summary-copy"><span class="project-title">Amplification, Repair &amp; Celebrity Journalism Ethics</span><span class="project-summary">Why can a correction fail to repair reputational harm after allegations have circulated across an attention economy?</span><span class="project-meta"><span class="status ongoing">Manuscript in preparation</span><span class="status">Award-winning paper</span></span></span><span class="chev">&rsaquo;</span></summary>
+      <div class="project-body">
+        <div class="group-label">Research presentation</div>
+        <ul class="cites pres"><li>Jang, H. (2025, August). The Case of G-Dragon and the Ethics of Celebrity Journalism. <span class="venue">AEJMC</span>, San Francisco. <span class="award">First Place Faculty Paper</span></li></ul>
+        <p class="note">Contribution. The project theorizes the asymmetry between amplification and repair: institutional correction cannot simply undo distributed reputational harm.</p>
       </div>
     </details>
   </section>
@@ -470,48 +494,48 @@
   <!-- BUCKET B -->
   <section class="bucket" id="b">
     <div class="bucket-head">
-      <span class="bucket-letter">Program 2</span>
-      <h2 class="bucket-title">Journalism, Democracy &amp; Media Accountability</h2>
+      <span class="bucket-letter">Strand 2</span>
+      <h2 class="bucket-title">AI Governance, Law &amp; Stakeholder Voice</h2>
     </div>
-    <p class="bucket-tagline">How news, democracy, and political actors shape the media system and are shaped by it.</p>
+    <p class="bucket-tagline">Who is authorized to define AI in legal and policy settings, who is recognized as an expert, and whose experience counts as evidence.</p>
 
-    <details class="project" id="democracy-journalism">
-      <summary><span class="summary-copy"><span class="project-title">Democracy-Framed Journalism &amp; Far-Right News</span><span class="project-summary">How do journalists and political elites frame election denial and legitimize far-right media?</span><span class="project-meta"><span class="status">Published</span></span></span><span class="chev">&rsaquo;</span></summary>
+    <details class="project" id="stakeholder-voice">
+      <summary><span class="summary-copy"><span class="project-title">A Theory of Stakeholder Voices for Legal AI</span><span class="project-summary">Before a technology is adopted, who gets to define what it is for and which consequences matter?</span><span class="project-meta"><span class="status ongoing">Invited major revision</span><span class="status">Top paper</span></span></span><span class="chev">&rsaquo;</span></summary>
       <div class="project-body">
-        <div class="group-label">Publications</div>
+        <div class="group-label">Current manuscript</div>
         <ul class="cites pub">
-          <li>Jang, H.*, &amp; Kreiss, D.* (2024). Analyzing "Democracy-Framed Journalism": The Case of Media Coverage of Election Deniers During the 2022 U.S. Midterm Elections. <span class="venue">International Journal of Press/Politics</span>.</li>
-          <li>Archer, A. M. N., Schmitt, C., McGregor, S. C., &amp; Jang, H. (2024). Presidential Authority and the Legitimation of Far-Right News. <span class="venue">International Journal of Press/Politics</span>.</li>
+          <li>Jang, H.*, Reid, A.*, &amp; Ringel, E.* Who Gets to Shape the Future? A Theory of Stakeholder Voices for Understanding Legal AI. Invited major revision at the <span class="venue">Journal of Information, Technology, &amp; Politics</span>.</li>
         </ul>
-        <div class="group-label">Presentations</div>
+        <div class="group-label">Research presentations</div>
         <ul class="cites pres">
-          <li>Archer, A. M. N., Schmitt, C., McGregor, S. C., &amp; Jang, H. (2022, September). Presidential Authority and the Legitimation of Far-Right News. <span class="venue">APSA</span>, Montreal.</li>
-          <li>Schmitt, C., Bach, P., Jang, H., McGregor, S. C., &amp; Archer, A. (2023, September). "Fox News doesn't deliver for us anymore" — Political elites and far-right media. <span class="venue">APSA</span>, Los Angeles.</li>
+          <li>Jang, H.*, Reid, A.*, &amp; Ringel, E.* (2025, August). Who Gets to Shape the Future? <span class="venue">AEJMC</span>, San Francisco.</li>
+          <li>Jang, H.*, Reid, A.*, &amp; Ringel, E.* (2025, March). Beyond Innovation Diffusion Theory. <span class="venue">AEJMC Southeast Colloquium</span>, Chapel Hill. <span class="award">Top Faculty Paper</span></li>
         </ul>
+        <p class="note">Contribution. Redirects attention from technology adoption to the prior politics of definition, expertise, and standing.</p>
       </div>
     </details>
 
     <details class="project">
-      <summary><span class="summary-copy"><span class="project-title">Social Media Policy &amp; Responsibility</span><span class="project-summary">How do political ideology and anti-establishment beliefs shape responsibility for online content?</span><span class="project-meta"><span class="status">Published</span></span></span><span class="chev">&rsaquo;</span></summary>
+      <summary><span class="summary-copy"><span class="project-title">Whose Voice Counts in News Coverage of Legal AI?</span><span class="project-summary">How does news coverage authorize institutional experts while rendering people subject to AI-assisted legal decisions largely absent?</span><span class="project-meta"><span class="status ongoing">Revised and resubmitted</span></span></span><span class="chev">&rsaquo;</span></summary>
       <div class="project-body">
-        <div class="group-label">Publication</div>
+        <div class="group-label">Current manuscript</div>
         <ul class="cites pub">
-          <li>Jang, H., Barrett, B., &amp; McGregor, S. C. (2023). Social media policy in two dimensions: Understanding the role of anti-establishment beliefs and political ideology in Americans' attribution of responsibility regarding online content. <span class="venue">Information, Communication, &amp; Society</span>.</li>
+          <li>Jang, H., Ringel, E., &amp; Reid, A. The Future of Justice: A Computational Mixed-method Approach to News Coverage of AI in the United States Legal System. Revised and resubmitted to <span class="venue">Information, Communication &amp; Society</span>.</li>
         </ul>
-        <div class="group-label">Presentation</div>
+        <div class="group-label">Research presentation</div>
         <ul class="cites pres">
-          <li>Jang, H., Barrett, B., &amp; McGregor, S. C. (2022, August). Social media policy in two dimensions. <span class="venue">AEJMC</span>, Detroit.</li>
+          <li>Jang, H., Ringel, E., &amp; Reid, A. (2025, June). The Future of Justice. <span class="venue">ICA</span>, Denver.</li>
         </ul>
+        <p class="note">Finding. Judges, lawyers, technologists, and policymakers appear as authoritative speakers, while people directly affected by AI-assisted legal decisions are largely missing.</p>
       </div>
     </details>
 
     <details class="project">
-      <summary><span class="summary-copy"><span class="project-title">Celebrity Journalism Ethics</span><span class="project-summary">What ethical obligations arise when celebrity coverage intersects with criminal accusation and public judgment?</span><span class="project-meta"><span class="status ongoing">Conference research</span></span></span><span class="chev">&rsaquo;</span></summary>
+      <summary><span class="summary-copy"><span class="project-title">First Amendment Theory in an Age of Synthetic Media</span><span class="project-summary">What happens to the marketplace-of-ideas metaphor when speech has no identifiable human speaker and expressive supply is effectively unbounded?</span><span class="project-meta"><span class="status">In press</span></span></span><span class="chev">&rsaquo;</span></summary>
       <div class="project-body">
-        <div class="group-label">Presentation</div>
-        <ul class="cites pres">
-          <li>Jang, H. (2025, August). The Case of G-Dragon and the Ethics of Celebrity Journalism. <span class="venue">AEJMC</span>, San Francisco. <span class="award">First Place Faculty Paper</span></li>
-        </ul>
+        <div class="group-label">Law review</div>
+        <ul class="cites pub"><li>Schroeder, J., &amp; Jang, H. (2026, In Press). A Synthetic Marketplace: Rethinking First Amendment Theory in the Age of AI-Generated Video. <span class="venue">Missouri Law Review</span>.</li></ul>
+        <p class="note">Contribution. Argues that courts need an account of expressive value that does not depend entirely on attribution.</p>
       </div>
     </details>
   </section>
@@ -519,85 +543,68 @@
   <!-- BUCKET C -->
   <section class="bucket" id="c">
     <div class="bucket-head">
-      <span class="bucket-letter">Program 3</span>
-      <h2 class="bucket-title">Platform Harms, Digital (In)Justice &amp; Transnational Media</h2>
+      <span class="bucket-letter">Strand 3</span>
+      <h2 class="bucket-title">Corporate &amp; Infrastructural Power</h2>
     </div>
-    <p class="bucket-tagline">Feminist, global, and justice-oriented work on platform-enabled harm, anchored in India and South Korea.</p>
+    <p class="bucket-tagline">How firms and states convert the language of responsibility and autonomy into legitimacy, and how harms and obligations move across privately controlled infrastructures.</p>
 
     <details class="project">
-      <summary><span class="summary-copy"><span class="project-title">Deepfakes, Image-Based Abuse &amp; Digital Sex Trafficking</span><span class="project-summary">What does South Korea's Nth Room case reveal about platform-enabled abuse and transnational digital harm?</span><span class="project-meta"><span class="status ongoing">Conference research</span></span></span><span class="chev">&rsaquo;</span></summary>
+      <summary><span class="summary-copy"><span class="project-title">Layered Affordances &amp; Platform-Enabled Harm</span><span class="project-summary">How do harms compound as people and content move across platforms with different features and moderation regimes?</span><span class="project-meta"><span class="status">Published</span></span></span><span class="chev">&rsaquo;</span></summary>
       <div class="project-body">
-        <div class="group-label">Presentations</div>
+        <div class="group-label">Peer-reviewed publication</div>
+        <ul class="cites pub">
+          <li>Jang, H., &amp; Narayanamoorthy, N. (2025). Echo Chambers of Digital Harm: Insights Into Layered Affordances From India and South Korea. <span class="venue">Social Media + Society</span>, 11(4). <a class="doi" href="https://journals.sagepub.com/doi/10.1177/20563051251383528">Article</a></li>
+        </ul>
+        <div class="group-label">Related work</div>
         <ul class="cites pres">
           <li>Jang, H. (2023, October). Using Data Feminism to Study South Korea's Mass Digital Sex Trafficking Case. <span class="venue">A Toolbox of Feminist Wonder Workshop, CSCW '23</span>, Minneapolis.</li>
-          <li>Jang, H. (2022, April). The "Nth Room" case: transnational contexts in modern digital sex trafficking. <span class="venue">CHI Conference on Human Factors in Computing Systems</span>, New Orleans.</li>
+          <li>Jang, H., et al. (2023). Platform (In)Justice: A Call for a Global Research Agenda. <span class="venue">CSCW '23</span>, Minneapolis.</li>
         </ul>
+        <p class="note">Contribution. Shows why platform-by-platform content policy is insufficient for harms produced across X, Instagram, and Telegram, and why platform theory requires comparative, non-Western cases.</p>
       </div>
     </details>
 
     <details class="project">
-      <summary><span class="summary-copy"><span class="project-title">Digital Harm &amp; Platform (In)Justice</span><span class="project-summary">How do layered platform affordances produce distinct forms of harm in India and South Korea?</span><span class="project-meta"><span class="status">Published</span></span></span><span class="chev">&rsaquo;</span></summary>
+      <summary><span class="summary-copy"><span class="project-title">Public Expectations of AI Companies &amp; Participatory Governance</span><span class="project-summary">How do knowledge, optimism, and populist attitudes shape demands for corporate obligation and public participation?</span><span class="project-meta"><span class="status ongoing">Three manuscripts under review</span></span></span><span class="chev">&rsaquo;</span></summary>
       <div class="project-body">
-        <div class="group-label">Publication</div>
+        <div class="group-label">Three-country survey research</div>
+        <ul class="cites pres">
+          <li>Xu, H., Zhu, Y. E., Jang, H., &amp; Juarez Miro, C. (2026, August). Value-Based Communication in the AI Industry. <span class="venue">AEJMC</span>, New Orleans.</li>
+          <li>Xu, H., Zhu, Y. E., Jang, H., &amp; Juarez Miro, C. (2026, June). From Optimism to Obligation. <span class="venue">ICA</span>, Cape Town.</li>
+          <li>Zhu, Y. E., Juarez Miro, C., Jang, H., &amp; Xu, H. (2026, June). Confidence Engages; Understanding Withdraws. <span class="venue">ICA</span>, Cape Town.</li>
+        </ul>
+        <p class="note">Finding. Positive orientation toward AI does not necessarily make publics permissive toward its makers; it can increase expectations of corporate responsibility.</p>
+      </div>
+    </details>
+
+    <details class="project">
+      <summary><span class="summary-copy"><span class="project-title">Sovereign AI, Symbolic Autonomy &amp; Material Dependency</span><span class="project-summary">How do governments narrate national control while depending on a small number of firms, supply chains, and geopolitical alliances?</span><span class="project-meta"><span class="status ongoing">Sole-authored research</span></span></span><span class="chev">&rsaquo;</span></summary>
+      <div class="project-body">
+        <div class="group-label">Presentations</div>
+        <ul class="cites pres">
+          <li>Jang, H. (2025, October). Exporting Autonomy, Importing Dependency: The Geopolitical Work of "Sovereign AI." <span class="venue">AAAI/ACM Conference on AI, Ethics, and Society</span>, Madrid.</li>
+          <li>Forthcoming presentation at the 2026 <span class="venue">International Journal of Press/Politics Conference</span>.</li>
+        </ul>
+        <p class="note">Contribution. Distinguishes symbolic sovereignty from material dependency to reveal the private and transnational infrastructures beneath claims of national AI autonomy.</p>
+      </div>
+    </details>
+
+    <details class="project" id="ai-ethics">
+      <summary><span class="summary-copy"><span class="project-title">AI Ethics Discourse, Corporate Responsibility &amp; Partisan Framing</span><span class="project-summary">When institutions invoke ethics and responsibility, which harms and obligations become visible, and which remain outside enforceable accountability?</span><span class="project-meta"><span class="status">Dissertation</span><span class="status ongoing">Continuing sole-authored research</span></span></span><span class="chev">&rsaquo;</span></summary>
+      <div class="project-body">
+        <div class="group-label">Foundational work</div>
         <ul class="cites pub">
-          <li>Jang, H., &amp; Narayanamoorthy, N. (2025). Echo Chambers of Digital Harm: Insights Into Layered Affordances From India and South Korea. <span class="venue">Social Media + Society</span>, 11(4).</li>
+          <li>Jang, H. (2024). An Integrative Framing Study of the Public Discourse around Artificial Intelligence (AI) Ethics [Doctoral dissertation, University of North Carolina at Chapel Hill]. <a class="doi" href="https://doi.org/10.17615/jd4c-dk43">Dissertation</a></li>
         </ul>
-        <div class="group-label">Presentations</div>
+        <div class="group-label">Current direction</div>
         <ul class="cites pres">
-          <li>Jang, H., Narayanamoorthy, N., Schelenz, L., Brandner, L. T., Burkhardt, A., Hirsbrunner, S. D., &amp; Timcke, S. (2023). Platform (In)Justice: A Call for a Global Research Agenda. <span class="venue">CSCW '23</span>, Minneapolis. [Panel Organizer]</li>
-          <li>Jang, H., et al. (2023). Platform (In)Justice: Exploring Research Priorities and Practical Solutions. <span class="venue">CSCW '23 Companion</span>, 576–580. [SIG Organizer]</li>
+          <li>A sole-authored manuscript examines how U.S. partisan news outlets framed AI across policy domains and during the transition from the Biden to the Trump administration.</li>
+          <li>Jang, H. (2025, August). The Ethics We Read: How News Media Shape the Moral Imagination of AI. <span class="venue">PolNet-PaCSS</span>, Boston/Cambridge.</li>
         </ul>
+        <p class="note">Finding. The language of ethics and responsibility expanded much faster than the scope of enforceable obligation.</p>
       </div>
     </details>
 
-    <details class="project">
-      <summary><span class="summary-copy"><span class="project-title">TikTok, Privacy &amp; National Reputation</span><span class="project-summary">How does national reputation shape Americans' privacy concerns, resistance, and rejection of TikTok?</span><span class="project-meta"><span class="status ongoing">Conference research</span></span></span><span class="chev">&rsaquo;</span></summary>
-      <div class="project-body">
-        <div class="group-label">Presentations</div>
-        <ul class="cites pres">
-          <li>Jang, H. (2023, August). Understanding Americans' TikTok Privacy Concerns, Resistance, and Rejection via their Country Reputation of China. <span class="venue">AEJMC</span>, Washington, D.C.</li>
-          <li>Jang, H. (2021, May). Tik Tok: Motivations and Privacy Perceptions. <span class="venue">ICA</span> (virtual).</li>
-        </ul>
-      </div>
-    </details>
-  </section>
-
-  <!-- BUCKET D -->
-  <section class="bucket" id="d">
-    <div class="bucket-head">
-      <span class="bucket-letter">Program 4</span>
-      <h2 class="bucket-title">AI, Corporate Responsibility &amp; Public Trust</h2>
-    </div>
-    <p class="bucket-tagline">How organizations, especially AI companies, communicate, manage responsibility, and are evaluated by their publics.</p>
-
-    <details class="project">
-      <summary><span class="summary-copy"><span class="project-title">Corporate Responsibility &amp; Public Evaluation of AI</span><span class="project-summary">How do people evaluate AI companies and form expectations for responsibility, participation, and governance?</span><span class="project-meta"><span class="status ongoing">Active research</span></span></span><span class="chev">&rsaquo;</span></summary>
-      <div class="project-body">
-        <div class="group-label">Presentations</div>
-        <ul class="cites pres">
-          <li>Jang, H. (2023, November). Bringing AI Under Critical CSR Scrutiny: A Critical CSR Assessment of Major AI Companies' Communication of Responsible AI. <span class="venue">NCA</span>, National Harbor.</li>
-          <li>Jang, H. (2023, March). What should CSR in the AI industry look like? — A current assessment and a framework for the future. <span class="venue">IPRRC</span>, Orlando.</li>
-          <li>Xu, H., Zhu, Y. E., Jang, H., &amp; Juarez Miro, C. (2026, August). Value-based communication in the AI industry: Public evaluation of AI companies' organization–public relationships and governance expectations. <span class="venue">AEJMC</span>, New Orleans.</li>
-          <li>Xu, H., Zhu, Y. E., Jang, H., &amp; Juarez Miro, C. (2026, June). From optimism to obligation: How positive orientation toward AI drives public demand for corporate digital responsibility. <span class="venue">ICA</span>, Cape Town.</li>
-          <li>Zhu, Y. E., Juarez Miro, C., Jang, H., &amp; Xu, H. (2026, June). Confidence engages; understanding withdraws: How knowledge and populist attitudes shape orientations toward AI and participatory governance across three countries. <span class="venue">ICA</span>, Cape Town.</li>
-        </ul>
-        <p class="note">Related grant: "Public Reactions to AI Promotional Campaigns," University of Melbourne (with H. Xu).</p>
-      </div>
-    </details>
-
-    <details class="project">
-      <summary><span class="summary-copy"><span class="project-title">AI Crisis Communication &amp; the Co-oriented Scansis Model</span><span class="project-summary">How should crisis communication account for competing interpretations of harm in the Lee-Luda chatbot case?</span><span class="project-meta"><span class="status">Published</span></span></span><span class="chev">&rsaquo;</span></summary>
-      <div class="project-body">
-        <div class="group-label">Publication</div>
-        <ul class="cites pub">
-          <li>Jang, H., &amp; Lee, S. (2023). Introducing the Co-oriented Scansis (CoS) model: A case of chatbot, Lee-Luda. <span class="venue">Public Relations Review</span>.</li>
-        </ul>
-        <div class="group-label">Presentation</div>
-        <ul class="cites pres">
-          <li>Jang, H., &amp; Lee, S. (2022, May). A co-oriented crisis communication model for an AI scansis: A Case of Chatbot, Lee-Luda. <span class="venue">ICA</span>, Paris. <span class="award">Top Student Paper</span></li>
-        </ul>
-      </div>
-    </details>
   </section>
 
   <footer>
