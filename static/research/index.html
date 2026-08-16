@@ -55,6 +55,26 @@
     max-width:800px;
     margin:0;
   }
+  .hero-visual{
+    margin:28px 0 4px;
+    border:1px solid var(--rule);
+    border-radius:12px;
+    overflow:hidden;
+    background:var(--accent-soft);
+  }
+  .hero-visual img{
+    display:block;
+    width:100%;
+    height:auto;
+    aspect-ratio:2.35/1;
+    object-fit:cover;
+  }
+  .hero-visual figcaption{
+    padding:9px 14px;
+    font-size:.75rem;
+    color:var(--muted);
+    background:var(--card);
+  }
 
   .eyebrow,
   .section-label{
@@ -102,6 +122,7 @@
     outline:none;
   }
   .program-name{display:block;font-family:Georgia,'Times New Roman',serif;font-weight:700;font-size:1.08rem;line-height:1.3;margin-bottom:7px;}
+  .program-icon{display:grid;place-items:center;width:42px;height:42px;border-radius:50%;background:var(--accent-soft);font-size:1.25rem;margin-bottom:14px;}
   .program-question{display:block;color:var(--muted);font-size:.92rem;line-height:1.5;}
   .program-meta{display:block;color:var(--accent);font-size:.75rem;font-weight:700;letter-spacing:.4px;text-transform:uppercase;margin-top:14px;}
 
@@ -316,6 +337,7 @@
     .program-grid,.selected-grid{grid-template-columns:1fr;}
     .selected-card{min-height:0;}
     .project-summary{font-size:.84rem;}
+    .hero-visual img{aspect-ratio:1.5/1;}
   }
 </style>
 </head>
@@ -330,9 +352,13 @@
     <p class="role">Assistant Professor of Media Law and Ethics &middot; University of Massachusetts Amherst</p>
     <p class="intro">My research asks <strong>who governs what a democracy knows</strong>. I study how dependence on platforms and AI companies redistributes power and accountability across journalism, courts, election systems, and the communities they serve.</p>
     <p class="intro" style="margin-top:14px;">I combine qualitative, quantitative, and computational methods across national contexts in service of a more democratic and just society.</p>
+    <figure class="hero-visual">
+      <img src="/research/research-portfolio-hero.png" width="1536" height="1024" alt="An editorial illustration connecting a ballot box, newspaper, courthouse, public conversation, and an abstract AI network." decoding="async">
+      <figcaption>Democratic knowledge is shaped across journalism, law, elections, platforms, and AI.</figcaption>
+    </figure>
     <div class="legend">
-      <span><span class="dot pub"></span> Peer-reviewed publication / law review / dissertation</span>
-      <span><span class="dot pres"></span> Conference presentation</span>
+      <span><span class="dot pub"></span> <span aria-hidden="true">📄</span> Peer-reviewed publication / law review / dissertation</span>
+      <span><span class="dot pres"></span> <span aria-hidden="true">🎤</span> Conference presentation</span>
     </div>
   </header>
 
@@ -341,10 +367,10 @@
     <h2 class="section-title">Explore the portfolio</h2>
     <p class="section-intro">Start with a program, or browse the selected projects below. Every project includes its publications and related presentations.</p>
     <ol class="program-grid">
-      <li><a class="program-card" href="#a"><span class="program-name">AI Governance, Ethics &amp; Democracy</span><span class="program-question">How does AI power reshape democratic knowledge, law, and institutional autonomy?</span><span class="program-meta">4 projects</span></a></li>
-      <li><a class="program-card" href="#b"><span class="program-name">Journalism, Democracy &amp; Media Accountability</span><span class="program-question">How do news institutions and political actors shape democratic accountability?</span><span class="program-meta">3 projects</span></a></li>
-      <li><a class="program-card" href="#c"><span class="program-name">Platform Harms &amp; Digital Justice</span><span class="program-question">How do platform harms travel across social, national, and technological contexts?</span><span class="program-meta">3 projects</span></a></li>
-      <li><a class="program-card" href="#d"><span class="program-name">AI, Corporate Responsibility &amp; Public Trust</span><span class="program-question">How do publics evaluate AI companies, responsibility, and governance?</span><span class="program-meta">2 projects</span></a></li>
+      <li><a class="program-card" href="#a"><span class="program-icon" aria-hidden="true">🧭</span><span class="program-name">AI Governance, Ethics &amp; Democracy</span><span class="program-question">How does AI power reshape democratic knowledge, law, and institutional autonomy?</span><span class="program-meta">4 projects</span></a></li>
+      <li><a class="program-card" href="#b"><span class="program-icon" aria-hidden="true">📰</span><span class="program-name">Journalism, Democracy &amp; Media Accountability</span><span class="program-question">How do news institutions and political actors shape democratic accountability?</span><span class="program-meta">3 projects</span></a></li>
+      <li><a class="program-card" href="#c"><span class="program-icon" aria-hidden="true">🛡️</span><span class="program-name">Platform Harms &amp; Digital Justice</span><span class="program-question">How do platform harms travel across social, national, and technological contexts?</span><span class="program-meta">3 projects</span></a></li>
+      <li><a class="program-card" href="#d"><span class="program-icon" aria-hidden="true">🤝</span><span class="program-name">AI, Corporate Responsibility &amp; Public Trust</span><span class="program-question">How do publics evaluate AI companies, responsibility, and governance?</span><span class="program-meta">2 projects</span></a></li>
     </ol>
     <div class="controls">
       <button type="button" onclick="setAll(true)">Expand all</button>
@@ -357,9 +383,9 @@
     <h2 class="section-title" id="selected-title">Three places to begin</h2>
     <p class="section-intro">A cross-section of current and published work spanning elections, AI ethics, and journalism.</p>
     <div class="selected-grid">
-      <a class="selected-card" href="#llm-elections"><span><small>AI &amp; elections</small><strong>LLMs and U.S. Elections</strong></span><span>Examining inaccuracies, omissions, hallucinations, and democratic alignment.</span></a>
-      <a class="selected-card" href="#ai-ethics"><span><small>AI ethics</small><strong>Framing Public Discourse on AI Ethics</strong></span><span>Studying how news and public discourse shape the moral imagination of AI.</span></a>
-      <a class="selected-card" href="#democracy-journalism"><span><small>Journalism &amp; democracy</small><strong>Democracy-Framed Journalism</strong></span><span>Analyzing election denial, far-right news, and journalism's democratic role.</span></a>
+      <a class="selected-card" href="#llm-elections"><span><small><span aria-hidden="true">🗳️</span> AI &amp; elections</small><strong>LLMs and U.S. Elections</strong></span><span>Examining inaccuracies, omissions, hallucinations, and democratic alignment.</span></a>
+      <a class="selected-card" href="#ai-ethics"><span><small><span aria-hidden="true">💬</span> AI ethics</small><strong>Framing Public Discourse on AI Ethics</strong></span><span>Studying how news and public discourse shape the moral imagination of AI.</span></a>
+      <a class="selected-card" href="#democracy-journalism"><span><small><span aria-hidden="true">📰</span> Journalism &amp; democracy</small><strong>Democracy-Framed Journalism</strong></span><span>Analyzing election denial, far-right news, and journalism's democratic role.</span></a>
     </div>
   </section>
 
