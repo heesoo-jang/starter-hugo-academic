@@ -145,6 +145,17 @@
     transition:background .15s ease;
   }
   .controls button:hover{background:var(--accent-soft);}
+  .controls button[aria-pressed="true"]{
+    background:var(--accent);
+    border-color:var(--accent);
+    color:#fff;
+  }
+  .controls-status{
+    margin:8px 0 0;
+    color:var(--muted);
+    font-size:.78rem;
+    min-height:1.3em;
+  }
 
   /* Bucket sections */
   section.bucket{
@@ -373,9 +384,10 @@
       <li><a class="program-card" href="#d"><span class="program-icon" aria-hidden="true">🤝</span><span class="program-name">AI, Corporate Responsibility &amp; Public Trust</span><span class="program-question">How do publics evaluate AI companies, responsibility, and governance?</span><span class="program-meta">2 projects</span></a></li>
     </ol>
     <div class="controls">
-      <button type="button" onclick="setAll(true)">Expand all</button>
-      <button type="button" onclick="setAll(false)">Collapse all</button>
+      <button type="button" id="expand-all" aria-pressed="false">Expand all</button>
+      <button type="button" id="collapse-all" aria-pressed="true">Collapse all</button>
     </div>
+    <p class="controls-status" id="controls-status" role="status" aria-live="polite">All project details are currently collapsed.</p>
   </nav>
 
   <section class="selected-work" aria-labelledby="selected-title">
@@ -595,9 +607,24 @@
 </div>
 
 <script>
-  function setAll(open){
-    document.querySelectorAll('details.project').forEach(function(d){ d.open = open; });
-  }
+  (function(){
+    var projects = Array.from(document.querySelectorAll('details.project'));
+    var expandButton = document.getElementById('expand-all');
+    var collapseButton = document.getElementById('collapse-all');
+    var status = document.getElementById('controls-status');
+
+    function setAll(open){
+      projects.forEach(function(project){ project.open = open; });
+      expandButton.setAttribute('aria-pressed', String(open));
+      collapseButton.setAttribute('aria-pressed', String(!open));
+      status.textContent = open
+        ? 'All ' + projects.length + ' projects expanded. Scroll down to view their publications and presentations.'
+        : 'All project details are collapsed.';
+    }
+
+    expandButton.addEventListener('click', function(){ setAll(true); });
+    collapseButton.addEventListener('click', function(){ setAll(false); });
+  })();
 </script>
 </body>
 </html>
