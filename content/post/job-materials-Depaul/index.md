@@ -11,7 +11,7 @@ projects: []
 date: "2024-03-02T00:00:00Z"
 
 # Date updated
-lastmod: "2024-03-02T00:00:00Z"
+lastmod: "2026-11-20T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -38,6 +38,15 @@ tags:
 
 categories:
 - Academic Life
+
+layout: academic_resource
+resource_group: job-market
+resource_order: 40
+resource_period: 2023–24 application
+resource_context: These are my original application materials for the DePaul University public relations position during the 2023–24 job market. I was a finalist invited for an on-campus
+  interview. The submitted materials are preserved below.
+context_updated: '2026-11-20'
+companion_resource: /post/job-materials-umass/
 ---
 
 Here are all of the job application materials I submitted to the College of Communication at DePaul University (Chicago, USA), where I applied for the position of Assistant Professor of Public Relations. I was one of the finalists invited for on-campus interviews.

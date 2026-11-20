@@ -13,8 +13,8 @@ main:
   - name: Essays & Commentary
     url: '/essays/'
     weight: 25
-  - name: Blog
-    url: '#posts'
+  - name: Academic Life & Teaching
+    url: '/post/'
     weight: 30
 
 #  - name: Contact

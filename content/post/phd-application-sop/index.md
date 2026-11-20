@@ -12,7 +12,7 @@ projects: []
 date: "2024-09-12T00:00:00Z"
 
 # Date updatedgit
-lastmod: "2024-09-12T00:00:00Z"
+lastmod: "2026-11-20T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -41,6 +41,14 @@ tags:
 
 categories:
 - Academic Life
+
+layout: academic_resource
+resource_group: phd-applications
+resource_order: 10
+resource_period: 2018 application · 2019–20 entry
+resource_context: I wrote this statement for my 2018 application to PhD programs for entry in the 2019–20 academic year. The original statement and accompanying reflections are preserved
+  below.
+context_updated: '2026-11-20'
 ---
 
 

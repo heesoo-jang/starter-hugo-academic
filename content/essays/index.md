@@ -58,4 +58,4 @@ Commentary on the Lee Luda chatbot and the responsibilities of companies handlin
 
 New independent essays appear on [my Substack](https://heesoojang.substack.com/?utm_source=heesoojang.com&utm_medium=website&utm_campaign=essays_commentary&utm_content=page_footer). Articles published by other outlets are linked above so you can read the original versions.
 
-For teaching resources and academic-life writing, visit [the blog](/#posts). For my scholarly work, visit [Research](/research/).
+For teaching resources and academic-life writing, visit [Academic Life & Teaching](/post/). For my scholarly work, visit [Research](/research/).

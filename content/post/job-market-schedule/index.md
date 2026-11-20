@@ -11,7 +11,7 @@ projects: []
 date: "2024-03-01T00:00:00Z"
 
 # Date updated
-lastmod: "2024-03-01T00:00:00Z"
+lastmod: "2026-11-20T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -37,6 +37,13 @@ tags:
 
 categories:
 - Academic Life
+
+layout: academic_resource
+resource_group: job-market
+resource_order: 20
+resource_period: 2023–24 job search
+resource_context: This calendar records my 2023–24 job search. The months describe my own timeline; interview and offer dates vary by search. The original calendar is preserved below.
+context_updated: '2026-11-20'
 ---
 
 

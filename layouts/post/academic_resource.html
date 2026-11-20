@@ -1,0 +1,31 @@
+{{ define "main" }}
+<main class="academic-resource-page" id="resource-top">
+  <header class="academic-resource-header">
+    <p class="academic-resource-breadcrumb"><a href="{{ "/post/" | relURL }}">Academic Life &amp; Teaching</a></p>
+    <h1>{{ .Title | markdownify }}</h1>
+    <p class="academic-resource-byline">{{ delimit .Params.authors ", " }}</p>
+    <p class="academic-resource-dates">Originally published <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time><br>
+      Organization &amp; context updated <time datetime="{{ .Params.context_updated }}">{{ (time .Params.context_updated).Format "January 2, 2006" }}</time></p>
+    <aside class="academic-resource-context" aria-label="Context for this original post"><p>{{ .Params.resource_context }}</p></aside>
+  </header>
+  <div class="academic-resource-columns">
+    <nav class="academic-resource-nav" aria-label="On this page">
+      <p>On this page</p>
+      {{ with .Params.resource_sections }}
+        <ul>{{ range . }}<li><a href="#{{ .target }}">{{ .label }}</a></li>{{ end }}</ul>
+      {{ else }}{{ .TableOfContents }}{{ end }}
+      {{ with .Params.companion_resource }}<p class="academic-resource-companion"><a href="{{ . | relURL }}">Companion application materials</a></p>{{ end }}
+      <p class="academic-resource-back"><a href="{{ "/post/" | relURL }}">All resources</a></p>
+    </nav>
+    <div>
+      {{/* Normalize legacy internal links without changing original post text. */}}
+      {{ $content := replace .Content "https://www.heesoojang.com/post/job-materials-UMass/" ("/post/job-materials-umass/" | relURL) }}
+      {{ $content = replace $content "https://www.heesoojang.com/post/job-materials-depaul//" ("/post/job-materials-depaul/" | relURL) }}
+      {{ $content = replace $content "href=\"https://www.heesoojang.com/" "href=\"/" }}
+      {{ $content = replace $content "href=\"https://heesoojang.com/" "href=\"/" }}
+      <article class="article-style academic-resource-original">{{ $content | safeHTML }}</article>
+      <nav class="academic-resource-end" aria-label="After this resource"><a href="#resource-top">Back to top</a><a href="{{ "/post/" | relURL }}">Academic Life &amp; Teaching</a></nav>
+    </div>
+  </div>
+</main>
+{{ end }}

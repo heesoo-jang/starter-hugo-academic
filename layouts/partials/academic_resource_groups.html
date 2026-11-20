@@ -1,0 +1,25 @@
+{{ $posts := where site.RegularPages "Type" "post" }}
+{{ range site.Data.academic_life }}
+  {{ $group := . }}
+  {{ $entries := where $posts "Params.resource_group" .id }}
+  {{ if $entries }}
+  <section class="academic-group" id="{{ .id }}" aria-labelledby="{{ .id }}-title">
+    <h2 id="{{ .id }}-title">{{ .title }}</h2>
+    <ul class="academic-resource-list">
+    {{ range sort $entries "Params.resource_order" }}
+      <li>
+        <h3><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></h3>
+        <p class="academic-resource-period">{{ .Params.resource_period }}</p>
+        {{ with .Params.summary }}<p class="academic-resource-summary">{{ . | markdownify }}</p>{{ end }}
+      </li>
+    {{ end }}
+    </ul>
+  </section>
+  {{ end }}
+{{ end }}
+{{ $ungrouped := where $posts "Params.resource_group" nil }}
+{{ with $ungrouped }}
+<section class="academic-group"><h2>More resources</h2><ul class="academic-resource-list">
+{{ range .ByDate.Reverse }}<li><h3><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></h3></li>{{ end }}
+</ul></section>
+{{ end }}

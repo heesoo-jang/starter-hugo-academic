@@ -1,0 +1,9 @@
+{{ define "main" }}
+<main class="academic-life-page" id="academic-life">
+  <header><h1>{{ .Title }}</h1></header>
+  <nav class="academic-group-nav" aria-label="Browse resources by topic">
+    {{ range site.Data.academic_life }}<a href="#{{ .id }}">{{ .title }}</a>{{ end }}
+  </nav>
+  {{ partial "academic_resource_groups" . }}
+</main>
+{{ end }}

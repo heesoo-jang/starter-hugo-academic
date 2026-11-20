@@ -12,7 +12,7 @@ projects: []
 date: "2025-09-22T00:00:00Z"
 
 # Date updated
-lastmod: "2025-09-22T00:00:00Z"
+lastmod: "2026-11-20T00:00:00Z"
 
 draft: false
 featured: false
@@ -36,6 +36,21 @@ tags:
 
 categories:
 - Academic Life
+
+layout: academic_resource
+resource_group: teaching
+resource_order: 10
+resource_period: Fall 2024 & Spring 2025 student letters
+resource_context: These student letters come from Fall 2024 and Spring 2025. The course introduction reflects Fall 2025. The original letters are preserved below, grouped by semester;
+  their descriptions refer to those versions of the course.
+context_updated: '2026-11-20'
+resource_sections:
+- label: Course introduction
+  target: thinking-about-taking-journalism--law-journal-445
+- label: Spring 2025 letters
+  target: emilyspring-25
+- label: Fall 2024 letters
+  target: andre-fall-24
 ---
 
 ## Thinking about taking Journalism & Law (JOURNAL 445)? 

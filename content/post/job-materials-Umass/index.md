@@ -11,7 +11,7 @@ projects: []
 date: "2024-03-02T00:00:00Z"
 
 # Date updated
-lastmod: "2024-03-02T00:00:00Z"
+lastmod: "2026-11-20T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -38,6 +38,15 @@ tags:
 
 categories:
 - Academic Life
+
+layout: academic_resource
+resource_group: job-market
+resource_order: 30
+resource_period: 2023–24 application
+resource_context: These are my original application materials from the 2023–24 search that led to my UMass Amherst appointment in September 2024. The submitted materials are preserved
+  below.
+context_updated: '2026-11-20'
+companion_resource: /post/job-materials-depaul/
 ---
 
 Here are all of the job application materials I submitted to the Department of Journalism, University of Massachusetts, Amherst, where I will be an assistant professor in Media Law and Ethics starting September 1. 
