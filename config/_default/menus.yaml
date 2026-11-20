@@ -10,6 +10,9 @@ main:
   - name: Research
     url: '/research/'
     weight: 20
+  - name: Essays & Commentary
+    url: '/essays/'
+    weight: 25
   - name: Blog
     url: '#posts'
     weight: 30

@@ -113,6 +113,8 @@ Law & Policy division, March 15 8:00 a.m. – 9:45 a.m. <br>
 
 **<span style="color: black;">Opinion pieces</span>**
 
+[Explore Essays & Commentary](/essays/) or [subscribe to new essays on Substack](https://heesoojang.substack.com/?utm_source=heesoojang.com&utm_medium=website&utm_campaign=essays_commentary&utm_content=homepage_subscribe).
+
 - <i>[(Zeteo.com, 2024)](https://zeteo.com/p/south-korea-deeper-story-democracy-martial-law-yoon)</i> South Korea: The deeper story behind the unrest
 - <i>[(Bluesky, 2024)](https://bsky.app/profile/heesoojang.bsky.social/post/3lcfwf2fldc2e)</i> South Korea Is Fighting for Democracy Again—And the World Needs to Know
 - <i>[(The Diplomat, 2024)](https://thediplomat.com/2024/03/south-koreas-press-freedom-under-fire/)</i> South Korea’s Press Freedom Under Fire
